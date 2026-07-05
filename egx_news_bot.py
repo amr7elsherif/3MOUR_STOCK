@@ -63,16 +63,61 @@ def within_run_window(now: datetime) -> bool:
     return abs(minutes_now - minutes_target) <= RUN_WINDOW_MINUTES
 
 
-def fetch_rendered_html(url: str) -> str:
-    """Load a page with a real (headless) browser and return its final HTML.
+def parse_list_page(html: str):
+    """Parse one page of the bulletin list into [{title, link, date}, ...]."""
+    soup = BeautifulSoup(html, "html.parser")
+    items = []
+    for a in soup.select("a[href*='BulletinNews.aspx?BCODE=']"):
+        title = a.get_text(strip=True)
+        if not title:
+            continue
+        href = a["href"]
+        link = href if href.startswith("http") else "https://www.egx.com.eg/ar/" + href.lstrip("/")
+        date_text = ""
+        table = a.find_parent("table")
+        if table:
+            date_span = table.select_one(".Data span")
+            if date_span:
+                date_text = date_span.get_text(strip=True)
+        items.append({"title": title, "link": link, "date": date_text})
+    return items
 
-    EGX's site runs a JavaScript bot-detection challenge before showing the
-    real page (it sets a token/cookie via JS, then serves the actual
-    content). Plain `requests` can't execute that JavaScript, so we use a
-    headless Chromium browser via Playwright instead, which behaves like a
-    real visitor and gets past the challenge.
+
+def parse_detail_page(html: str):
+    """Parse one article's detail page into {summary, pdf_links}."""
+    soup = BeautifulSoup(html, "html.parser")
+
+    summary = ""
+    details_span = soup.select_one("#ctl00_C_BulletinNews1_lblDetails")
+    if details_span:
+        text = details_span.get_text(separator=" ", strip=True)
+        summary = text[:700] + ("..." if len(text) > 700 else "")
+
+    pdf_links = []
+    for a_tag in soup.select("a[href$='.pdf']"):
+        href = a_tag["href"]
+        label = a_tag.get_text(strip=True) or "PDF"
+        pdf_links.append({"label": label, "url": href})
+
+    return {"summary": summary, "pdf_links": pdf_links}
+
+
+def fetch_egx_news(today_only: bool = True, max_pages: int = 5):
+    """Scrape EGX's bulletin/news page end-to-end:
+      1. Walk the (possibly multi-page) list, collecting today's items.
+      2. Open each item's detail page for the full summary + any PDF links.
+
+    Uses a headless Chromium browser (via Playwright) throughout, since
+    EGX's site runs a JS bot-detection challenge that a plain HTTP request
+    can't get past. Pagination is done by literally clicking the page
+    links in the browser, the same way a human visitor would, rather than
+    reverse-engineering the ASP.NET postback mechanism.
     """
     from playwright.sync_api import sync_playwright
+
+    today_str = datetime.now(CAIRO_TZ).strftime("%d/%m/%Y")
+    collected = []
+    seen_links = set()
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
@@ -84,75 +129,69 @@ def fetch_rendered_html(url: str) -> str:
             locale="ar-EG",
         )
         page = context.new_page()
-        page.goto(url, wait_until="networkidle", timeout=45000)
-        # Give the challenge script a moment to finish and redirect/settle.
+        page.goto(EGX_NEWS_URL, wait_until="networkidle", timeout=45000)
         page.wait_for_timeout(4000)
-        html = page.content()
+
+        reached_older_news = False
+        for page_num in range(1, max_pages + 1):
+            html = page.content()
+            if page_num == 1:
+                print(f"DEBUG: page 1 response length = {len(html)} chars")
+                print(f"DEBUG: 'BulletinNews.aspx?BCODE=' present? "
+                      f"{'BulletinNews.aspx?BCODE=' in html}")
+
+            page_items = parse_list_page(html)
+            print(f"DEBUG: page {page_num} has {len(page_items)} item(s)")
+
+            for item in page_items:
+                if item["link"] in seen_links:
+                    continue
+                seen_links.add(item["link"])
+                if today_only and item["date"] and item["date"] != today_str:
+                    reached_older_news = True
+                    continue
+                collected.append(item)
+
+            # List is newest-first, so once we've seen an older item, every
+            # later item on later pages will be older too - stop paginating.
+            if reached_older_news or not today_only:
+                if reached_older_news:
+                    break
+
+            if len(collected) >= MAX_ARTICLES:
+                break
+
+            # Best-effort: click the next page number link if one exists.
+            next_page_num = str(page_num + 1)
+            next_link = page.locator(f"a:text-is('{next_page_num}')").first
+            if next_link.count() == 0:
+                print(f"DEBUG: no link found for page {next_page_num}, stopping pagination")
+                break
+            try:
+                next_link.click()
+                page.wait_for_load_state("networkidle", timeout=20000)
+                page.wait_for_timeout(2000)
+            except Exception as e:
+                print(f"DEBUG: couldn't click to page {next_page_num}: {e}")
+                break
+
+        collected = collected[:MAX_ARTICLES]
+
+        # Now open each article's own page for the full detail + PDFs.
+        for art in collected:
+            try:
+                page.goto(art["link"], wait_until="networkidle", timeout=30000)
+                page.wait_for_timeout(1500)
+                detail = parse_detail_page(page.content())
+                art["summary"] = detail["summary"]
+                art["pdf_links"] = detail["pdf_links"]
+            except Exception as e:
+                art["summary"] = f"(couldn't load article details: {e})"
+                art["pdf_links"] = []
+
         browser.close()
-    return html
 
-
-def fetch_egx_news(today_only: bool = True):
-    """Fetch and parse EGX's bulletin/news page.
-
-    Confirmed page structure (as of testing): each item is a small table
-    containing:
-      <a href="BulletinNews.aspx?BCODE=...&All="><span id="...lblTitle">TITLE</span></a>
-      ...
-      <span id="...lblDate">DD/MM/YYYY</span>
-
-    Bulletin items are already short, self-contained one-liners (e.g.
-    "ARVA.CA resumed trading"), so we use the title text itself as the
-    digest entry rather than fetching a separate "full article" page.
-    """
-    html = fetch_rendered_html(EGX_NEWS_URL)
-
-    print(f"DEBUG: response length = {len(html)} chars")
-    print(f"DEBUG: 'BulletinNews.aspx?BCODE=' present in response? "
-          f"{'BulletinNews.aspx?BCODE=' in html}")
-    print(f"DEBUG: first 500 chars of response:\n{html[:500]}")
-
-    soup = BeautifulSoup(html, "html.parser")
-
-    articles = []
-    today_str = datetime.now(CAIRO_TZ).strftime("%d/%m/%Y")
-
-    for a in soup.select("a[href*='BulletinNews.aspx?BCODE=']"):
-        title = a.get_text(strip=True)
-        if not title:
-            continue
-
-        href = a["href"]
-        if href.startswith("http"):
-            link = href
-        else:
-            link = "https://www.egx.com.eg/ar/" + href.lstrip("/")
-
-        date_text = ""
-        table = a.find_parent("table")
-        if table:
-            date_span = table.select_one(".Data span")
-            if date_span:
-                date_text = date_span.get_text(strip=True)
-
-        articles.append({"title": title, "link": link, "date": date_text})
-
-    # De-duplicate by link, preserve order
-    seen = set()
-    unique_articles = []
-    for art in articles:
-        if art["link"] not in seen:
-            seen.add(art["link"])
-            unique_articles.append(art)
-
-    if today_only:
-        todays = [a for a in unique_articles if a["date"] == today_str]
-        # Fall back to the full list if date filtering finds nothing
-        # (e.g. date format changes, or it's a non-trading day catch-up run).
-        if todays:
-            unique_articles = todays
-
-    return unique_articles[:MAX_ARTICLES]
+    return collected
 
 
 def send_telegram_message(text: str, token: str, chat_id: str):
@@ -182,7 +221,11 @@ def build_message(articles, now: datetime) -> str:
 
     for i, a in enumerate(articles, 1):
         lines.append(f"{i}. <b>{a['title']}</b>")
-        lines.append(f'<a href="{a["link"]}">رابط / Link</a>')
+        if a.get("summary"):
+            lines.append(a["summary"])
+        for pdf in a.get("pdf_links", []):
+            lines.append(f'📎 <a href="{pdf["url"]}">{pdf["label"]}</a>')
+        lines.append(f'<a href="{a["link"]}">رابط الصفحة / Page link</a>')
         lines.append("")
 
     return "\n".join(lines)
