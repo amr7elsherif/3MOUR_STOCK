@@ -63,6 +63,35 @@ def within_run_window(now: datetime) -> bool:
     return abs(minutes_now - minutes_target) <= RUN_WINDOW_MINUTES
 
 
+def fetch_rendered_html(url: str) -> str:
+    """Load a page with a real (headless) browser and return its final HTML.
+
+    EGX's site runs a JavaScript bot-detection challenge before showing the
+    real page (it sets a token/cookie via JS, then serves the actual
+    content). Plain `requests` can't execute that JavaScript, so we use a
+    headless Chromium browser via Playwright instead, which behaves like a
+    real visitor and gets past the challenge.
+    """
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
+        context = browser.new_context(
+            user_agent=HEADERS["User-Agent"],
+            locale="ar-EG",
+        )
+        page = context.new_page()
+        page.goto(url, wait_until="networkidle", timeout=45000)
+        # Give the challenge script a moment to finish and redirect/settle.
+        page.wait_for_timeout(4000)
+        html = page.content()
+        browser.close()
+    return html
+
+
 def fetch_egx_news(today_only: bool = True):
     """Fetch and parse EGX's bulletin/news page.
 
@@ -76,16 +105,14 @@ def fetch_egx_news(today_only: bool = True):
     "ARVA.CA resumed trading"), so we use the title text itself as the
     digest entry rather than fetching a separate "full article" page.
     """
-    resp = requests.get(EGX_NEWS_URL, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
+    html = fetch_rendered_html(EGX_NEWS_URL)
 
-    print(f"DEBUG: HTTP status = {resp.status_code}")
-    print(f"DEBUG: response length = {len(resp.text)} chars")
+    print(f"DEBUG: response length = {len(html)} chars")
     print(f"DEBUG: 'BulletinNews.aspx?BCODE=' present in response? "
-          f"{'BulletinNews.aspx?BCODE=' in resp.text}")
-    print(f"DEBUG: first 500 chars of response:\n{resp.text[:500]}")
+          f"{'BulletinNews.aspx?BCODE=' in html}")
+    print(f"DEBUG: first 500 chars of response:\n{html[:500]}")
 
-    soup = BeautifulSoup(resp.text, "html.parser")
+    soup = BeautifulSoup(html, "html.parser")
 
     articles = []
     today_str = datetime.now(CAIRO_TZ).strftime("%d/%m/%Y")
