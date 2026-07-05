@@ -1,8 +1,9 @@
 """
 EGX Daily News Bot
 -------------------
-Scrapes EGX's official bulletin/news page, and posts a digest of today's
-items to a Telegram chat/channel.
+Scrapes the news/disclosures page on the Egyptian Exchange (EGX) official
+site, writes a short summary for each item, and posts a digest to a
+Telegram chat/channel.
 
 Designed to run on a schedule (see .github/workflows/egx_news_bot.yml).
 It only actually sends a message on Egypt working days (Sun-Thu), close to
@@ -77,6 +78,13 @@ def fetch_egx_news(today_only: bool = True):
     """
     resp = requests.get(EGX_NEWS_URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
+
+    print(f"DEBUG: HTTP status = {resp.status_code}")
+    print(f"DEBUG: response length = {len(resp.text)} chars")
+    print(f"DEBUG: 'BulletinNews.aspx?BCODE=' present in response? "
+          f"{'BulletinNews.aspx?BCODE=' in resp.text}")
+    print(f"DEBUG: first 500 chars of response:\n{resp.text[:500]}")
+
     soup = BeautifulSoup(resp.text, "html.parser")
 
     articles = []
