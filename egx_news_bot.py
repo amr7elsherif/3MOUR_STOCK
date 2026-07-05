@@ -1,9 +1,8 @@
 """
 EGX Daily News Bot
 -------------------
-Scrapes the news/disclosures page on the Egyptian Exchange (EGX) official
-site, writes a short summary for each item, and posts a digest to a
-Telegram chat/channel.
+Scrapes EGX's official bulletin/news page, and posts a digest of today's
+items to a Telegram chat/channel.
 
 Designed to run on a schedule (see .github/workflows/egx_news_bot.yml).
 It only actually sends a message on Egypt working days (Sun-Thu), close to
@@ -19,7 +18,6 @@ See README.md for full setup instructions.
 """
 
 import os
-import re
 import sys
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -29,9 +27,11 @@ from bs4 import BeautifulSoup
 
 CAIRO_TZ = ZoneInfo("Africa/Cairo")
 
-# NOTE: EGX's own "search news" page. If EGX reorganizes the site, update
-# this URL. There is no official RSS/API as of writing.
-EGX_NEWS_URL = "https://www.egx.com.eg/en/newssearch.aspx"
+# NOTE: EGX's own bulletin/news page (Arabic version - this is the one
+# confirmed to work; the site's robots.txt blocks automated crawling of
+# some other pages). If EGX reorganizes the site, update this URL.
+# There is no official RSS/API as of writing.
+EGX_NEWS_URL = "https://www.egx.com.eg/ar/BulletinNews.aspx"
 
 TELEGRAM_API = "https://api.telegram.org/bot{token}/{method}"
 
@@ -62,82 +62,62 @@ def within_run_window(now: datetime) -> bool:
     return abs(minutes_now - minutes_target) <= RUN_WINDOW_MINUTES
 
 
-def fetch_egx_news():
-    """Fetch and parse the EGX news search page.
+def fetch_egx_news(today_only: bool = True):
+    """Fetch and parse EGX's bulletin/news page.
 
-    IMPORTANT: The selectors below are a best-effort guess. EGX's site
-    returned a bot-protection response when we tried to inspect it while
-    building this script, so we could not confirm the live markup.
-    Before relying on this in production:
-      1. Run this script once locally / in Actions and check the printed
-         debug output.
-      2. If `articles` comes back empty, open the URL above in a real
-         browser, use "Inspect element" on a news row, and update the
-         CSS selectors marked TODO below to match.
+    Confirmed page structure (as of testing): each item is a small table
+    containing:
+      <a href="BulletinNews.aspx?BCODE=...&All="><span id="...lblTitle">TITLE</span></a>
+      ...
+      <span id="...lblDate">DD/MM/YYYY</span>
+
+    Bulletin items are already short, self-contained one-liners (e.g.
+    "ARVA.CA resumed trading"), so we use the title text itself as the
+    digest entry rather than fetching a separate "full article" page.
     """
     resp = requests.get(EGX_NEWS_URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
     articles = []
+    today_str = datetime.now(CAIRO_TZ).strftime("%d/%m/%Y")
 
-    # TODO: adjust this selector to match the real news list container/rows.
-    candidate_rows = soup.select(
-        ".newsSearchResult, .news-item, .newsRow, table tr, .grid-row"
-    )
+    for a in soup.select("a[href*='BulletinNews.aspx?BCODE=']"):
+        title = a.get_text(strip=True)
+        if not title:
+            continue
 
-    for row in candidate_rows:
-        link_el = row.select_one("a[href]")
-        if not link_el:
-            continue
-        title = link_el.get_text(strip=True)
-        if not title or len(title) < 5:
-            continue
-        href = link_el["href"]
+        href = a["href"]
         if href.startswith("http"):
             link = href
         else:
-            link = "https://www.egx.com.eg" + (href if href.startswith("/") else "/" + href)
+            link = "https://www.egx.com.eg/ar/" + href.lstrip("/")
 
-        # TODO: adjust to the real date cell/class if present.
-        date_el = row.select_one(".date, .newsDate, td:nth-of-type(1)")
-        date_text = date_el.get_text(strip=True) if date_el else ""
+        date_text = ""
+        table = a.find_parent("table")
+        if table:
+            date_span = table.select_one(".Data span")
+            if date_span:
+                date_text = date_span.get_text(strip=True)
 
         articles.append({"title": title, "link": link, "date": date_text})
 
     # De-duplicate by link, preserve order
     seen = set()
     unique_articles = []
-    for a in articles:
-        if a["link"] not in seen:
-            seen.add(a["link"])
-            unique_articles.append(a)
+    for art in articles:
+        if art["link"] not in seen:
+            seen.add(art["link"])
+            unique_articles.append(art)
+
+    if today_only:
+        todays = [a for a in unique_articles if a["date"] == today_str]
+        # Fall back to the full list if date filtering finds nothing
+        # (e.g. date format changes, or it's a non-trading day catch-up run).
+        if todays:
+            unique_articles = todays
 
     return unique_articles[:MAX_ARTICLES]
-
-
-def summarize_text(text: str, max_sentences: int = 2) -> str:
-    text = re.sub(r"\s+", " ", text).strip()
-    if not text:
-        return ""
-    sentences = re.split(r"(?<=[.!?])\s+", text)
-    summary = " ".join(sentences[:max_sentences])
-    # keep it short for a Telegram digest
-    return summary[:400] + ("..." if len(summary) > 400 else "")
-
-
-def fetch_article_summary(url: str) -> str:
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=20)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
-
-        # TODO: adjust to the real article body container.
-        body = soup.select_one(".newsBody, .content, article, #main-content") or soup
-        text = body.get_text(" ", strip=True)
-        return summarize_text(text)
-    except Exception as e:
-        return f"(Couldn't fetch article body: {e})"
 
 
 def send_telegram_message(text: str, token: str, chat_id: str):
@@ -167,11 +147,7 @@ def build_message(articles, now: datetime) -> str:
 
     for i, a in enumerate(articles, 1):
         lines.append(f"{i}. <b>{a['title']}</b>")
-        if a.get("date"):
-            lines.append(f"🗓 {a['date']}")
-        if a.get("summary"):
-            lines.append(a["summary"])
-        lines.append(f'<a href="{a["link"]}">Read more</a>')
+        lines.append(f'<a href="{a["link"]}">رابط / Link</a>')
         lines.append("")
 
     return "\n".join(lines)
@@ -237,9 +213,7 @@ def main():
             print(f"Also failed to notify Telegram: {send_err}")
         raise
 
-    print(f"Found {len(articles)} article(s). Fetching summaries...")
-    for a in articles:
-        a["summary"] = fetch_article_summary(a["link"])
+    print(f"Found {len(articles)} article(s).")
 
     message = build_message(articles, now)
     print("Sending to Telegram...")
