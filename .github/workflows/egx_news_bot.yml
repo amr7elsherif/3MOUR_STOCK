@@ -1,0 +1,39 @@
+name: EGX Daily News Bot
+
+on:
+  schedule:
+    # Runs at 06:30 and 07:30 UTC, Sun-Thu (cron day-of-week: 0=Sun ... 4=Thu).
+    # 06:30 UTC = 09:30 Cairo during Egypt's summer time (UTC+3, roughly Apr-Oct)
+    # 07:30 UTC = 09:30 Cairo during Egypt's winter time (UTC+2, roughly Oct-Apr)
+    # The script itself checks the real Cairo wall-clock time and only sends
+    # once per day, so having both triggers active year-round is safe.
+    - cron: "30 6,7 * * 0,1,2,3,4"
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: "Send now regardless of day/time (for testing)"
+        required: false
+        default: "false"
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run EGX news bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FORCE_RUN: ${{ github.event.inputs.force_run == 'true' && '1' || '0' }}
+        run: python egx_news_bot.py
+
