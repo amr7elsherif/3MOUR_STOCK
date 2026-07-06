@@ -7,7 +7,7 @@ Telegram chat/channel.
 
 Designed to run on a schedule (see .github/workflows/egx_news_bot.yml).
 It only actually sends a message on Egypt working days (Sun-Thu), close to
-09:30 Africa/Cairo time -- and it re-checks the wall-clock time itself so
+09:45 Africa/Cairo time -- and it re-checks the wall-clock time itself so
 it keeps working correctly across Egypt's DST changes even if the
 scheduler that invokes it doesn't know about them.
 
@@ -19,6 +19,7 @@ See README.md for full setup instructions.
 """
 
 import os
+import re
 import sys
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -27,6 +28,28 @@ import requests
 from bs4 import BeautifulSoup
 
 CAIRO_TZ = ZoneInfo("Africa/Cairo")
+
+# Keywords that suggest a disclosure may be price-relevant (earnings,
+# dividends, capital changes, M&A). This is a simple keyword flag for
+# quick scanning only - NOT financial advice or a trading signal.
+SIGNIFICANT_KEYWORDS = [
+    "أرباح", "خساره", "خسارة", "خسائر",
+    "نتائج أعمال", "نتائج الأعمال",
+    "توزيعات",
+    "زيادة رأس المال", "زياده راس المال", "تخفيض رأس المال",
+    "استحواذ", "اندماج",
+]
+
+TICKER_RE = re.compile(r"\(([A-Z0-9]+\.CA)\)")
+
+
+def is_significant(text: str) -> bool:
+    return any(kw in text for kw in SIGNIFICANT_KEYWORDS)
+
+
+def extract_ticker(title: str) -> str:
+    m = TICKER_RE.search(title)
+    return m.group(1) if m else "-"
 
 # NOTE: EGX's own bulletin/news page (Arabic version - this is the one
 # confirmed to work; the site's robots.txt blocks automated crawling of
@@ -45,9 +68,9 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-MAX_ARTICLES = 10
-RUN_WINDOW_MINUTES = 20  # tolerance around the 09:30 Cairo target
-TARGET_HOUR, TARGET_MINUTE = 9, 30
+MAX_ARTICLES = 50
+RUN_WINDOW_MINUTES = 20  # tolerance around the 09:45 Cairo target
+TARGET_HOUR, TARGET_MINUTE = 9, 45
 
 
 def is_egypt_working_day(now: datetime) -> bool:
@@ -102,7 +125,7 @@ def parse_detail_page(html: str):
     return {"summary": summary, "pdf_links": pdf_links}
 
 
-def fetch_egx_news(today_only: bool = True, max_pages: int = 5):
+def fetch_egx_news(today_only: bool = True, max_pages: int = 10):
     """Scrape EGX's bulletin/news page end-to-end:
       1. Walk the (possibly multi-page) list, collecting today's items.
       2. Open each item's detail page for the full summary + any PDF links.
@@ -161,11 +184,30 @@ def fetch_egx_news(today_only: bool = True, max_pages: int = 5):
             if len(collected) >= MAX_ARTICLES:
                 break
 
-            # Best-effort: click the next page number link if one exists.
+            # Best-effort: find and click the next-page pager link.
+            # EGX's pager is a standard ASP.NET GridView pager, so page
+            # links usually fire via javascript:__doPostBack(...). We look
+            # for those first, and fall back to any link whose visible
+            # text matches the next page number.
             next_page_num = str(page_num + 1)
-            next_link = page.locator(f"a:text-is('{next_page_num}')").first
-            if next_link.count() == 0:
-                print(f"DEBUG: no link found for page {next_page_num}, stopping pagination")
+            postback_links = page.locator("a[href^='javascript:__doPostBack']")
+            pcount = postback_links.count()
+            pager_texts = [postback_links.nth(i).inner_text().strip() for i in range(pcount)]
+            print(f"DEBUG: page {page_num}: found {pcount} postback link(s): {pager_texts}")
+
+            next_link = None
+            for i in range(pcount):
+                if pager_texts[i] == next_page_num:
+                    next_link = postback_links.nth(i)
+                    break
+
+            if next_link is None:
+                fallback = page.locator(f"a:text-is('{next_page_num}')")
+                if fallback.count() > 0:
+                    next_link = fallback.first
+
+            if next_link is None:
+                print(f"DEBUG: no pager link found for page {next_page_num}, stopping pagination")
                 break
             try:
                 next_link.click()
@@ -219,8 +261,32 @@ def build_message(articles, now: datetime) -> str:
         lines.append("(This may mean the page structure changed — check the scraper.)")
         return "\n".join(lines)
 
+    # --- Summary table ---
+    lines.append("<b>📋 جدول ملخص</b>")
+    lines.append("<pre>")
+    lines.append(f"{'#':<3}{'السهم':<10}{'':<2}")
     for i, a in enumerate(articles, 1):
-        lines.append(f"{i}. <b>{a['title']}</b>")
+        combined_text = a["title"] + " " + a.get("summary", "")
+        flag = "🔥" if is_significant(combined_text) else "  "
+        ticker = extract_ticker(a["title"])
+        short_title = a["title"].strip()
+        if len(short_title) > 28:
+            short_title = short_title[:28] + "…"
+        lines.append(f"{i:<3}{ticker:<10}{flag} {short_title}")
+    lines.append("</pre>")
+    lines.append(
+        "🔥 = يحتوي على كلمات مرتبطة بالأرباح/الخسائر/التوزيعات/رأس المال/الاستحواذ "
+        "(للاطلاع فقط، وليس توصية استثمارية)."
+    )
+    lines.append("")
+    lines.append("――――――――――――――――――――")
+    lines.append("")
+
+    # --- Full details per item ---
+    for i, a in enumerate(articles, 1):
+        combined_text = a["title"] + " " + a.get("summary", "")
+        flag_prefix = "🔥 " if is_significant(combined_text) else ""
+        lines.append(f"{i}. {flag_prefix}<b>{a['title']}</b>")
         if a.get("summary"):
             lines.append(a["summary"])
         for pdf in a.get("pdf_links", []):
