@@ -122,6 +122,7 @@ def save_state(state: dict):
 EXCLUDE_PHRASES = [
     "ايقاف الورقة المالية",
     "إيقاف الورقة المالية",
+    "سندات",
 ]
 
 
