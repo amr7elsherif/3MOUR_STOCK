@@ -116,6 +116,19 @@ def save_state(state: dict):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
+# Titles containing these phrases are routine auto-generated notices (e.g.
+# automatic trading halts for exceeding the price-limit band), not real
+# company disclosures - they're filtered out entirely.
+EXCLUDE_PHRASES = [
+    "ايقاف الورقة المالية",
+    "إيقاف الورقة المالية",
+]
+
+
+def is_excluded(title: str) -> bool:
+    return any(phrase in title for phrase in EXCLUDE_PHRASES)
+
+
 def parse_list_page(html: str):
     """Parse one page of the bulletin list into [{title, link, date}, ...]."""
     soup = BeautifulSoup(html, "html.parser")
@@ -123,6 +136,8 @@ def parse_list_page(html: str):
     for a in soup.select("a[href*='BulletinNews.aspx?BCODE=']"):
         title = a.get_text(strip=True)
         if not title:
+            continue
+        if is_excluded(title):
             continue
         href = a["href"]
         link = href if href.startswith("http") else "https://www.egx.com.eg/ar/" + href.lstrip("/")
