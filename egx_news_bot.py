@@ -39,6 +39,7 @@ SIGNIFICANT_KEYWORDS = [
     "توزيعات",
     "زيادة رأس المال", "زياده راس المال", "تخفيض رأس المال",
     "استحواذ", "اندماج",
+    
 ]
 
 TICKER_RE = re.compile(r"\(([A-Z0-9]+\.CA)\)")
@@ -75,7 +76,7 @@ MAX_ARTICLES = 50
 # session from 09:30. Checks run from 09:45 through 15:00 Cairo time, every
 # 15 minutes (see the workflow's cron), as requested.
 MARKET_START_HOUR, MARKET_START_MINUTE = 9, 45
-MARKET_END_HOUR, MARKET_END_MINUTE = 15, 0
+MARKET_END_HOUR, MARKET_END_MINUTE = 17, 0
 
 # Where we remember which articles were already sent today, so repeated
 # 15-minute checks only report genuinely new items. This file is committed
