@@ -122,7 +122,6 @@ def save_state(state: dict):
 EXCLUDE_PHRASES = [
     "ايقاف الورقة المالية",
     "إيقاف الورقة المالية",
-    "سندات",
 ]
 
 
@@ -266,15 +265,28 @@ def fetch_egx_news(today_only: bool = True, max_pages: int = 10):
         collected = collected[:MAX_ARTICLES]
 
         # Now open each article's own page for the full detail + PDFs.
+        # A small pause before each visit + retries handles EGX occasionally
+        # resetting the connection when hit with rapid, back-to-back
+        # requests (looks like basic rate-limiting on their side).
         for art in collected:
-            try:
-                page.goto(art["link"], wait_until="networkidle", timeout=30000)
-                page.wait_for_timeout(1500)
-                detail = parse_detail_page(page.content())
-                art["summary"] = detail["summary"]
-                art["pdf_links"] = detail["pdf_links"]
-            except Exception as e:
-                art["summary"] = f"(couldn't load article details: {e})"
+            last_error = None
+            for attempt in range(1, 4):
+                page.wait_for_timeout(1500)  # brief pause before each visit
+                try:
+                    page.goto(art["link"], wait_until="domcontentloaded", timeout=30000)
+                    page.wait_for_timeout(1500)
+                    detail = parse_detail_page(page.content())
+                    art["summary"] = detail["summary"]
+                    art["pdf_links"] = detail["pdf_links"]
+                    last_error = None
+                    break
+                except Exception as e:
+                    last_error = e
+                    print(f"DEBUG: attempt {attempt} failed for {art['link']}: {e}")
+                    page.wait_for_timeout(3000 * attempt)  # back off before retrying
+
+            if last_error is not None:
+                art["summary"] = f"(couldn't load article details after retries: {last_error})"
                 art["pdf_links"] = []
 
         browser.close()
