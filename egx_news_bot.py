@@ -75,7 +75,7 @@ MAX_ARTICLES = 50
 # EGX's trading session is roughly 10:00-14:30 Cairo time, with the opening
 # session from 09:30. Checks run from 09:45 through 15:00 Cairo time, every
 # 15 minutes (see the workflow's cron), as requested.
-MARKET_START_HOUR, MARKET_START_MINUTE = 9, 45
+MARKET_START_HOUR, MARKET_START_MINUTE = 9, 30
 MARKET_END_HOUR, MARKET_END_MINUTE = 16, 0
 
 # Where we remember which articles were already sent today, so repeated
@@ -127,6 +127,7 @@ EXCLUDE_PHRASES = [
     "المحاسبات",
     "كوبون رقم",
     "الخزانة",
+    "نموذج تقرير إفصاح الشركة عن مجلس الادارةوهيكل المساهمين", 
 
 ]
 
