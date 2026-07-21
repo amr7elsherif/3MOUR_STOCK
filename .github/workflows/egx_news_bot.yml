@@ -7,7 +7,7 @@ on:
     # 07:30 UTC = 09:30 Cairo during Egypt's winter time (UTC+2, roughly Oct-Apr)
     # The script itself checks the real Cairo wall-clock time and only sends
     # once per day, so having both triggers active year-round is safe.
-    - cron: "*/15 6-13 * * 0,1,2,3,4"
+   
   workflow_dispatch:
     inputs:
       force_run:
