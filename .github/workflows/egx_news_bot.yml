@@ -1,14 +1,21 @@
 name: EGX Daily News Bot
 
 on:
-
-   
   workflow_dispatch:
     inputs:
       force_run:
         description: "Send now regardless of day/time (for testing)"
         required: false
         default: "false"
+
+# Only one run at a time, queued rather than overlapping, since each run
+# reads and writes the shared sent_state.json file.
+concurrency:
+  group: egx-news-bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write  # needed to commit the updated sent_state.json back
 
 jobs:
   run-bot:
@@ -17,31 +24,62 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
+      # Fast pre-check (a few seconds, no dependencies needed) so we don't
+      # waste Actions minutes installing Playwright/Chromium on every
+      # 15-minute tick from the external cron-job.org trigger - only when
+      # it's actually within the real Cairo trading-check window.
+      - name: Quick time check
+        id: timecheck
+        run: |
+          RESULT=$(python3 -c "
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo('Africa/Cairo'))
+          weekday_ok = now.weekday() not in (4, 5)
+          minutes_now = now.hour*60 + now.minute
+          start = 9*60 + 30
+          end = 15*60
+          freq_end = 11*60 + 30
+          in_window = start <= minutes_now <= end
+          if in_window and minutes_now > freq_end:
+              in_window = now.minute in (0, 30)
+          print('true' if (weekday_ok and in_window) else 'false')
+          ")
+          echo "proceed=$RESULT" >> "$GITHUB_OUTPUT"
+          echo "Current check: proceed=$RESULT"
+
       - name: Set up Python
+        if: steps.timecheck.outputs.proceed == 'true' || github.event.inputs.force_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      - name: Cache Playwright browsers
+        if: steps.timecheck.outputs.proceed == 'true' || github.event.inputs.force_run == 'true'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('requirements.txt') }}
+
       - name: Install dependencies
+        if: steps.timecheck.outputs.proceed == 'true' || github.event.inputs.force_run == 'true'
         run: |
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
       - name: Run EGX news bot
+        if: steps.timecheck.outputs.proceed == 'true' || github.event.inputs.force_run == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           FORCE_RUN: ${{ github.event.inputs.force_run == 'true' && '1' || '0' }}
         run: python egx_news_bot.py
 
-      # --- الخطوة الجديدة المضافة لحل مشكلة التكرار وظهور ملف الـ JSON ---
-      - name: Commit and Push state changes
+      - name: Commit updated state file (if changed)
+        if: steps.timecheck.outputs.proceed == 'true' || github.event.inputs.force_run == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          # التحقق من وجود الملف قبل محاولة رفعه لتجنب الأخطاء
-          if [ -f sent_state.json ]; then
-            git add sent_state.json
-            git commit -m "Update sent_state.json with latest processed news [skip ci]" || echo "No changes to commit"
-            git push
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sent_state.json
+          git diff --cached --quiet || git commit -m "Update sent articles state [skip ci]"
+          git push
