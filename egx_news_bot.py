@@ -144,8 +144,14 @@ def save_state(state: dict):
 # automatic trading halts for exceeding the price-limit band), not real
 # company disclosures - they're filtered out entirely.
 EXCLUDE_PHRASES = [
-    "ايقاف الورقة المالية",
+       "ايقاف الورقة المالية",
     "إيقاف الورقة المالية",
+    "سندات",
+    "المحاسبات",
+    "كوبون رقم",
+    "الخزانة",
+    "نموذج تقرير إفصاح للشركة عن مجلس", 
+
 ]
 
 
