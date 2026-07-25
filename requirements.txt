@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+playwright>=1.44
+Pillow>=10.0
+arabic-reshaper>=3.0
+python-bidi>=0.4
