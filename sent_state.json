@@ -1,4 +1,31 @@
 {
-  "date": "25/07/2026",
-  "sent_links": []
+  "date": "26/07/2026",
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341619&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341620&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341621&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341622&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341623&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341624&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341625&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341626&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341627&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341629&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341630&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341633&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341634&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341635&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة المنتهية في 31/12/2025",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341625&All=",
+      "ticker": "AFDI.CA"
+    },
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 31/12/2025",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341624&All=",
+      "ticker": "AFDI.CA"
+    }
+  ]
 }
