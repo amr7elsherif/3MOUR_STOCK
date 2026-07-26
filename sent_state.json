@@ -21,7 +21,9 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341640&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341641&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341642&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341643&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341643&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341644&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341645&All="
   ],
   "significant_articles": [
     {
@@ -33,6 +35,11 @@
       "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 31/12/2025",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341624&All=",
       "ticker": "AFDI.CA"
+    },
+    {
+      "title": "او جى كابيتال للاستثمارات ذات غرض اللاستحواذ (OCAP.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341644&All=",
+      "ticker": "OCAP.CA"
     }
   ]
 }
