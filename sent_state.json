@@ -1,46 +1,14 @@
 {
-  "date": "26/07/2026",
+  "date": "27/07/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341619&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341620&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341621&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341622&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341623&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341624&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341625&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341626&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341627&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341629&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341630&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341633&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341634&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341635&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341637&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341638&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341639&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341640&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341641&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341642&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341643&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341644&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341645&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341653&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341696&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341697&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341698&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341699&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341700&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341701&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341702&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341703&All="
   ],
-  "significant_articles": [
-    {
-      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة المنتهية في 31/12/2025",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341625&All=",
-      "ticker": "AFDI.CA"
-    },
-    {
-      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 31/12/2025",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341624&All=",
-      "ticker": "AFDI.CA"
-    },
-    {
-      "title": "او جى كابيتال للاستثمارات ذات غرض اللاستحواذ (OCAP.CA) بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341644&All=",
-      "ticker": "OCAP.CA"
-    }
-  ]
+  "significant_articles": []
 }
