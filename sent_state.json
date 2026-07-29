@@ -20,7 +20,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341851&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341852&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341853&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341854&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341854&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341855&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341856&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341857&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341858&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341859&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341860&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341861&All="
   ],
   "significant_articles": [
     {
@@ -47,6 +54,16 @@
       "title": "بنك كريدي اجريكول مصر (CIEB.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341837&All=",
       "ticker": "CIEB.CA"
+    },
+    {
+      "title": "بى اى جى للتجارة والاستثمار (BIGP.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341859&All=",
+      "ticker": "BIGP.CA"
+    },
+    {
+      "title": "بى اى جى للتجارة والاستثمار (BIGP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341858&All=",
+      "ticker": "BIGP.CA"
     }
   ]
 }
