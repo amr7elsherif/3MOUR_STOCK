@@ -1,28 +1,52 @@
 {
-  "date": "28/07/2026",
+  "date": "29/07/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341784&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341785&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341786&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341787&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341788&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341789&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341790&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341791&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341792&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341793&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341794&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341795&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341796&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341798&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341800&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341801&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341802&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341803&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341804&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341811&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341812&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341813&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341835&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341836&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341837&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341838&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341839&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341840&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341841&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341842&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341843&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341844&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341845&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341846&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341847&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341848&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341849&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341850&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341851&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341852&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341853&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341854&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "فيوتشر كير للصناعات الطبية (FCMD.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341852&All=",
+      "ticker": "FCMD.CA"
+    },
+    {
+      "title": "ارابيا انفستمنتس هولدنج (AIHC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341846&All=",
+      "ticker": "AIHC.CA"
+    },
+    {
+      "title": "الاتحاد الصيدلي للخدمات الطبية والاستثمار (UPMS.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341842&All=",
+      "ticker": "UPMS.CA"
+    },
+    {
+      "title": "بنك كريدي اجريكول مصر (CIEB.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341838&All=",
+      "ticker": "CIEB.CA"
+    },
+    {
+      "title": "بنك كريدي اجريكول مصر (CIEB.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341837&All=",
+      "ticker": "CIEB.CA"
+    }
+  ]
 }
