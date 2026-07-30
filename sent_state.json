@@ -15,7 +15,17 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341918&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341919&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341920&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341921&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341921&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341922&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341923&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341924&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341925&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "هيبكو للاستثمارات التجارية والتنمية العقارية (HBCO.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=341925&All=",
+      "ticker": "HBCO.CA"
+    }
+  ]
 }
