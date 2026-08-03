@@ -10,7 +10,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342040&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342041&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342042&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342043&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342043&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342044&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342045&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342046&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342047&All="
   ],
   "significant_articles": [
     {
@@ -22,6 +26,11 @@
       "title": "الشرقية الوطنية للامن الغذائي (SNFC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342034&All=",
       "ticker": "SNFC.CA"
+    },
+    {
+      "title": "مصرف أبو ظبى الاسلامى - مصر (ADIB.CA) بيان من البنك",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342047&All=",
+      "ticker": "ADIB.CA"
     }
   ]
 }
