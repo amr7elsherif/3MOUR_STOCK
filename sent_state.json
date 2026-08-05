@@ -1,28 +1,23 @@
 {
-  "date": "04/08/2026",
+  "date": "05/08/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342088&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342089&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342090&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342091&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342092&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342093&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342094&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342095&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342096&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342097&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342098&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342099&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342100&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342106&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342115&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342116&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342136&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342137&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342138&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342139&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342140&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342141&All="
   ],
   "significant_articles": [
     {
-      "title": "تايكون انفستمنتس هولدنج (TYCN.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342093&All=",
-      "ticker": "TYCN.CA"
+      "title": "جهينة للصناعات الغذائية (JUFO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342138&All=",
+      "ticker": "JUFO.CA"
+    },
+    {
+      "title": "جهينة للصناعات الغذائية (JUFO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342137&All=",
+      "ticker": "JUFO.CA"
     }
   ]
 }
