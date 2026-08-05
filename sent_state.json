@@ -6,7 +6,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342138&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342139&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342140&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342141&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342141&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342142&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342143&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342144&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342145&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342146&All="
   ],
   "significant_articles": [
     {
@@ -18,6 +23,16 @@
       "title": "جهينة للصناعات الغذائية (JUFO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342137&All=",
       "ticker": "JUFO.CA"
+    },
+    {
+      "title": "اسباير كابيتال القابضة للاستثمارات المالية (ASPI.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342146&All=",
+      "ticker": "ASPI.CA"
+    },
+    {
+      "title": "اسباير كابيتال القابضة للاستثمارات المالية (ASPI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342145&All=",
+      "ticker": "ASPI.CA"
     }
   ]
 }
