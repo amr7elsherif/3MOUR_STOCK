@@ -17,7 +17,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342200&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342201&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342202&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342203&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342203&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342204&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342205&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342206&All="
   ],
   "significant_articles": [
     {
@@ -39,6 +42,16 @@
       "title": "مصر للاسمنت - قنا (MCQE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342193&All=",
       "ticker": "MCQE.CA"
+    },
+    {
+      "title": "(مصر انتركوننتال لصناعة الجرانيت والرخام (ايجى ستون (MISR.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342205&All=",
+      "ticker": "MISR.CA"
+    },
+    {
+      "title": "(مصر انتركوننتال لصناعة الجرانيت والرخام (ايجى ستون (MISR.CA) تعلن نتائج أعمالها  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342204&All=",
+      "ticker": "MISR.CA"
     }
   ]
 }
