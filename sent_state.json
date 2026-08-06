@@ -1,50 +1,24 @@
 {
-  "date": "05/08/2026",
+  "date": "06/08/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342136&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342137&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342138&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342139&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342140&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342141&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342142&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342143&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342144&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342145&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342146&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342148&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342149&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342150&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342151&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342152&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342153&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342154&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342159&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342172&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342173&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342174&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342175&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342185&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342187&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342188&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342189&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342190&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342191&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342192&All="
   ],
   "significant_articles": [
     {
-      "title": "جهينة للصناعات الغذائية (JUFO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342138&All=",
-      "ticker": "JUFO.CA"
+      "title": "مينا فارم للأدوية و الصناعات الكيماوية (MIPH.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342192&All=",
+      "ticker": "MIPH.CA"
     },
     {
-      "title": "جهينة للصناعات الغذائية (JUFO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342137&All=",
-      "ticker": "JUFO.CA"
-    },
-    {
-      "title": "اسباير كابيتال القابضة للاستثمارات المالية (ASPI.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342146&All=",
-      "ticker": "ASPI.CA"
-    },
-    {
-      "title": "اسباير كابيتال القابضة للاستثمارات المالية (ASPI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/01/2026 إلى 31/03/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342145&All=",
-      "ticker": "ASPI.CA"
+      "title": "العز للسيراميك و البورسلين - الجوهره (ECAP.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342188&All=",
+      "ticker": "ECAP.CA"
     }
   ]
 }
