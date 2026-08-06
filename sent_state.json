@@ -7,7 +7,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342189&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342190&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342191&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342192&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342192&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342193&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342194&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342195&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342196&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342197&All="
   ],
   "significant_articles": [
     {
@@ -19,6 +24,16 @@
       "title": "العز للسيراميك و البورسلين - الجوهره (ECAP.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342188&All=",
       "ticker": "ECAP.CA"
+    },
+    {
+      "title": "مصر للاسمنت - قنا (MCQE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342196&All=",
+      "ticker": "MCQE.CA"
+    },
+    {
+      "title": "مصر للاسمنت - قنا (MCQE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342193&All=",
+      "ticker": "MCQE.CA"
     }
   ]
 }
