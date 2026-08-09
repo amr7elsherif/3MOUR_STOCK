@@ -20,7 +20,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342263&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342264&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342265&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342269&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342266&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342267&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342268&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342269&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342270&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342271&All="
   ],
   "significant_articles": [
     {
@@ -36,6 +41,11 @@
     {
       "title": "إعمار مصر للتنمية (EMFD.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342265&All=",
+      "ticker": "EMFD.CA"
+    },
+    {
+      "title": "إعمار مصر للتنمية (EMFD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342267&All=",
       "ticker": "EMFD.CA"
     }
   ]
