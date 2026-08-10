@@ -1,4 +1,23 @@
 {
   "date": "10/08/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342316&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342317&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342318&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342319&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342320&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342321&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "يو للتمويل الاستهلاكى (VALU.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342320&All=",
+      "ticker": "VALU.CA"
+    },
+    {
+      "title": "اية كابيتال القابضة (ACAP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342316&All=",
+      "ticker": "ACAP.CA"
+    }
+  ]
 }
