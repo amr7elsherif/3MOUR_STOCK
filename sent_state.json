@@ -15,7 +15,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342379&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342380&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342381&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342382&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342382&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342383&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342384&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342385&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342386&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342387&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342388&All="
   ],
   "significant_articles": [
     {
@@ -27,6 +33,16 @@
       "title": "الوطنية للاسكان للنقابات المهنية (NHPS.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342376&All=",
       "ticker": "NHPS.CA"
+    },
+    {
+      "title": "بنك البركة مصر (SAUD.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342387&All=",
+      "ticker": "SAUD.CA"
+    },
+    {
+      "title": "بنك البركة مصر (SAUD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342386&All=",
+      "ticker": "SAUD.CA"
     }
   ]
 }
