@@ -1,30 +1,32 @@
 {
-  "date": "10/08/2026",
+  "date": "11/08/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342316&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342317&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342318&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342319&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342320&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342321&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342322&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342323&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342324&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342325&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342326&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342327&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342328&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342368&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342369&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342370&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342371&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342372&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342373&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342374&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342375&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342376&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342377&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342378&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342379&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342380&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342381&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342382&All="
   ],
   "significant_articles": [
     {
-      "title": "يو للتمويل الاستهلاكى (VALU.CA) - بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342320&All=",
-      "ticker": "VALU.CA"
+      "title": "دلتا للطباعة والتغليف (DTPP.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342381&All=",
+      "ticker": "DTPP.CA"
     },
     {
-      "title": "اية كابيتال القابضة (ACAP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342316&All=",
-      "ticker": "ACAP.CA"
+      "title": "الوطنية للاسكان للنقابات المهنية (NHPS.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342376&All=",
+      "ticker": "NHPS.CA"
     }
   ]
 }
