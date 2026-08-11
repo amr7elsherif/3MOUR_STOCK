@@ -21,7 +21,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342385&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342386&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342387&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342388&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342388&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342389&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342390&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342391&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342392&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342393&All="
   ],
   "significant_articles": [
     {
@@ -43,6 +48,16 @@
       "title": "بنك البركة مصر (SAUD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342386&All=",
       "ticker": "SAUD.CA"
+    },
+    {
+      "title": "سماد مصر (ايجيفرت) (SMFR.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342393&All=",
+      "ticker": "SMFR.CA"
+    },
+    {
+      "title": "سماد مصر (ايجيفرت) (SMFR.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342392&All=",
+      "ticker": "SMFR.CA"
     }
   ]
 }
