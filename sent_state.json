@@ -26,7 +26,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342390&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342391&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342392&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342393&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342393&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342394&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342395&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342396&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342397&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342398&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342399&All="
   ],
   "significant_articles": [
     {
@@ -58,6 +64,11 @@
       "title": "سماد مصر (ايجيفرت) (SMFR.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342392&All=",
       "ticker": "SMFR.CA"
+    },
+    {
+      "title": "عبور لاند للصناعات الغذائية (OLFI.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342394&All=",
+      "ticker": "OLFI.CA"
     }
   ]
 }
