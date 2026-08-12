@@ -65,7 +65,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342530&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342533&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342541&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342551&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342551&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342552&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342553&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342554&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342555&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342556&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342557&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342558&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342559&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342561&All="
   ],
   "significant_articles": [
     {
@@ -172,6 +181,21 @@
       "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342505&All=",
       "ticker": "ATLC.CA"
+    },
+    {
+      "title": "مطاحن وسط وغرب الدلتا (WCDF.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342561&All=",
+      "ticker": "WCDF.CA"
+    },
+    {
+      "title": "عبر المحيطات للسياحه (TRTO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342558&All=",
+      "ticker": "TRTO.CA"
+    },
+    {
+      "title": "عبر المحيطات للسياحه (TRTO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342556&All=",
+      "ticker": "TRTO.CA"
     }
   ]
 }
