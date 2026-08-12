@@ -45,7 +45,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342501&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342502&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342503&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342504&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342504&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342505&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342506&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342507&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342508&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342509&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342510&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342511&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342512&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342513&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342514&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342515&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342516&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342518&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342519&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342522&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342527&All="
   ],
   "significant_articles": [
     {
@@ -132,6 +148,26 @@
       "title": "النساجون الشرقيون للسجاد (ORWE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342497&All=",
       "ticker": "ORWE.CA"
+    },
+    {
+      "title": "اوراسكوم للتنمية مصر (ORHD.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342516&All=",
+      "ticker": "ORHD.CA"
+    },
+    {
+      "title": "اوراسكوم للتنمية مصر (ORHD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342513&All=",
+      "ticker": "ORHD.CA"
+    },
+    {
+      "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342511&All=",
+      "ticker": "EFIH.CA"
+    },
+    {
+      "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342505&All=",
+      "ticker": "ATLC.CA"
     }
   ]
 }
