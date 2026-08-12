@@ -20,7 +20,21 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342476&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342477&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342478&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342479&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342479&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342480&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342481&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342482&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342483&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342484&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342485&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342486&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342487&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342488&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342489&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342490&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342491&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342492&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342493&All="
   ],
   "significant_articles": [
     {
@@ -67,6 +81,31 @@
       "title": "المصرية للدواجن (EPCO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342461&All=",
       "ticker": "EPCO.CA"
+    },
+    {
+      "title": "الدلتا للسكر (SUGR.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342490&All=",
+      "ticker": "SUGR.CA"
+    },
+    {
+      "title": "الغربية الاسلامية للتنمية العمرانية (GIHD.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342489&All=",
+      "ticker": "GIHD.CA"
+    },
+    {
+      "title": "يونيفرسال لصناعة مواد التعبئة و التغليف و الورق - يونيباك (UNIP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342486&All=",
+      "ticker": "UNIP.CA"
+    },
+    {
+      "title": "يونيفرسال لصناعة مواد التعبئة و التغليف و الورق - يونيباك (UNIP.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342484&All=",
+      "ticker": "UNIP.CA"
+    },
+    {
+      "title": "زهراء المعادي للاستثمار والتعمير (ZMID.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342483&All=",
+      "ticker": "ZMID.CA"
     }
   ]
 }
