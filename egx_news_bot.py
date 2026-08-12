@@ -86,7 +86,7 @@ MAX_ARTICLES = 50
 # EGX's trading session is roughly 10:00-14:30 Cairo time, with the opening
 # session from 09:30. Checks run from 09:30 through 15:00 Cairo time, every
 # 30 minutes (see the workflow's cron / cron-job.org schedule).
-MARKET_START_HOUR, MARKET_START_MINUTE = 9, 00
+MARKET_START_HOUR, MARKET_START_MINUTE = 8, 00
 MARKET_END_HOUR, MARKET_END_MINUTE = 15, 0
 
 # For the first 2 hours of the window, check every 15 minutes (news tends
