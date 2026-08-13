@@ -1,6 +1,8 @@
 {
   "date": "13/08/2026",
   "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342614&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342615&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342616&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342617&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342618&All=",
@@ -20,7 +22,25 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342633&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342634&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342635&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342636&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342636&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342637&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342638&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342639&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342640&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342641&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342642&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342643&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342644&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342645&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342646&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342647&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342648&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342649&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342650&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342651&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342652&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342653&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342654&All="
   ],
   "significant_articles": [
     {
@@ -32,6 +52,51 @@
       "title": "سيدى كرير للبتروكيماويات - سيدبك (SKPC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342626&All=",
       "ticker": "SKPC.CA"
+    },
+    {
+      "title": "كفر الزيات للمبيدات والكيماويات (KZPC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342651&All=",
+      "ticker": "KZPC.CA"
+    },
+    {
+      "title": "كفر الزيات للمبيدات والكيماويات (KZPC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342649&All=",
+      "ticker": "KZPC.CA"
+    },
+    {
+      "title": "سبأ الدولية للأدوية والصناعات الكيماوية (SIPC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342645&All=",
+      "ticker": "SIPC.CA"
+    },
+    {
+      "title": "فوري لتكنولوجيا البنوك والمدفوعات الالكترونية (FWRY.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342644&All=",
+      "ticker": "FWRY.CA"
+    },
+    {
+      "title": "مصر للاسواق الحرة (MFSC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342641&All=",
+      "ticker": "MFSC.CA"
+    },
+    {
+      "title": "فوري لتكنولوجيا البنوك والمدفوعات الالكترونية (FWRY.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342640&All=",
+      "ticker": "FWRY.CA"
+    },
+    {
+      "title": "مصر للاسواق الحرة (MFSC.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342639&All=",
+      "ticker": "MFSC.CA"
+    },
+    {
+      "title": "الاسكندرية للخدمات الطبية - المركز الطبى الجديد - الاسكندرية (AMES.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342637&All=",
+      "ticker": "AMES.CA"
+    },
+    {
+      "title": "النعيم القابضة للاستثمارات (NAHO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342614&All=",
+      "ticker": "NAHO.CA"
     }
   ]
 }
