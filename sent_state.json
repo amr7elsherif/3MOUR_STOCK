@@ -1,201 +1,37 @@
 {
-  "date": "12/08/2026",
+  "date": "13/08/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342460&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342461&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342462&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342463&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342464&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342465&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342466&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342467&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342468&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342469&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342470&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342471&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342472&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342473&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342474&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342475&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342476&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342477&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342478&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342479&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342480&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342481&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342482&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342483&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342484&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342485&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342486&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342487&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342488&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342489&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342490&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342491&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342492&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342493&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342494&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342495&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342496&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342497&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342498&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342499&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342500&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342501&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342502&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342503&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342504&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342505&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342506&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342507&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342508&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342509&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342510&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342511&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342512&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342513&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342514&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342515&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342516&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342518&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342519&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342522&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342527&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342530&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342533&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342541&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342551&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342552&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342553&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342554&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342555&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342556&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342557&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342558&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342559&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342561&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342616&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342617&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342618&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342619&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342620&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342621&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342622&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342623&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342624&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342625&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342626&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342627&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342628&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342630&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342631&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342632&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342633&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342634&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342635&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342636&All="
   ],
   "significant_articles": [
     {
-      "title": "مجموعة النعيم العقارية القابضة (NARE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342478&All=",
-      "ticker": "NARE.CA"
+      "title": "المصرية للأقمار الصناعية (نايل سات) (EGSA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342627&All=",
+      "ticker": "EGSA.CA"
     },
     {
-      "title": "مجموعة النعيم العقارية القابضة (NARE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342475&All=",
-      "ticker": "NARE.CA"
-    },
-    {
-      "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342472&All=",
-      "ticker": "EFIH.CA"
-    },
-    {
-      "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342470&All=",
-      "ticker": "EFIH.CA"
-    },
-    {
-      "title": "وثائق صندوق استثمار أودن للاستثمار في الاسهم المصرية -كسب (KASABF.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342469&All=",
-      "ticker": "KASABF.CA"
-    },
-    {
-      "title": "توسع للتخصيم (TWSA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342466&All=",
-      "ticker": "TWSA.CA"
-    },
-    {
-      "title": "العربية للصناعات الهندسية (EEII.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342465&All=",
-      "ticker": "EEII.CA"
-    },
-    {
-      "title": "المصرية للدواجن (EPCO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342463&All=",
-      "ticker": "EPCO.CA"
-    },
-    {
-      "title": "المصرية للدواجن (EPCO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342461&All=",
-      "ticker": "EPCO.CA"
-    },
-    {
-      "title": "الدلتا للسكر (SUGR.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342490&All=",
-      "ticker": "SUGR.CA"
-    },
-    {
-      "title": "الغربية الاسلامية للتنمية العمرانية (GIHD.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342489&All=",
-      "ticker": "GIHD.CA"
-    },
-    {
-      "title": "يونيفرسال لصناعة مواد التعبئة و التغليف و الورق - يونيباك (UNIP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342486&All=",
-      "ticker": "UNIP.CA"
-    },
-    {
-      "title": "يونيفرسال لصناعة مواد التعبئة و التغليف و الورق - يونيباك (UNIP.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342484&All=",
-      "ticker": "UNIP.CA"
-    },
-    {
-      "title": "زهراء المعادي للاستثمار والتعمير (ZMID.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342483&All=",
-      "ticker": "ZMID.CA"
-    },
-    {
-      "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342502&All=",
-      "ticker": "ATLC.CA"
-    },
-    {
-      "title": "النساجون الشرقيون للسجاد (ORWE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342498&All=",
-      "ticker": "ORWE.CA"
-    },
-    {
-      "title": "النساجون الشرقيون للسجاد (ORWE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342497&All=",
-      "ticker": "ORWE.CA"
-    },
-    {
-      "title": "اوراسكوم للتنمية مصر (ORHD.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342516&All=",
-      "ticker": "ORHD.CA"
-    },
-    {
-      "title": "اوراسكوم للتنمية مصر (ORHD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342513&All=",
-      "ticker": "ORHD.CA"
-    },
-    {
-      "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) - بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342511&All=",
-      "ticker": "EFIH.CA"
-    },
-    {
-      "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342505&All=",
-      "ticker": "ATLC.CA"
-    },
-    {
-      "title": "مطاحن وسط وغرب الدلتا (WCDF.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342561&All=",
-      "ticker": "WCDF.CA"
-    },
-    {
-      "title": "عبر المحيطات للسياحه (TRTO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342558&All=",
-      "ticker": "TRTO.CA"
-    },
-    {
-      "title": "عبر المحيطات للسياحه (TRTO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342556&All=",
-      "ticker": "TRTO.CA"
+      "title": "سيدى كرير للبتروكيماويات - سيدبك (SKPC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342626&All=",
+      "ticker": "SKPC.CA"
     }
   ]
 }
