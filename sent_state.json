@@ -57,7 +57,34 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342668&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342669&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342670&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342671&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342671&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342672&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342673&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342674&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342675&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342676&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342677&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342678&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342679&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342680&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342681&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342682&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342683&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342684&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342685&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342686&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342687&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342688&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342689&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342690&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342691&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342692&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342693&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342696&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342701&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342703&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=62877&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=62878&All="
   ],
   "significant_articles": [
     {
@@ -129,6 +156,46 @@
       "title": "المجموعه المصريه العقاريه (AREH.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342668&All=",
       "ticker": "AREH.CA"
+    },
+    {
+      "title": "الفنار للمقاولات العمومية والإنشاءات والتجارة والاستيراد (FNAR.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342687&All=",
+      "ticker": "FNAR.CA"
+    },
+    {
+      "title": "راية القابضة للأستثمارات المالية (RAYA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342684&All=",
+      "ticker": "RAYA.CA"
+    },
+    {
+      "title": "راية القابضة للأستثمارات المالية (RAYA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342682&All=",
+      "ticker": "RAYA.CA"
+    },
+    {
+      "title": "البنك المصري الخليجي (EGBE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342679&All=",
+      "ticker": "EGBE.CA"
+    },
+    {
+      "title": "اودن للاستثمارات المالية (ODIN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342678&All=",
+      "ticker": "ODIN.CA"
+    },
+    {
+      "title": "البنك المصري الخليجي (EGBE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342676&All=",
+      "ticker": "EGBE.CA"
+    },
+    {
+      "title": "كونتكت المالية القابضة (CNFN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342675&All=",
+      "ticker": "CNFN.CA"
+    },
+    {
+      "title": "كونتكت المالية القابضة (CNFN.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342674&All=",
+      "ticker": "CNFN.CA"
     }
   ]
 }
