@@ -40,7 +40,24 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342651&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342652&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342653&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342654&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342654&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342655&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342656&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342657&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342658&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342659&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342660&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342661&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342662&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342663&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342664&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342665&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342666&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342667&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342668&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342669&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342670&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342671&All="
   ],
   "significant_articles": [
     {
@@ -97,6 +114,21 @@
       "title": "النعيم القابضة للاستثمارات (NAHO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342614&All=",
       "ticker": "NAHO.CA"
+    },
+    {
+      "title": "اودن للاستثمارات المالية (ODIN.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342671&All=",
+      "ticker": "ODIN.CA"
+    },
+    {
+      "title": "ابوقير للاسمدة والصناعات الكيماوية (ABUK.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342669&All=",
+      "ticker": "ABUK.CA"
+    },
+    {
+      "title": "المجموعه المصريه العقاريه (AREH.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342668&All=",
+      "ticker": "AREH.CA"
     }
   ]
 }
