@@ -20,7 +20,22 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342828&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342829&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342830&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342831&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342831&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342832&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342833&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342834&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342835&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342836&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342837&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342838&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342839&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342840&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342841&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342842&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342843&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342844&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342845&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342846&All="
   ],
   "significant_articles": [
     {
@@ -37,6 +52,41 @@
       "title": "مصر الوطنية للصلب - عتاقة (ATQA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342822&All=",
       "ticker": "ATQA.CA"
+    },
+    {
+      "title": "العربيه وبولفارا للغزل والنسيج - يونيراب (APSW.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342844&All=",
+      "ticker": "APSW.CA"
+    },
+    {
+      "title": "اصول E.S.B. للوساطة في الاوراق المالية (EBSC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342842&All=",
+      "ticker": "EBSC.CA"
+    },
+    {
+      "title": "الكابلات الكهربائية المصرية (ELEC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342839&All=",
+      "ticker": "ELEC.CA"
+    },
+    {
+      "title": "الاسكندرية للزيوت المعدنية (AMOC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342838&All=",
+      "ticker": "AMOC.CA"
+    },
+    {
+      "title": "العاشر من رمضان للصناعات الدوائية والمستحضرات تشخيصية-راميدا (RMDA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342836&All=",
+      "ticker": "RMDA.CA"
+    },
+    {
+      "title": "الاسكندرية للزيوت المعدنية (AMOC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342835&All=",
+      "ticker": "AMOC.CA"
+    },
+    {
+      "title": "مصر للفنادق (MHOT.CA) تعلن نتائج أعمالها  عن السنة المالية المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342833&All=",
+      "ticker": "MHOT.CA"
     }
   ]
 }
