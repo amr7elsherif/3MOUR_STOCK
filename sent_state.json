@@ -54,7 +54,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342865&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342866&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342867&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342873&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342873&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342884&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342885&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342886&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342887&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342888&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342889&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342890&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342892&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=62890&All="
   ],
   "significant_articles": [
     {
@@ -136,6 +145,16 @@
       "title": "العروبة للسمسرة فى الأوراق المالية (EOSB.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342865&All=",
       "ticker": "EOSB.CA"
+    },
+    {
+      "title": "جي بي آي للنمو العمرانيGPI FOR URBAN GROWTH (GPIM.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342885&All=",
+      "ticker": "GPIM.CA"
+    },
+    {
+      "title": "العربية للصناعات الهندسية(EEII.CA)تقديم مستندات قيد اسهم زيادة راس المال المصدر و المدفوع ( زيادة مجانية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=62890&All=",
+      "ticker": "EEII.CA"
     }
   ]
 }
