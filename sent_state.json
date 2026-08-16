@@ -49,7 +49,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342858&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342859&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342860&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342861&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342861&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342862&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342865&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342866&All="
   ],
   "significant_articles": [
     {
@@ -126,6 +129,11 @@
       "title": "اسمنت سيناء (SCEM.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342859&All=",
       "ticker": "SCEM.CA"
+    },
+    {
+      "title": "العروبة للسمسرة فى الأوراق المالية (EOSB.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342865&All=",
+      "ticker": "EOSB.CA"
     }
   ]
 }
