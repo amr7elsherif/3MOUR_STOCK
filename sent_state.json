@@ -35,7 +35,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342843&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342844&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342845&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342846&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342846&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342847&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342848&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342850&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342851&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342852&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342853&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342854&All="
   ],
   "significant_articles": [
     {
@@ -87,6 +94,21 @@
       "title": "مصر للفنادق (MHOT.CA) تعلن نتائج أعمالها  عن السنة المالية المنتهية في 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342833&All=",
       "ticker": "MHOT.CA"
+    },
+    {
+      "title": "ليسيكو مصر (LCSW.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342854&All=",
+      "ticker": "LCSW.CA"
+    },
+    {
+      "title": "ليسيكو مصر (LCSW.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342853&All=",
+      "ticker": "LCSW.CA"
+    },
+    {
+      "title": "مرسيليا المصرية الخليجية للاستثمار العقارى (MAAL.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342848&All=",
+      "ticker": "MAAL.CA"
     }
   ]
 }
