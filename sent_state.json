@@ -42,7 +42,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342851&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342852&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342853&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342854&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342854&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342855&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342856&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342857&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342858&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342859&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342860&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342861&All="
   ],
   "significant_articles": [
     {
@@ -109,6 +116,16 @@
       "title": "مرسيليا المصرية الخليجية للاستثمار العقارى (MAAL.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342848&All=",
       "ticker": "MAAL.CA"
+    },
+    {
+      "title": "اسمنت سيناء (SCEM.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342860&All=",
+      "ticker": "SCEM.CA"
+    },
+    {
+      "title": "اسمنت سيناء (SCEM.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342859&All=",
+      "ticker": "SCEM.CA"
     }
   ]
 }
