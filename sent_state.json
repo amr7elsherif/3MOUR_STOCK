@@ -19,7 +19,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342940&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342941&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342942&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342943&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342943&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342944&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342945&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342946&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342947&All="
   ],
   "significant_articles": [
     {
@@ -41,6 +45,11 @@
       "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) بيان من الهيئة العامة للرقابة المالية",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342925&All=",
       "ticker": "LUTS.CA"
+    },
+    {
+      "title": "مينا فارم للأدوية و الصناعات الكيماوية (MIPH.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342946&All=",
+      "ticker": "MIPH.CA"
     }
   ]
 }
