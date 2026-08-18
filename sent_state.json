@@ -20,13 +20,39 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343074&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343075&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343076&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343077&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343077&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343078&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343079&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343080&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343081&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343082&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343083&All="
   ],
   "significant_articles": [
     {
       "title": "الشرقية - ايسترن كومباني (EAST.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343066&All=",
       "ticker": "EAST.CA"
+    },
+    {
+      "title": "المصرية للمنتجعات السياحية (EGTS.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343083&All=",
+      "ticker": "EGTS.CA"
+    },
+    {
+      "title": "المصرية للمنتجعات السياحية (EGTS.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343082&All=",
+      "ticker": "EGTS.CA"
+    },
+    {
+      "title": "الجيزةالعامة للمقاولات والاستثمارالعقارى (GGCC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343080&All=",
+      "ticker": "GGCC.CA"
+    },
+    {
+      "title": "الجيزةالعامة للمقاولات والاستثمارالعقارى (GGCC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343079&All=",
+      "ticker": "GGCC.CA"
     }
   ]
 }
