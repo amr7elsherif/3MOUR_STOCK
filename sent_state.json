@@ -1,59 +1,27 @@
 {
-  "date": "17/08/2026",
+  "date": "18/08/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342924&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342925&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342926&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342927&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342928&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342929&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342930&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342931&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342932&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342933&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342934&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342935&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342936&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342937&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342938&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342940&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342941&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342942&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342943&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342944&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342945&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342946&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342947&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342951&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342952&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342956&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342957&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343058&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343059&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343060&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343061&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343062&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343063&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343064&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343065&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343066&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343067&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343068&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343069&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343070&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343071&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343072&All="
   ],
   "significant_articles": [
     {
-      "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) بيان من الهيئة العامة للرقابة المالية",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342928&All=",
-      "ticker": "ATLC.CA"
-    },
-    {
-      "title": "بنك البركة مصر (SAUD.CA) بيان من الهيئة العامة للرقابة المالية",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342927&All=",
-      "ticker": "SAUD.CA"
-    },
-    {
-      "title": "الاسكندرية لتداول الحاويات والبضائع (ALCN.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342926&All=",
-      "ticker": "ALCN.CA"
-    },
-    {
-      "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) بيان من الهيئة العامة للرقابة المالية",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342925&All=",
-      "ticker": "LUTS.CA"
-    },
-    {
-      "title": "مينا فارم للأدوية و الصناعات الكيماوية (MIPH.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=342946&All=",
-      "ticker": "MIPH.CA"
+      "title": "الشرقية - ايسترن كومباني (EAST.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343066&All=",
+      "ticker": "EAST.CA"
     }
   ]
 }
