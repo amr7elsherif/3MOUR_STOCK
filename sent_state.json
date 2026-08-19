@@ -17,7 +17,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343122&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343123&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343124&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343125&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343125&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343126&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343127&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343128&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343129&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343130&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343131&All="
   ],
   "significant_articles": [
     {
@@ -34,6 +40,11 @@
       "title": "المتحدة للاسكان والتعمير (UNIT.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343112&All=",
       "ticker": "UNIT.CA"
+    },
+    {
+      "title": "الصعيد العامة للمقاولات والاستثمار العقاري SCCD (UEGC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343126&All=",
+      "ticker": "UEGC.CA"
     }
   ]
 }
