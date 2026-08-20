@@ -1,50 +1,30 @@
 {
-  "date": "19/08/2026",
+  "date": "20/08/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343109&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343110&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343111&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343112&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343113&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343114&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343115&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343116&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343117&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343118&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343119&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343120&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343121&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343122&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343123&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343124&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343125&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343126&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343127&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343128&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343129&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343130&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343131&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343190&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343191&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343192&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343193&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343194&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343195&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343196&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343197&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343198&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343199&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343200&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343201&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343202&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343203&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343204&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343205&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343206&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343207&All="
   ],
   "significant_articles": [
     {
-      "title": "الصعيد العامة للمقاولات والاستثمار العقاري SCCD (UEGC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343125&All=",
-      "ticker": "UEGC.CA"
-    },
-    {
-      "title": "المتحدة للاسكان والتعمير (UNIT.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343113&All=",
-      "ticker": "UNIT.CA"
-    },
-    {
-      "title": "المتحدة للاسكان والتعمير (UNIT.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343112&All=",
-      "ticker": "UNIT.CA"
-    },
-    {
-      "title": "الصعيد العامة للمقاولات والاستثمار العقاري SCCD (UEGC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343126&All=",
-      "ticker": "UEGC.CA"
+      "title": "مصر لصناعة الكيماويات (MICH.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343196&All=",
+      "ticker": "MICH.CA"
     }
   ]
 }
