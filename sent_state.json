@@ -1,51 +1,38 @@
 {
-  "date": "20/08/2026",
+  "date": "23/08/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343190&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343191&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343192&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343193&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343194&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343195&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343196&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343197&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343198&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343199&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343200&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343201&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343202&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343203&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343204&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343205&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343206&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343207&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343208&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343209&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343210&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343211&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343212&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343213&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343214&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343222&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343232&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343235&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343237&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343238&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343239&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343240&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343241&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343242&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343243&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343244&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343245&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343246&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343247&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343263&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343264&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343265&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343266&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343267&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343268&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343269&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343270&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343271&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343272&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343273&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343274&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343275&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343276&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343277&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343279&All="
   ],
   "significant_articles": [
     {
-      "title": "مصر لصناعة الكيماويات (MICH.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343196&All=",
-      "ticker": "MICH.CA"
+      "title": "بايونيرز بروبرتيز للتنمية العمرانية بي ار اي جروب (PRDC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343274&All=",
+      "ticker": "PRDC.CA"
+    },
+    {
+      "title": "بايونيرز بروبرتيز للتنمية العمرانية بي ار اي جروب (PRDC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343273&All=",
+      "ticker": "PRDC.CA"
+    },
+    {
+      "title": "مرسيليا المصرية الخليجية للاستثمار العقارى (MAAL.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343268&All=",
+      "ticker": "MAAL.CA"
     }
   ]
 }
