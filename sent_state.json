@@ -7,7 +7,18 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343398&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343408&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343409&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343410&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343410&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343441&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343443&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343449&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343450&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=62959&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "اسباير كابيتال القابضة للاستثمارات المالية  Aspire Capital Holding  for  Financial Investments  (ASPI.CA) قد تقدمت للبورصة بمستندات قيد اسهم زيادة رأس المال المصدر والمدفوع (زيادة نقدية)",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=62959&All=",
+      "ticker": "ASPI.CA"
+    }
+  ]
 }
