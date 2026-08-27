@@ -1,27 +1,4 @@
 {
-  "date": "26/08/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343488&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343489&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343491&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343495&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343496&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343497&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343498&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343499&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343500&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343501&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) اعلان تذكيرى",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343489&All=",
-      "ticker": "LUTS.CA"
-    },
-    {
-      "title": "العربية للصناعات المعدنية والاستثمارات الصناعية (AMII.CA) تعلن نتائج أعمالها  عن الفترة من 01/01/2026 إلى 31/03/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343497&All=",
-      "ticker": "AMII.CA"
-    }
-  ]
+  "date": "27/08/2026",
+  "sent_links": []
 }
