@@ -14,7 +14,7 @@ now = datetime.now(ZoneInfo("Africa/Cairo"))
 weekday_ok = now.weekday() not in (4, 5)  # Friday=4, Saturday=5 are the Egypt weekend
 
 minutes_now = now.hour * 60 + now.minute
-start = 9 * 60 + 30
+start = 9 * 60 
 end = 15 * 60
 freq_end = 11 * 60 + 30
 
