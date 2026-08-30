@@ -17,7 +17,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343591&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343592&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343593&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343594&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343594&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343595&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343596&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343611&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343612&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343613&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343614&All="
   ],
   "significant_articles": [
     {
@@ -69,6 +75,31 @@
       "title": "الخليجية الكندية للاستثمار العقاري العربي (CCRS.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 26/08/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343578&All=",
       "ticker": "CCRS.CA"
+    },
+    {
+      "title": "مطاحن ومخابز جنوب القاهرة والجيزة (SCFM.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343614&All=",
+      "ticker": "SCFM.CA"
+    },
+    {
+      "title": "النصر للملابس والمنسوجات - كابو (KABO.CA) بيان",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343613&All=",
+      "ticker": "KABO.CA"
+    },
+    {
+      "title": "كاتليست بارتنرز ميديل ايست (CPME.CA) بيان",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343612&All=",
+      "ticker": "CPME.CA"
+    },
+    {
+      "title": "الاولى للاستثمار والتنمية العقارية (FIRE.CA) بيان",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343611&All=",
+      "ticker": "FIRE.CA"
+    },
+    {
+      "title": "المنصورة للدواجن (MPCO.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343595&All=",
+      "ticker": "MPCO.CA"
     }
   ]
 }
