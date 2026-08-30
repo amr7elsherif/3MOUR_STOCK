@@ -1,4 +1,74 @@
 {
-  "date": "27/08/2026",
-  "sent_links": []
+  "date": "30/08/2026",
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343578&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343579&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343580&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343581&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343582&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343583&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343584&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343585&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343586&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343587&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343588&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343589&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343590&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343591&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343592&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343593&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343594&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "مطاحن ومخابز جنوب القاهرة والجيزة (SCFM.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343593&All=",
+      "ticker": "SCFM.CA"
+    },
+    {
+      "title": "مصر بنى سويف للاسمنت (MBSC.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343589&All=",
+      "ticker": "MBSC.CA"
+    },
+    {
+      "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) بيان توضيحى",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343587&All=",
+      "ticker": "LUTS.CA"
+    },
+    {
+      "title": "مدينة مصر للاسكان والتعمير (MASR.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343586&All=",
+      "ticker": "MASR.CA"
+    },
+    {
+      "title": "بايونيرز بروبرتيز للتنمية العمرانية بي ار اي جروب (PRDC.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343584&All=",
+      "ticker": "PRDC.CA"
+    },
+    {
+      "title": "طاقة عربية (TAQA.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343583&All=",
+      "ticker": "TAQA.CA"
+    },
+    {
+      "title": "اطلس للاستثمار والصناعات الغذائية (AIFI.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 26/08/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343581&All=",
+      "ticker": "AIFI.CA"
+    },
+    {
+      "title": "ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال (MCRO.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 26/08/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343580&All=",
+      "ticker": "MCRO.CA"
+    },
+    {
+      "title": "كوبر للاستثمار التجارى و التطوير العقارى (COPR.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 26/08/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343579&All=",
+      "ticker": "COPR.CA"
+    },
+    {
+      "title": "الخليجية الكندية للاستثمار العقاري العربي (CCRS.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 26/08/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343578&All=",
+      "ticker": "CCRS.CA"
+    }
+  ]
 }
