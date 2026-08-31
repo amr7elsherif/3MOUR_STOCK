@@ -14,7 +14,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343645&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343646&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343647&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343648&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343648&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343649&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343650&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343651&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343652&All="
   ],
   "significant_articles": [
     {
@@ -51,6 +55,11 @@
       "title": "وثائق صندوق استثمار أودن للاستثمار في الاسهم المصرية -كسب (KASABF.CA) بيان",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343646&All=",
       "ticker": "KASABF.CA"
+    },
+    {
+      "title": "ارابيا انفستمنتس هولدنج (AIHC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343649&All=",
+      "ticker": "AIHC.CA"
     }
   ]
 }
