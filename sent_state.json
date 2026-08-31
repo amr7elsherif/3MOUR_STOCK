@@ -10,7 +10,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343641&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343642&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343643&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343644&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343644&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343645&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343646&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343647&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343648&All="
   ],
   "significant_articles": [
     {
@@ -37,6 +41,16 @@
       "title": "مدينة مصر للاسكان والتعمير (MASR.CA) - بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343635&All=",
       "ticker": "MASR.CA"
+    },
+    {
+      "title": "وثائق شركة صندوق استثمار المصريين للاستثمار العقارى (EGREF.CA) بيان",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343647&All=",
+      "ticker": "EGREF.CA"
+    },
+    {
+      "title": "وثائق صندوق استثمار أودن للاستثمار في الاسهم المصرية -كسب (KASABF.CA) بيان",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343646&All=",
+      "ticker": "KASABF.CA"
     }
   ]
 }
