@@ -20,7 +20,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343651&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343652&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343654&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343655&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343655&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343674&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343675&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343676&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343677&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343678&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343679&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343680&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343681&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63078&All="
   ],
   "significant_articles": [
     {
@@ -62,6 +71,11 @@
       "title": "ارابيا انفستمنتس هولدنج (AIHC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343649&All=",
       "ticker": "AIHC.CA"
+    },
+    {
+      "title": "كرستمارك للمقاولات والتطوير العقاري (CRST.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343674&All=",
+      "ticker": "CRST.CA"
     }
   ]
 }
