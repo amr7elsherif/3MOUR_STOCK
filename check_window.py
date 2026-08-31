@@ -15,7 +15,7 @@ weekday_ok = now.weekday() not in (4, 5)  # Friday=4, Saturday=5 are the Egypt w
 
 minutes_now = now.hour * 60 + now.minute
 start = 9 * 60 
-end = 15 * 60
+end = 16 * 60
 freq_end = 11 * 60 + 30
 
 in_window = start <= minutes_now <= end
