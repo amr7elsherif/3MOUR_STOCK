@@ -86,7 +86,7 @@ MAX_ARTICLES = 50
 # session from 09:30. Checks run from 09:30 through 15:00 Cairo time, every
 # 30 minutes (see the workflow's cron / cron-job.org schedule).
 MARKET_START_HOUR, MARKET_START_MINUTE = 8, 00
-MARKET_END_HOUR, MARKET_END_MINUTE = 15, 0
+MARKET_END_HOUR, MARKET_END_MINUTE = 16, 0
 
 # For the first 2 hours of the window, check every 15 minutes (news tends
 # to be busiest right after open); after that, only check on the half hour.
@@ -119,7 +119,7 @@ def within_market_window(now: datetime) -> bool:
     if minutes_now <= frequent_end:
         return True  # any 15-minute tick counts during the first 2 hours
 
-    return now.minute in (0, 30)  # after that, only on the half hour
+    return now.minute in (0, 15)  # after that, only on the half hour
 
 
 def load_state(today_str: str):
