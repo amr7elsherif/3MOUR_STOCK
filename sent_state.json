@@ -1,81 +1,25 @@
 {
-  "date": "31/08/2026",
+  "date": "01/09/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343635&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343636&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343637&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343638&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343639&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343640&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343641&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343642&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343643&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343644&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343645&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343646&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343647&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343648&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343649&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343650&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343651&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343652&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343654&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343655&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343674&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343675&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343676&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343677&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343678&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343679&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343680&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343681&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63078&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343692&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343693&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343694&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343695&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343696&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343697&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343698&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343699&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343700&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343701&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343702&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343703&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343704&All="
   ],
   "significant_articles": [
     {
-      "title": "اوراسكوم للاستثمار القابضة (OIH.CA) بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343643&All=",
-      "ticker": "OIH.CA"
-    },
-    {
-      "title": "مصر بنى سويف للاسمنت (MBSC.CA) - بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343642&All=",
-      "ticker": "MBSC.CA"
-    },
-    {
-      "title": "السادس من اكتوبر للتنميه والاستثمار (سوديك) (OCDI.CA) بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343639&All=",
-      "ticker": "OCDI.CA"
-    },
-    {
-      "title": "بايونيرز بروبرتيز للتنمية العمرانية بى ار اى جروب PRE Group (PRDC.CA) بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343637&All=",
-      "ticker": "PRDC.CA"
-    },
-    {
-      "title": "مدينة مصر للاسكان والتعمير (MASR.CA) - بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343635&All=",
-      "ticker": "MASR.CA"
-    },
-    {
-      "title": "وثائق شركة صندوق استثمار المصريين للاستثمار العقارى (EGREF.CA) بيان",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343647&All=",
-      "ticker": "EGREF.CA"
-    },
-    {
-      "title": "وثائق صندوق استثمار أودن للاستثمار في الاسهم المصرية -كسب (KASABF.CA) بيان",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343646&All=",
-      "ticker": "KASABF.CA"
-    },
-    {
-      "title": "ارابيا انفستمنتس هولدنج (AIHC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343649&All=",
-      "ticker": "AIHC.CA"
-    },
-    {
-      "title": "كرستمارك للمقاولات والتطوير العقاري (CRST.CA) - بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343674&All=",
-      "ticker": "CRST.CA"
+      "title": "المجموعة المتكاملة للأعمال الهندسية (INEG.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343698&All=",
+      "ticker": "INEG.CA"
     }
   ]
 }
