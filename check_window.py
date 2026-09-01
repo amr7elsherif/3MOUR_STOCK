@@ -20,6 +20,6 @@ freq_end = 11 * 60 + 30
 
 in_window = start <= minutes_now <= end
 if in_window and minutes_now > freq_end:
-    in_window = now.minute in (0, 30)
+    in_window = now.minute in (0, 15)
 
 print("true" if (weekday_ok and in_window) else "false")
