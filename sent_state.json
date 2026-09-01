@@ -15,13 +15,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343703&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343704&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343705&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343706&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343706&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343707&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343708&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343709&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343710&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343711&All="
   ],
   "significant_articles": [
     {
       "title": "المجموعة المتكاملة للأعمال الهندسية (INEG.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343698&All=",
       "ticker": "INEG.CA"
+    },
+    {
+      "title": "العبور للاستثمار العقارى (OBRI.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343709&All=",
+      "ticker": "OBRI.CA"
     }
   ]
 }
