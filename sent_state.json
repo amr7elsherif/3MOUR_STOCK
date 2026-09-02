@@ -1,46 +1,18 @@
 {
-  "date": "01/09/2026",
+  "date": "02/09/2026",
   "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343692&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343693&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343694&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343695&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343696&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343697&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343698&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343699&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343700&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343701&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343702&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343703&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343704&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343705&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343706&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343707&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343708&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343709&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343710&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343711&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343735&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343736&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343737&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343738&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343739&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343740&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343741&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343742&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343743&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343754&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343755&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343756&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343757&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343758&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343759&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343760&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343763&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343765&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343766&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343769&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343770&All="
   ],
-  "significant_articles": [
-    {
-      "title": "المجموعة المتكاملة للأعمال الهندسية (INEG.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343698&All=",
-      "ticker": "INEG.CA"
-    },
-    {
-      "title": "العبور للاستثمار العقارى (OBRI.CA) بيان من الشركة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343709&All=",
-      "ticker": "OBRI.CA"
-    }
-  ]
+  "significant_articles": []
 }
