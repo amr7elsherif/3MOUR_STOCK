@@ -15,7 +15,26 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343770&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343772&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343773&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343774&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343774&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343781&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343782&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343783&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الملتقي العربي للاستثمارات (AMIA.CA) بيان من الهيئة العامة للرقابة المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343783&All=",
+      "ticker": "AMIA.CA"
+    },
+    {
+      "title": "بنك البركة مصر (SAUD.CA) بيان من الهيئة العامة للرقابة المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343782&All=",
+      "ticker": "SAUD.CA"
+    },
+    {
+      "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) بيان من الهيئة العامة للرقابة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343781&All=",
+      "ticker": "ATLC.CA"
+    }
+  ]
 }
