@@ -5,7 +5,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343799&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343800&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343801&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343802&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343802&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343806&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "كوبر للاستثمار التجارى و التطوير العقارى (COPR.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343806&All=",
+      "ticker": "COPR.CA"
+    }
+  ]
 }
