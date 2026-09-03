@@ -14,12 +14,10 @@ now = datetime.now(ZoneInfo("Africa/Cairo"))
 weekday_ok = now.weekday() not in (4, 5)  # Friday=4, Saturday=5 are the Egypt weekend
 
 minutes_now = now.hour * 60 + now.minute
-start = 7 * 60 
-end = 16 * 60
-freq_end = 11 * 60 + 30
+start = 7 * 60
+end = 17 * 60
 
 in_window = start <= minutes_now <= end
-if in_window and minutes_now > freq_end:
-    in_window = now.minute in (0, 15)
+
 print(now, minutes_now, weekday_ok, in_window)
 print("true" if (weekday_ok and in_window) else "false")
