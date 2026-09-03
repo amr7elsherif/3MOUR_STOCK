@@ -83,17 +83,10 @@ HEADERS = {
 MAX_ARTICLES = 50
 
 # EGX's trading session is roughly 10:00-14:30 Cairo time, with the opening
-# session from 09:30. Checks run from 09:30 through 15:00 Cairo time, every
-# 30 minutes (see the workflow's cron / cron-job.org schedule).
-MARKET_START_HOUR, MARKET_START_MINUTE = 8, 00
+# session from 09:30. Checks run 07:00-16:00 Cairo time, matching the
+# window in check_window.py (kept in sync manually - see that file).
+MARKET_START_HOUR, MARKET_START_MINUTE = 7, 0
 MARKET_END_HOUR, MARKET_END_MINUTE = 16, 0
-
-# For the first 2 hours of the window, check every 15 minutes (news tends
-# to be busiest right after open); after that, only check on the half hour.
-# The external trigger fires every 15 minutes throughout the whole window
-# regardless - this function is what actually decides whether a given
-# 15-minute "tick" should run a real check or be a no-op.
-FREQUENT_CHECK_END_HOUR, FREQUENT_CHECK_END_MINUTE = 11, 30
 
 # Where we remember which articles were already sent today, so repeated
 # 15-minute checks only report genuinely new items. This file is committed
@@ -112,14 +105,7 @@ def within_market_window(now: datetime) -> bool:
     minutes_now = now.hour * 60 + now.minute
     start = MARKET_START_HOUR * 60 + MARKET_START_MINUTE
     end = MARKET_END_HOUR * 60 + MARKET_END_MINUTE
-    if not (start <= minutes_now <= end):
-        return False
-
-    frequent_end = FREQUENT_CHECK_END_HOUR * 60 + FREQUENT_CHECK_END_MINUTE
-    if minutes_now <= frequent_end:
-        return True  # any 15-minute tick counts during the first 2 hours
-
-    return now.minute in (0, 15)  # after that, only on the half hour
+    return start <= minutes_now <= end
 
 
 def load_state(today_str: str):
