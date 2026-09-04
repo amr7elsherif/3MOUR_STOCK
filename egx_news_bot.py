@@ -88,6 +88,19 @@ MAX_ARTICLES = 50
 MARKET_START_HOUR, MARKET_START_MINUTE = 7, 0
 MARKET_END_HOUR, MARKET_END_MINUTE = 16, 0
 
+# GitHub Actions' scheduler can fire a cron-triggered run several minutes
+# late (this is documented/known behaviour, especially around :00 and :30
+# when many workflows queue up at once). If within_market_window() cut off
+# at exactly MARKET_END_HOUR:MARKET_END_MINUTE, a late run for the last
+# slot of the day would land just past the cutoff, exit immediately, and
+# the end-of-day summary (which depends on is_last_run_of_session(), only
+# reachable when within_market_window() is True) would silently never
+# send. WINDOW_GRACE_MINUTES keeps the window open a bit longer so a
+# delayed "last run" still gets in - is_last_run_of_session() still uses
+# MARKET_END_HOUR/MINUTE as the real cutoff, so this only affects how much
+# lateness is tolerated, not which run counts as "last".
+WINDOW_GRACE_MINUTES = 30
+
 # Where we remember which articles were already sent today, so repeated
 # 15-minute checks only report genuinely new items. This file is committed
 # back to the repo by the workflow after each run.
@@ -104,7 +117,7 @@ def is_egypt_working_day(now: datetime) -> bool:
 def within_market_window(now: datetime) -> bool:
     minutes_now = now.hour * 60 + now.minute
     start = MARKET_START_HOUR * 60 + MARKET_START_MINUTE
-    end = MARKET_END_HOUR * 60 + MARKET_END_MINUTE
+    end = MARKET_END_HOUR * 60 + MARKET_END_MINUTE + WINDOW_GRACE_MINUTES
     return start <= minutes_now <= end
 
 
