@@ -623,7 +623,11 @@ def main():
     else:
         print("Nothing new to send.")
 
-    if is_last_run_of_session(now):
+    # With WINDOW_GRACE_MINUTES keeping the window open past 16:00, more
+    # than one scheduled run in a day can satisfy is_last_run_of_session()
+    # (e.g. runs at 16:00, 16:15, 16:30 all qualify on a */15 schedule).
+    # Without this flag, each of those would resend the end-of-day summary.
+    if is_last_run_of_session(now) and not state.get("eod_summary_sent"):
         print("This is the last check of the session - sending end-of-day summary.")
         eod_message = build_end_of_day_summary(significant_articles, now)
         send_long_message(eod_message, token, chat_id)
@@ -640,6 +644,10 @@ def main():
                 )
         except Exception as e:
             print(f"DEBUG: couldn't generate/send summary image: {e}")
+
+        state["eod_summary_sent"] = True
+    elif is_last_run_of_session(now):
+        print("End-of-day summary already sent earlier today - skipping duplicate.")
 
     save_state(state)
     print("Done.")
