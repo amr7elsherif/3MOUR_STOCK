@@ -19,5 +19,4 @@ end = 16 * 60
 
 in_window = start <= minutes_now <= end
 
-print(now, minutes_now, weekday_ok, in_window)
 print("true" if (weekday_ok and in_window) else "false")
