@@ -8,14 +8,12 @@ on:
         required: false
         default: "false"
 
-# Only one run at a time, queued rather than overlapping, since each run
-# reads and writes the shared sent_state.json file.
 concurrency:
   group: egx-news-bot
   cancel-in-progress: false
 
 permissions:
-  contents: write  # needed to commit the updated sent_state.json back
+  contents: write
 
 jobs:
   run-bot:
@@ -24,27 +22,10 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      # Fast pre-check (a few seconds, no dependencies needed) so we don't
-      # waste Actions minutes installing Playwright/Chromium on every
-      # 15-minute tick from the external cron-job.org trigger - only when
-      # it's actually within the real Cairo trading-check window.
       - name: Quick time check
         id: timecheck
         run: |
-          RESULT=$(python3 -c "
-          from datetime import datetime
-          from zoneinfo import ZoneInfo
-          now = datetime.now(ZoneInfo('Africa/Cairo'))
-          weekday_ok = now.weekday() not in (4, 5)
-          minutes_now = now.hour*60 + now.minute
-          start = 9*60 + 30
-          end = 15*60
-          freq_end = 11*60 + 30
-          in_window = start <= minutes_now <= end
-          if in_window and minutes_now > freq_end:
-              in_window = now.minute in (0, 30)
-          print('true' if (weekday_ok and in_window) else 'false')
-          ")
+          RESULT=$(python3 check_window.py)
           echo "proceed=$RESULT" >> "$GITHUB_OUTPUT"
           echo "Current check: proceed=$RESULT"
 
@@ -64,6 +45,8 @@ jobs:
       - name: Install dependencies
         if: steps.timecheck.outputs.proceed == 'true' || github.event.inputs.force_run == 'true'
         run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-core fonts-noto-naskh-arabic
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
