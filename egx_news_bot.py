@@ -88,19 +88,6 @@ MAX_ARTICLES = 50
 MARKET_START_HOUR, MARKET_START_MINUTE = 7, 0
 MARKET_END_HOUR, MARKET_END_MINUTE = 16, 0
 
-# GitHub Actions' scheduler can fire a cron-triggered run several minutes
-# late (this is documented/known behaviour, especially around :00 and :30
-# when many workflows queue up at once). If within_market_window() cut off
-# at exactly MARKET_END_HOUR:MARKET_END_MINUTE, a late run for the last
-# slot of the day would land just past the cutoff, exit immediately, and
-# the end-of-day summary (which depends on is_last_run_of_session(), only
-# reachable when within_market_window() is True) would silently never
-# send. WINDOW_GRACE_MINUTES keeps the window open a bit longer so a
-# delayed "last run" still gets in - is_last_run_of_session() still uses
-# MARKET_END_HOUR/MINUTE as the real cutoff, so this only affects how much
-# lateness is tolerated, not which run counts as "last".
-WINDOW_GRACE_MINUTES = 30
-
 # Where we remember which articles were already sent today, so repeated
 # 15-minute checks only report genuinely new items. This file is committed
 # back to the repo by the workflow after each run.
@@ -117,7 +104,7 @@ def is_egypt_working_day(now: datetime) -> bool:
 def within_market_window(now: datetime) -> bool:
     minutes_now = now.hour * 60 + now.minute
     start = MARKET_START_HOUR * 60 + MARKET_START_MINUTE
-    end = MARKET_END_HOUR * 60 + MARKET_END_MINUTE + WINDOW_GRACE_MINUTES
+    end = MARKET_END_HOUR * 60 + MARKET_END_MINUTE
     return start <= minutes_now <= end
 
 
@@ -422,6 +409,33 @@ def rtl(text: str) -> str:
     return get_display(arabic_reshaper.reshape(text))
 
 
+_EMOJI_PATTERN = re.compile(
+    "["
+    "\U0001F1E6-\U0001F1FF"  # flags
+    "\U0001F300-\U0001F5FF"  # symbols & pictographs
+    "\U0001F600-\U0001F64F"  # emoticons
+    "\U0001F680-\U0001F6FF"  # transport & map
+    "\U0001F900-\U0001F9FF"  # supplemental symbols & pictographs
+    "\U0001FA70-\U0001FAFF"  # symbols & pictographs extended-A
+    "\U00002600-\U000026FF"  # misc symbols
+    "\U00002700-\U000027BF"  # dingbats
+    "\U0000FE0F"             # variation selector
+    "]+",
+    flags=re.UNICODE,
+)
+
+
+def strip_emoji(text: str) -> str:
+    """Remove emoji before drawing text with the Arabic-only image font.
+
+    NotoNaskhArabic/NotoSansArabic have no emoji glyphs, so any emoji left
+    in text passed to draw_rtl() renders as a broken tofu box (▯) in the
+    generated summary image. Emoji in Telegram message text elsewhere is
+    unaffected - Telegram renders those natively.
+    """
+    return _EMOJI_PATTERN.sub("", text).strip()
+
+
 def generate_summary_image(significant_articles, now: datetime, output_path="summary.png"):
     """Render a portrait (Instagram-story-sized) image of today's key news.
 
@@ -455,7 +469,7 @@ def generate_summary_image(significant_articles, now: datetime, output_path="sum
     margin = 60
 
     def draw_rtl(y, text, font, fill):
-        draw.text((W - margin, y), rtl(text), font=font, fill=fill, anchor="ra")
+        draw.text((W - margin, y), rtl(strip_emoji(text)), font=font, fill=fill, anchor="ra")
 
     y = 100
     draw_rtl(y, "📌 ملخص أهم أخبار البورصة", title_font, text_color)
@@ -623,11 +637,7 @@ def main():
     else:
         print("Nothing new to send.")
 
-    # With WINDOW_GRACE_MINUTES keeping the window open past 16:00, more
-    # than one scheduled run in a day can satisfy is_last_run_of_session()
-    # (e.g. runs at 16:00, 16:15, 16:30 all qualify on a */15 schedule).
-    # Without this flag, each of those would resend the end-of-day summary.
-    if is_last_run_of_session(now) and not state.get("eod_summary_sent"):
+    if is_last_run_of_session(now):
         print("This is the last check of the session - sending end-of-day summary.")
         eod_message = build_end_of_day_summary(significant_articles, now)
         send_long_message(eod_message, token, chat_id)
@@ -644,10 +654,6 @@ def main():
                 )
         except Exception as e:
             print(f"DEBUG: couldn't generate/send summary image: {e}")
-
-        state["eod_summary_sent"] = True
-    elif is_last_run_of_session(now):
-        print("End-of-day summary already sent earlier today - skipping duplicate.")
 
     save_state(state)
     print("Done.")
