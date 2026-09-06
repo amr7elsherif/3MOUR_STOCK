@@ -17,7 +17,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343854&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343855&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343856&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343876&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343876&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343877&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343878&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343879&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343880&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343881&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343882&All="
   ],
   "significant_articles": [
     {
@@ -35,5 +41,6 @@
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343846&All=",
       "ticker": "DEIN.CA"
     }
-  ]
+  ],
+  "eod_summary_sent": true
 }
