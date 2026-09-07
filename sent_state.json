@@ -1,46 +1,4 @@
 {
-  "date": "06/09/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343841&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343842&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343843&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343844&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343845&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343846&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343847&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343848&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343849&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343850&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343851&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343852&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343853&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343854&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343855&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343856&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343876&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343877&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343878&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343879&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343880&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343881&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343882&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "شركة مستشفي كليوباترا (CLHO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343853&All=",
-      "ticker": "CLHO.CA"
-    },
-    {
-      "title": "الدلتا للتأمين (DEIN.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343850&All=",
-      "ticker": "DEIN.CA"
-    },
-    {
-      "title": "الدلتا للتأمين (DEIN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343846&All=",
-      "ticker": "DEIN.CA"
-    }
-  ],
-  "eod_summary_sent": true
+  "date": "07/09/2026",
+  "sent_links": []
 }
