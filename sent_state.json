@@ -3,7 +3,17 @@
   "sent_links": [
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343883&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343884&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343885&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343885&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343886&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343887&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343888&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343889&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الدوليه للمحاصيل الزراعيه (IFAP.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343889&All=",
+      "ticker": "IFAP.CA"
+    }
+  ]
 }
