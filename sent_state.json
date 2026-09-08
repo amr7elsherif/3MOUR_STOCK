@@ -1,4 +1,16 @@
 {
   "date": "08/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343945&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343946&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343947&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343948&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "رواد السياحة - الرواد (ROTO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343946&All=",
+      "ticker": "ROTO.CA"
+    }
+  ]
 }
