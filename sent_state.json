@@ -1,38 +1,4 @@
 {
-  "date": "07/09/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343883&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343884&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343885&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343886&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343887&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343888&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343889&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343890&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343891&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343892&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343893&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343894&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343895&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343896&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343897&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343898&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343908&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343920&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343921&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343926&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343927&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "الدوليه للمحاصيل الزراعيه (IFAP.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343889&All=",
-      "ticker": "IFAP.CA"
-    },
-    {
-      "title": "الدوليه للمحاصيل الزراعيه (IFAP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة المنتهية في 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343890&All=",
-      "ticker": "IFAP.CA"
-    }
-  ]
+  "date": "08/09/2026",
+  "sent_links": []
 }
