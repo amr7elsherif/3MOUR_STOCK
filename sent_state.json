@@ -3,13 +3,28 @@
   "sent_links": [
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343991&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343993&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343995&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343995&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343996&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343997&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343998&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343999&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344000&All="
   ],
   "significant_articles": [
     {
       "title": "الخدمات الملاحية والبترولية  - ماريديف (MOIL.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343991&All=",
       "ticker": "MOIL.CA"
+    },
+    {
+      "title": "مينا فارم للأدوية و الصناعات الكيماوية (MIPH.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343999&All=",
+      "ticker": "MIPH.CA"
+    },
+    {
+      "title": "مطاحن شرق الدلتا (EDFM.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343997&All=",
+      "ticker": "EDFM.CA"
     }
   ]
 }
