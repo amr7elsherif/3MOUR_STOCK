@@ -1,4 +1,14 @@
 {
   "date": "09/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343991&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343993&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "الخدمات الملاحية والبترولية  - ماريديف (MOIL.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=343991&All=",
+      "ticker": "MOIL.CA"
+    }
+  ]
 }
