@@ -1,4 +1,18 @@
 {
   "date": "10/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344025&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344026&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344027&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344028&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344029&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344030&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "الخليجية الكندية للاستثمار العقاري العربي (CCRS.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344027&All=",
+      "ticker": "CCRS.CA"
+    }
+  ]
 }
