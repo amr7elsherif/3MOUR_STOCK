@@ -1,4 +1,28 @@
 {
   "date": "13/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344070&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344071&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344072&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344073&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344074&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344075&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344076&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344077&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344078&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344079&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344080&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "جدوى للتنمية الصناعية (GDWA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344073&All=",
+      "ticker": "GDWA.CA"
+    },
+    {
+      "title": "جدوى للتنمية الصناعية (GDWA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344072&All=",
+      "ticker": "GDWA.CA"
+    }
+  ]
 }
