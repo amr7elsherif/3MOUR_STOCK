@@ -50,6 +50,7 @@ SIGNIFICANT_KEYWORDS = [
     "استحواذ", "اندماج",
     "اكتتاب", "الاكتتاب",
 "قيد اسهم زيادة","دعوة جمعيه عمومية",
+,"القوائم المالية",
 ]
 
 TICKER_RE = re.compile(r"\(([A-Z0-9]+\.CA)\)")
@@ -536,7 +537,7 @@ def build_end_of_day_summary(significant_articles, now: datetime) -> str:
         )
         lines.append("")
         lines.append(DIVIDER)
-        lines.append("شكرًا وبالتوفيق 🙏 — عمرو صلاح")
+        lines.append("شكرًا وبالتوفيق 🙏 — م/عمرو صلاح")
         return "\n".join(lines)
 
     for i, a in enumerate(significant_articles, 1):
@@ -642,16 +643,7 @@ def main():
         eod_message = build_end_of_day_summary(significant_articles, now)
         send_long_message(eod_message, token, chat_id)
 
-        try:
-            image_path = generate_summary_image(significant_articles, now)
-            if image_path:
-                print("Sending end-of-day summary image...")
-                send_telegram_photo(
-                    image_path,
-                    "📌 صورة ملخص اليوم - جاهزة تتنزل وتتشارك على انستجرام 🙌",
-                    token,
-                    chat_id,
-                )
+        
         except Exception as e:
             print(f"DEBUG: couldn't generate/send summary image: {e}")
 
