@@ -16,7 +16,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344082&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344083&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344084&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344085&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344085&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344086&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344088&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344089&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344090&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344092&All="
   ],
   "significant_articles": [
     {
@@ -28,6 +33,16 @@
       "title": "جدوى للتنمية الصناعية (GDWA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344072&All=",
       "ticker": "GDWA.CA"
+    },
+    {
+      "title": "العربية لمنتجات الألبان\" آراب ديرى - باندا\" (ADPC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344092&All=",
+      "ticker": "ADPC.CA"
+    },
+    {
+      "title": "العربية لمنتجات الألبان\" آراب ديرى - باندا\" (ADPC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344090&All=",
+      "ticker": "ADPC.CA"
     }
   ]
 }
