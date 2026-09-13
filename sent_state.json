@@ -32,7 +32,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344118&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344119&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344120&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344121&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344121&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63214&All="
   ],
   "significant_articles": [
     {
@@ -54,6 +55,11 @@
       "title": "العربية لمنتجات الألبان\" آراب ديرى - باندا\" (ADPC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344090&All=",
       "ticker": "ADPC.CA"
+    },
+    {
+      "title": "ايديتا للصناعات الغذائية (EFID.CA) تقديم مستندات قيد أسهم زيادة رأس المال المصدر والمدفوع (زيادة مجانية) و زيادة راس المال المرخص به.",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63214&All=",
+      "ticker": "EFID.CA"
     }
   ]
 }
