@@ -13,7 +13,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344131&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344132&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344133&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344134&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344134&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344135&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344136&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344137&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344138&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344139&All="
   ],
   "significant_articles": [
     {
@@ -30,6 +35,11 @@
       "title": "هيبكو للاستثمارات التجارية والتنمية العقارية (HBCO.CA) بيان من الهيئة العامة للرقابة المالية",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344129&All=",
       "ticker": "HBCO.CA"
+    },
+    {
+      "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) تقرير الجهاز المركزي للمحاسبات",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344139&All=",
+      "ticker": "EFIH.CA"
     }
   ]
 }
