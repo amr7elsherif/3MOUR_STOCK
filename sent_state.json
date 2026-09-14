@@ -1,4 +1,16 @@
 {
   "date": "14/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344122&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344123&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344124&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344125&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "ايديتا للصناعات الغذائية (EFID.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344123&All=",
+      "ticker": "EFID.CA"
+    }
+  ]
 }
