@@ -639,7 +639,7 @@ def main():
     else:
         print("Nothing new to send.")
 
-        if is_last_run_of_session(now):
+    if is_last_run_of_session(now):
         print("This is the last check of the session - sending end-of-day summary.")
         eod_message = build_end_of_day_summary(significant_articles, now)
         send_long_message(eod_message, token, chat_id)
