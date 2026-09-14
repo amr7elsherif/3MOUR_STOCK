@@ -23,6 +23,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344156&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344157&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344158&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344175&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344177&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63222&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63223&All="
   ],
@@ -46,6 +48,11 @@
       "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) تقرير الجهاز المركزي للمحاسبات",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344139&All=",
       "ticker": "EFIH.CA"
+    },
+    {
+      "title": "المصرية للأقمار الصناعية (نايل سات) (EGSA.CA) - رد الشركه عن تقرير الجهاز المركزى للمحاسبات عن القوائم المالية عن الفتره الماليه المنتهيه فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344175&All=",
+      "ticker": "EGSA.CA"
     }
   ]
 }
