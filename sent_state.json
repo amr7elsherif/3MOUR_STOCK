@@ -11,7 +11,22 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344259&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344275&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344279&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344280&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344280&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344281&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344282&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344283&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344284&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "اوراسكوم للاستثمار القابضة (OIH.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344283&All=",
+      "ticker": "OIH.CA"
+    },
+    {
+      "title": "اوراسكوم للاستثمار القابضة (OIH.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344282&All=",
+      "ticker": "OIH.CA"
+    }
+  ]
 }
