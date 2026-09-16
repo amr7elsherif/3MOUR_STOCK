@@ -7,7 +7,26 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344290&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344291&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344292&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344293&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344293&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344294&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344295&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344296&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344297&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344298&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344299&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344300&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344301&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "جيتكس للاستثمارات التجارية والصناعية (GTEX.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344298&All=",
+      "ticker": "GTEX.CA"
+    },
+    {
+      "title": "جيتكس للاستثمارات التجارية والصناعية (GTEX.CA)  القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344296&All=",
+      "ticker": "GTEX.CA"
+    }
+  ]
 }
