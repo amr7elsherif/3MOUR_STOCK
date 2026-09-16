@@ -1,33 +1,4 @@
 {
-  "date": "15/09/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344226&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344227&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344228&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344229&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344230&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344231&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344250&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344259&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344275&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344279&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344280&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344281&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344282&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344283&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344284&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344285&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "اوراسكوم للاستثمار القابضة (OIH.CA) القوائم المالية المجمعة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344283&All=",
-      "ticker": "OIH.CA"
-    },
-    {
-      "title": "اوراسكوم للاستثمار القابضة (OIH.CA) القوائم المالية المستقلة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344282&All=",
-      "ticker": "OIH.CA"
-    }
-  ]
+  "date": "16/09/2026",
+  "sent_links": []
 }
