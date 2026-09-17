@@ -9,13 +9,22 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344336&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344337&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344338&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344339&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344339&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344341&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344342&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344352&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344354&All="
   ],
   "significant_articles": [
     {
       "title": "المصرية لنظم التعليم الحديثة (MOED.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344336&All=",
       "ticker": "MOED.CA"
+    },
+    {
+      "title": "العامة لصناعة الورق - راكتا (RAKT.CA) مرفق القوائم المالية عن الفترة المالية من 01/01/2026 الى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344352&All=",
+      "ticker": "RAKT.CA"
     }
   ]
 }
