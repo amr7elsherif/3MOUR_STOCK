@@ -4,7 +4,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344331&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344332&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344333&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344334&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344334&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344335&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344336&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "المصرية لنظم التعليم الحديثة (MOED.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344336&All=",
+      "ticker": "MOED.CA"
+    }
+  ]
 }
