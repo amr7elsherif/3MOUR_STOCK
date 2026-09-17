@@ -20,7 +20,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344366&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344370&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344374&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344375&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344375&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344376&All="
   ],
   "significant_articles": [
     {
@@ -37,6 +38,11 @@
       "title": "النصر لتصنيع الحاصلات الزراعية (ELNA.CA) مرفق القوائم المالية عن الفترة المالية المنتهية في 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344360&All=",
       "ticker": "ELNA.CA"
+    },
+    {
+      "title": "مصر لإنتاج الأسمدة - موبكو (MFPC.CA) - مرفق القوائم المالية عن الفترة المالية المنتهية في 30/06/2026 باللغة الانجليزية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344376&All=",
+      "ticker": "MFPC.CA"
     }
   ]
 }
