@@ -20,7 +20,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344409&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344410&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344411&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344412&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344412&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63258&All="
   ],
   "significant_articles": [
     {
@@ -42,6 +43,11 @@
       "title": "الدلتا للسكر (SUGR.CA) - بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344405&All=",
       "ticker": "SUGR.CA"
+    },
+    {
+      "title": "هيبكو للاستثمارات التجارية والتنمية العقارية (HBCO.CA) تقديم مستندات قيد حق الاكتتاب منفصلا عن السهم الأصلي للشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63258&All=",
+      "ticker": "HBCO.CA"
     }
   ]
 }
