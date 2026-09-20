@@ -1,4 +1,29 @@
 {
   "date": "20/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344380&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344381&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344382&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344383&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344384&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344385&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344386&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "اطلس للاستثمار والصناعات الغذائية (AIFI.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344385&All=",
+      "ticker": "AIFI.CA"
+    },
+    {
+      "title": "مصر للالومنيوم (EGAL.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344382&All=",
+      "ticker": "EGAL.CA"
+    },
+    {
+      "title": "المصريه لمدينة الانتاج الاعلامى (MPRC.CA) - رد الشركة علي تقرير الجهاز المركزي للمحاسبات عن القوائم المالية المستقلة و المجمعة عن الفترة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344380&All=",
+      "ticker": "MPRC.CA"
+    }
+  ]
 }
