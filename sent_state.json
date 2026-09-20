@@ -13,7 +13,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344389&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344390&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344392&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344394&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344394&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344405&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344406&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344408&All="
   ],
   "significant_articles": [
     {
@@ -30,6 +33,11 @@
       "title": "المصريه لمدينة الانتاج الاعلامى (MPRC.CA) - رد الشركة علي تقرير الجهاز المركزي للمحاسبات عن القوائم المالية المستقلة و المجمعة عن الفترة المالية المنتهية فى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344380&All=",
       "ticker": "MPRC.CA"
+    },
+    {
+      "title": "الدلتا للسكر (SUGR.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344405&All=",
+      "ticker": "SUGR.CA"
     }
   ]
 }
