@@ -18,6 +18,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344431&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344432&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344433&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344434&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344435&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63260&All="
   ],
   "significant_articles": [
@@ -40,6 +42,11 @@
       "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344429&All=",
       "ticker": "LUTS.CA"
+    },
+    {
+      "title": "جنوب الوادى للاسمنت (SVCE.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344434&All=",
+      "ticker": "SVCE.CA"
     }
   ]
 }
