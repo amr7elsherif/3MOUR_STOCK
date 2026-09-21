@@ -12,7 +12,34 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344422&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344423&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344424&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344428&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344428&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344429&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344430&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344431&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344432&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344433&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63260&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "القاهرة للدواجن (POUL.CA) تقديم مستندات قيد اسهم زيادة راس مال الشركة المصدر و المدفوع وتعديل غرض الشركة نتيجة إعادة الهيكلة بالاندماج.",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63260&All=",
+      "ticker": "POUL.CA"
+    },
+    {
+      "title": "القاهرة للدواجن (POUL.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344432&All=",
+      "ticker": "POUL.CA"
+    },
+    {
+      "title": "البنك المصري لتنمية الصادرات (EXPA.CA) بيان من البنك",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344431&All=",
+      "ticker": "EXPA.CA"
+    },
+    {
+      "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344429&All=",
+      "ticker": "LUTS.CA"
+    }
+  ]
 }
