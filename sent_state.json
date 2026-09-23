@@ -1,4 +1,14 @@
 {
   "date": "23/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344567&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344568&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "مطاحن ومخابز الاسكندرية (AFMC.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344568&All=",
+      "ticker": "AFMC.CA"
+    }
+  ]
 }
