@@ -6,7 +6,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344619&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344622&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344623&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344624&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344624&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344625&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344626&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "اسيك للتعدين    -  اسكوم (ASCM.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344625&All=",
+      "ticker": "ASCM.CA"
+    }
+  ]
 }
