@@ -1,4 +1,25 @@
 {
   "date": "27/09/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344690&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344691&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344692&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344693&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344694&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344695&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344696&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344697&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344698&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344699&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344700&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344701&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344702&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "العربية للادوية والصناعات الكيماوية (ADCI.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344698&All=",
+      "ticker": "ADCI.CA"
+    }
+  ]
 }
