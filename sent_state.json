@@ -4,7 +4,18 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344806&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344807&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344808&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344809&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344809&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344810&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344811&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344812&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344813&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344814&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "مطاحن وسط وغرب الدلتا (WCDF.CA) - القوائم المالية المعدلة عن السنة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344810&All=",
+      "ticker": "WCDF.CA"
+    }
+  ]
 }
