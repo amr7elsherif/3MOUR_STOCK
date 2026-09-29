@@ -17,13 +17,19 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344819&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344835&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344836&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344845&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344845&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344846&All="
   ],
   "significant_articles": [
     {
       "title": "مطاحن وسط وغرب الدلتا (WCDF.CA) - القوائم المالية المعدلة عن السنة المالية المنتهية فى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344810&All=",
       "ticker": "WCDF.CA"
+    },
+    {
+      "title": "العربية لاستصلاح الاراضي (EALR.CA) القوائم المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344846&All=",
+      "ticker": "EALR.CA"
     }
   ]
 }
