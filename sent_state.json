@@ -1,38 +1,4 @@
 {
-  "date": "28/09/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344738&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344739&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344740&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344741&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344742&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344743&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344744&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344745&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344767&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344779&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344782&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344783&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344784&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344785&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344796&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63301&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "الخدمات الملاحية والبترولية  - ماريديف (MOIL.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344738&All=",
-      "ticker": "MOIL.CA"
-    },
-    {
-      "title": "العامة لمنتجات الخزف والصيني (PRCL.CA) تقرير مجلس الادارة السنوى عن القوائم المالية عن السنة المالية المنتهية فى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344779&All=",
-      "ticker": "PRCL.CA"
-    },
-    {
-      "title": "دلتا للطباعة والتغليف (DTPP.CA) - - قد تقدمت للبورصة بمستندات زيادة راس المال المرخص به ومستندات قيد أسهم زيادة راس المال المصدر( زيادة مجانية )",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63301&All=",
-      "ticker": "DTPP.CA"
-    }
-  ]
+  "date": "29/09/2026",
+  "sent_links": []
 }
