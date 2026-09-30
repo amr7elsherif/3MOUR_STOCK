@@ -4,7 +4,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344860&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344861&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344862&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344863&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344863&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344864&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344865&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "ممفيس للادوية والصناعات الكيماوية (MPCI.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344865&All=",
+      "ticker": "MPCI.CA"
+    }
+  ]
 }
