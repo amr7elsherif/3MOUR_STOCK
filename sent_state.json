@@ -1,36 +1,4 @@
 {
-  "date": "29/09/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344806&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344807&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344808&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344809&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344810&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344811&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344812&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344813&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344814&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344815&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344816&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344817&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344818&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344819&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344835&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344836&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344845&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344846&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344856&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "مطاحن وسط وغرب الدلتا (WCDF.CA) - القوائم المالية المعدلة عن السنة المالية المنتهية فى 30/06/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344810&All=",
-      "ticker": "WCDF.CA"
-    },
-    {
-      "title": "العربية لاستصلاح الاراضي (EALR.CA) القوائم المالية",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344846&All=",
-      "ticker": "EALR.CA"
-    }
-  ]
+  "date": "30/09/2026",
+  "sent_links": []
 }
