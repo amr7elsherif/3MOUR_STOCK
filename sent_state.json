@@ -6,13 +6,35 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344862&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344863&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344864&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344865&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344865&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344866&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344867&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344868&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344869&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344870&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344871&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344872&All="
   ],
   "significant_articles": [
     {
       "title": "ممفيس للادوية والصناعات الكيماوية (MPCI.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344865&All=",
       "ticker": "MPCI.CA"
+    },
+    {
+      "title": "المالية والصناعية المصرية (EFIC.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344869&All=",
+      "ticker": "EFIC.CA"
+    },
+    {
+      "title": "الصناعات الغذائية العربية-دومتى (DOMT.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344868&All=",
+      "ticker": "DOMT.CA"
+    },
+    {
+      "title": "الصناعات الغذائية العربية-دومتى (DOMT.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344866&All=",
+      "ticker": "DOMT.CA"
     }
   ]
 }
