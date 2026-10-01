@@ -18,7 +18,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344931&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344932&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344933&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344934&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344934&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344935&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344936&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344937&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344938&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344940&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344941&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344944&All="
   ],
   "significant_articles": [
     {
@@ -34,6 +41,21 @@
     {
       "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/01/2026 إلى 31/03/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344931&All=",
+      "ticker": "AFDI.CA"
+    },
+    {
+      "title": "الشرقية - ايسترن كومباني (EAST.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344940&All=",
+      "ticker": "EAST.CA"
+    },
+    {
+      "title": "الشرقية - ايسترن كومباني (EAST.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344938&All=",
+      "ticker": "EAST.CA"
+    },
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344935&All=",
       "ticker": "AFDI.CA"
     }
   ]
