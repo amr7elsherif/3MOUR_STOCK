@@ -14,7 +14,27 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344926&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344927&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344928&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344929&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344929&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344931&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344932&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344933&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344934&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344934&All=",
+      "ticker": "AFDI.CA"
+    },
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344932&All=",
+      "ticker": "AFDI.CA"
+    },
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344931&All=",
+      "ticker": "AFDI.CA"
+    }
+  ]
 }
