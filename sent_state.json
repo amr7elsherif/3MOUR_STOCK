@@ -9,7 +9,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344977&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344978&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344979&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344981&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344981&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344982&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344983&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344984&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "مينا فارم للأدوية والصناعات الكيماوية (MIPH.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344984&All=",
+      "ticker": "MIPH.CA"
+    }
+  ]
 }
