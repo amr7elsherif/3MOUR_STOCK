@@ -3,7 +3,16 @@
   "sent_links": [
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345013&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345014&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345016&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345016&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345017&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345018&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345019&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "المهندس للتأمين (MOIN.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345017&All=",
+      "ticker": "MOIN.CA"
+    }
+  ]
 }
