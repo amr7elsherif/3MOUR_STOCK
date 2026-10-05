@@ -1,33 +1,4 @@
 {
-  "date": "04/10/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344972&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344973&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344974&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344975&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344976&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344977&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344978&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344979&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344981&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344982&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344983&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344984&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344985&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344986&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344987&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344992&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344994&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345006&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345007&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345011&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345012&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "مينا فارم للأدوية والصناعات الكيماوية (MIPH.CA) القوائم المالية المجمعة",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=344984&All=",
-      "ticker": "MIPH.CA"
-    }
-  ]
+  "date": "05/10/2026",
+  "sent_links": []
 }
