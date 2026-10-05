@@ -17,7 +17,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345035&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345036&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345037&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345038&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345038&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345039&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345043&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345044&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345045&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345046&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345047&All="
   ],
   "significant_articles": [
     {
@@ -29,6 +35,11 @@
       "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345021&All=",
       "ticker": "LUTS.CA"
+    },
+    {
+      "title": "الاسكندرية للادوية والصناعات الكيماوية (AXPH.CA) القوائم المالية باللغة الانجليزية عن  السنة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345044&All=",
+      "ticker": "AXPH.CA"
     }
   ]
 }
