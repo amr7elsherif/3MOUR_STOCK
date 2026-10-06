@@ -33,7 +33,17 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345091&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345092&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345093&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345094&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345094&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345095&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345096&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345097&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345098&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345099&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345100&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345101&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345102&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63455&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63483&All="
   ],
   "significant_articles": [
     {
@@ -50,6 +60,11 @@
       "title": "ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال (MCRO.CA) نموذج الإفصاح عن إستخدامات متحصلات الإكتتاب",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345091&All=",
       "ticker": "MCRO.CA"
+    },
+    {
+      "title": "قرة لمشروعات الطاقة والاستثمار (KORA.CA) تقديم مستندات قيد حق الاكتتاب منفصلا عن السهم الأصلي للشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63483&All=",
+      "ticker": "KORA.CA"
     }
   ]
 }
