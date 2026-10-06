@@ -2,7 +2,15 @@
   "date": "06/10/2026",
   "sent_links": [
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345054&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345055&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345055&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345056&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345057&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "مرسى مرسى علم للتنمية السياحية (MMAT.CA) رد الشركة علي تقرير مراقب الحسابات عن القوائم المالية عن الفترة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345056&All=",
+      "ticker": "MMAT.CA"
+    }
+  ]
 }
