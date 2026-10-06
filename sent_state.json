@@ -8,13 +8,29 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345058&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345059&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345060&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345061&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345061&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345062&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345063&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345064&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345065&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345066&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345067&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345068&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345069&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345070&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345071&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345074&All="
   ],
   "significant_articles": [
     {
       "title": "مرسى مرسى علم للتنمية السياحية (MMAT.CA) رد الشركة علي تقرير مراقب الحسابات عن القوائم المالية عن الفترة المالية المنتهية فى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345056&All=",
       "ticker": "MMAT.CA"
+    },
+    {
+      "title": "قرة لمشروعات الطاقة والاستثمار (KORA.CA) استدراك",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345065&All=",
+      "ticker": "KORA.CA"
     }
   ]
 }
