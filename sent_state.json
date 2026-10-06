@@ -29,7 +29,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345087&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345088&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345089&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345090&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345090&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345091&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345092&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345093&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345094&All="
   ],
   "significant_articles": [
     {
@@ -41,6 +45,11 @@
       "title": "قرة لمشروعات الطاقة والاستثمار (KORA.CA) استدراك",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345065&All=",
       "ticker": "KORA.CA"
+    },
+    {
+      "title": "ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال (MCRO.CA) نموذج الإفصاح عن إستخدامات متحصلات الإكتتاب",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345091&All=",
+      "ticker": "MCRO.CA"
     }
   ]
 }
