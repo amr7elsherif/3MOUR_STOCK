@@ -41,13 +41,49 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345172&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345173&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345177&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345178&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345178&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345179&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345180&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345181&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345182&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345184&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345185&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345186&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345187&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345188&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345189&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345190&All="
   ],
   "significant_articles": [
     {
       "title": "العربية لاستصلاح الاراضي (EALR.CA) بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345113&All=",
       "ticker": "EALR.CA"
+    },
+    {
+      "title": "جى. أم .سى للاستثمارات الصناعية والتجارية المالية (GMCI.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 07/10/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345185&All=",
+      "ticker": "GMCI.CA"
+    },
+    {
+      "title": "اجواء للصناعات الغذائية - مصر (AJWA.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 07/10/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345182&All=",
+      "ticker": "AJWA.CA"
+    },
+    {
+      "title": "ديجيتايز للاستثمار والتقنية (DGTZ.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 07/10/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345181&All=",
+      "ticker": "DGTZ.CA"
+    },
+    {
+      "title": "الاولى للاستثمار والتنمية العقارية (FIRE.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 07/10/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345180&All=",
+      "ticker": "FIRE.CA"
+    },
+    {
+      "title": "بريميم هيلثكير جروب (PHGC.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 07/10/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345179&All=",
+      "ticker": "PHGC.CA"
     }
   ]
 }
