@@ -5,7 +5,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345109&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345110&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345111&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345112&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345112&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345113&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345114&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345115&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "العربية لاستصلاح الاراضي (EALR.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345113&All=",
+      "ticker": "EALR.CA"
+    }
+  ]
 }
