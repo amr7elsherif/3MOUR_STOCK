@@ -7,7 +7,37 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345202&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345203&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345204&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345205&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345205&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345206&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345208&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345209&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345210&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345211&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345212&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345213&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345214&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345215&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345216&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345217&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345218&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345219&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345220&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345221&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345222&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345223&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345224&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345225&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "بنك قطر الوطني (QNBE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345214&All=",
+      "ticker": "QNBE.CA"
+    },
+    {
+      "title": "بنك قطر الوطني (QNBE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345213&All=",
+      "ticker": "QNBE.CA"
+    }
+  ]
 }
