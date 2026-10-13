@@ -11,7 +11,20 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345375&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345376&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345377&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345378&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345378&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345379&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345380&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345381&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345382&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345383&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345384&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345385&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "قرة لمشروعات الطاقة والاستثمار (KORA.CA) اعلان تذكيرى",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345380&All=",
+      "ticker": "KORA.CA"
+    }
+  ]
 }
