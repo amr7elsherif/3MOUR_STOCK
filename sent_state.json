@@ -9,7 +9,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345480&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345481&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345482&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345483&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345483&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345484&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345485&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "مطاحن مصر العليا (UEFM.CA) تعلن نتائج أعمالها المستقلة  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345485&All=",
+      "ticker": "UEFM.CA"
+    }
+  ]
 }
