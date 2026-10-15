@@ -1,4 +1,23 @@
 {
   "date": "15/10/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345543&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345544&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345545&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345546&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345547&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345548&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345549&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345550&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345551&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345552&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345553&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "جولدن بيراميدز بلازا (GPPL.CA)  القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345552&All=",
+      "ticker": "GPPL.CA"
+    }
+  ]
 }
