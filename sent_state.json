@@ -14,13 +14,19 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345553&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345554&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345555&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345557&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345557&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345559&All="
   ],
   "significant_articles": [
     {
       "title": "جولدن بيراميدز بلازا (GPPL.CA)  القوائم المالية المستقلة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345552&All=",
       "ticker": "GPPL.CA"
+    },
+    {
+      "title": "الحديد والصلب للمناجم والمحاجر (ISMQ.CA) رد الشركة على تقرير الجهاز المركزى للمحاسبات عن القوائم المالية عن السنة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345559&All=",
+      "ticker": "ISMQ.CA"
     }
   ]
 }
