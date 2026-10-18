@@ -14,13 +14,21 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345610&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345611&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345612&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345613&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345613&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345614&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345615&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345617&All="
   ],
   "significant_articles": [
     {
       "title": "الشركة العربية لادارة وتطوير الاصول (ACAMD.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345607&All=",
       "ticker": "ACAMD.CA"
+    },
+    {
+      "title": "القناة للتوكيلات الملاحية (CSAG.CA) رد الشركة علي تقرير الجهاز المركزي للمحاسبات عن القوائم المالية عن السنة المالية المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345617&All=",
+      "ticker": "CSAG.CA"
     }
   ]
 }
