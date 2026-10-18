@@ -5,7 +5,18 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345601&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345602&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345603&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345604&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345604&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345605&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345606&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345607&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345608&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345609&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الشركة العربية لادارة وتطوير الاصول (ACAMD.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345607&All=",
+      "ticker": "ACAMD.CA"
+    }
+  ]
 }
