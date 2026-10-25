@@ -11,7 +11,30 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345951&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345952&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345953&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345954&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345954&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345955&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345956&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345957&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345958&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345961&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345962&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345963&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "فيوتشر كير للصناعات الطبية (FCMD.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345963&All=",
+      "ticker": "FCMD.CA"
+    },
+    {
+      "title": "فيوتشر كير للصناعات الطبية (FCMD.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345962&All=",
+      "ticker": "FCMD.CA"
+    },
+    {
+      "title": "قرة لمشروعات الطاقة والاستثمار (KORA.CA) بيان",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=345958&All=",
+      "ticker": "KORA.CA"
+    }
+  ]
 }
