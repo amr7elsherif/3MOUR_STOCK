@@ -5,12 +5,22 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346141&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346142&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346143&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346144&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346144&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346145&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346146&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346147&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346148&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346149&All="
   ],
   "significant_articles": [
     {
       "title": "السادس من اكتوبر للتنميه والاستثمار (سوديك) (OCDI.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346144&All=",
+      "ticker": "OCDI.CA"
+    },
+    {
+      "title": "السادس من اكتوبر للتنميه والاستثمار (سوديك) (OCDI.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346147&All=",
       "ticker": "OCDI.CA"
     }
   ]
