@@ -24,6 +24,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346269&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346270&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346271&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346331&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346332&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346333&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346334&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346335&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346336&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346337&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346338&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63624&All="
   ],
   "significant_articles": [
@@ -36,6 +44,11 @@
       "title": "بنك قناة السويس (CANA.CA) تقديم مستندات قيد اسهم زيادة راس المال المصدر و المدفوع.",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63624&All=",
       "ticker": "CANA.CA"
+    },
+    {
+      "title": "الزيوت المستخلصة ومنتجاتها (ZEOT.CA) تعلن نتائج أعمالها  عن الفترة المنتهية في 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346334&All=",
+      "ticker": "ZEOT.CA"
     }
   ]
 }
