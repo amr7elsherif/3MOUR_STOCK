@@ -9,7 +9,18 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346253&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346254&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346255&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346256&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346256&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346257&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346258&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346260&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346261&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346262&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الاستثمار العقاري العربي - اليكو (RREI.CA) تعلن نتائج أعمالها  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346262&All=",
+      "ticker": "RREI.CA"
+    }
+  ]
 }
