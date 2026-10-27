@@ -1,41 +1,4 @@
 {
-  "date": "26/10/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346140&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346141&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346142&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346143&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346144&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346145&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346146&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346147&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346148&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346149&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346150&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346151&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346152&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346153&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346161&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346172&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346177&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346195&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346196&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346197&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346201&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346225&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346232&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346235&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "السادس من اكتوبر للتنميه والاستثمار (سوديك) (OCDI.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346144&All=",
-      "ticker": "OCDI.CA"
-    },
-    {
-      "title": "السادس من اكتوبر للتنميه والاستثمار (سوديك) (OCDI.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346147&All=",
-      "ticker": "OCDI.CA"
-    }
-  ]
+  "date": "27/10/2026",
+  "sent_links": []
 }
