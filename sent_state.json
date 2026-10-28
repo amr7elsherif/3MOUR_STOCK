@@ -1,4 +1,24 @@
 {
   "date": "28/10/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346352&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346353&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346354&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346355&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346356&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346357&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346358&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "بنك كريدي اجريكول مصر (CIEB.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346355&All=",
+      "ticker": "CIEB.CA"
+    },
+    {
+      "title": "بنك كريدي اجريكول مصر (CIEB.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346354&All=",
+      "ticker": "CIEB.CA"
+    }
+  ]
 }
