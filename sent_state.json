@@ -9,7 +9,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346357&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346358&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346359&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346360&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346360&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346361&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346362&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346363&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346364&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346365&All="
   ],
   "significant_articles": [
     {
@@ -21,6 +26,16 @@
       "title": "بنك كريدي اجريكول مصر (CIEB.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346354&All=",
       "ticker": "CIEB.CA"
+    },
+    {
+      "title": "جي بي آي للنمو العمرانيGPI FOR URBAN GROWTH (GPIM.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346365&All=",
+      "ticker": "GPIM.CA"
+    },
+    {
+      "title": "جي بي آي للنمو العمرانيGPI FOR URBAN GROWTH (GPIM.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346362&All=",
+      "ticker": "GPIM.CA"
     }
   ]
 }
