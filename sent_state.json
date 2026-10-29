@@ -26,6 +26,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346461&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346462&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346463&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346464&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346467&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346468&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346470&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346471&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346472&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346473&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346475&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346479&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63739&All="
   ],
   "significant_articles": [
@@ -38,6 +47,16 @@
       "title": "جروفا ذات غرض الاستحواذ (GROV.CA) بيان من الهيئة العامة للرقابة المالية",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346462&All=",
       "ticker": "GROV.CA"
+    },
+    {
+      "title": "جروفا ذات غرض الاستحواذ (GROV.CA) بيان من الهيئة العامة للرقابة المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346479&All=",
+      "ticker": "GROV.CA"
+    },
+    {
+      "title": "الوطنية للاسكان للنقابات المهنية (NHPS.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346472&All=",
+      "ticker": "NHPS.CA"
     }
   ]
 }
