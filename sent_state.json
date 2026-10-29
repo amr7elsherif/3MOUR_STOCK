@@ -20,13 +20,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346437&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346438&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346439&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346440&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346440&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346459&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346460&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346461&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346462&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63739&All="
   ],
   "significant_articles": [
     {
       "title": "الاستثمار العقاري العربي - اليكو (RREI.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346422&All=",
       "ticker": "RREI.CA"
+    },
+    {
+      "title": "جروفا ذات غرض الاستحواذ (GROV.CA) بيان من الهيئة العامة للرقابة المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346462&All=",
+      "ticker": "GROV.CA"
     }
   ]
 }
