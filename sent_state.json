@@ -13,13 +13,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346492&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346493&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346494&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346495&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346495&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346496&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346497&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346498&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346499&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346500&All="
   ],
   "significant_articles": [
     {
       "title": "سبأ الدولية للأدوية والصناعات الكيماوية (SIPC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346487&All=",
       "ticker": "SIPC.CA"
+    },
+    {
+      "title": "ركاز القابضة للاستثمارات المالية (RKAZ.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346499&All=",
+      "ticker": "RKAZ.CA"
     }
   ]
 }
