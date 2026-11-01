@@ -2,7 +2,16 @@
   "date": "01/11/2026",
   "sent_links": [
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346483&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346484&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346484&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346485&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346486&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346487&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "سبأ الدولية للأدوية والصناعات الكيماوية (SIPC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346487&All=",
+      "ticker": "SIPC.CA"
+    }
+  ]
 }
