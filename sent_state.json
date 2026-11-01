@@ -47,7 +47,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346543&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346544&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346545&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346546&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346546&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346547&All="
   ],
   "significant_articles": [
     {
@@ -69,6 +70,11 @@
       "title": "Taaleem Management Services تعليم لخدمات الإدارة (TALM.CA) تعلن نتائج أعمالها المستقلة  عن الفترة المنتهية في 31/08/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346508&All=",
       "ticker": "TALM.CA"
+    },
+    {
+      "title": "او جى كابيتال للاستثمارات ذات غرض اللاستحواذ (OCAP.CA) بيان من الهيئة العامة للرقابة المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346547&All=",
+      "ticker": "OCAP.CA"
     }
   ]
 }
