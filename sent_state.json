@@ -27,7 +27,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346586&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346593&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346594&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346595&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346595&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346596&All="
   ],
   "significant_articles": [
     {
@@ -44,6 +45,11 @@
       "title": "مطاحن وسط وغرب الدلتا (WCDF.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346586&All=",
       "ticker": "WCDF.CA"
+    },
+    {
+      "title": "الاسماعيلية الوطنية للصناعات الغذائية (فوديكو) (INFI.CA) مرفق القوائم المالية عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346596&All=",
+      "ticker": "INFI.CA"
     }
   ]
 }
