@@ -12,7 +12,26 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346559&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346560&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346561&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346562&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346562&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346563&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346564&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346565&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346566&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346567&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346568&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346571&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346572&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "جنوب الوادى للاسمنت (SVCE.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتيهة فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346571&All=",
+      "ticker": "SVCE.CA"
+    },
+    {
+      "title": "المالية والصناعية المصرية (EFIC.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346563&All=",
+      "ticker": "EFIC.CA"
+    }
+  ]
 }
