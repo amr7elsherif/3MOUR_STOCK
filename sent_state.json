@@ -20,7 +20,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346567&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346568&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346571&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346572&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346572&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346583&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346584&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346585&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346586&All="
   ],
   "significant_articles": [
     {
@@ -32,6 +36,11 @@
       "title": "المالية والصناعية المصرية (EFIC.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346563&All=",
       "ticker": "EFIC.CA"
+    },
+    {
+      "title": "مطاحن وسط وغرب الدلتا (WCDF.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346586&All=",
+      "ticker": "WCDF.CA"
     }
   ]
 }
