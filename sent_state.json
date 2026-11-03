@@ -7,7 +7,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346604&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346605&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346606&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346607&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346607&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346608&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346609&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346610&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346611&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346612&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "مصرف أبو ظبي الأسلامي- مصر (ADIB.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346612&All=",
+      "ticker": "ADIB.CA"
+    },
+    {
+      "title": "مصرف أبو ظبي الأسلامي- مصر (ADIB.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346611&All=",
+      "ticker": "ADIB.CA"
+    }
+  ]
 }
