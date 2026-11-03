@@ -51,7 +51,26 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346668&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346669&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346670&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346671&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346671&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346672&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346673&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346674&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346675&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346676&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346677&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346678&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346679&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346680&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346681&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346682&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346683&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346684&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346685&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346686&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346687&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346688&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346689&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346690&All="
   ],
   "significant_articles": [
     {
@@ -63,6 +82,16 @@
       "title": "مصرف أبو ظبي الأسلامي- مصر (ADIB.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346611&All=",
       "ticker": "ADIB.CA"
+    },
+    {
+      "title": "اطلس للاستثمار والصناعات الغذائية (AIFI.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 03/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346680&All=",
+      "ticker": "AIFI.CA"
+    },
+    {
+      "title": "الشرق الأوسط لصناعة الزجاج (MEGM.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346672&All=",
+      "ticker": "MEGM.CA"
     }
   ]
 }
