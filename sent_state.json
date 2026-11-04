@@ -9,7 +9,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346696&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346697&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346698&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346699&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346699&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346700&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346701&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الوادى العالمية للاستثمار و التنمية (ELWA.CA) القوائم المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346700&All=",
+      "ticker": "ELWA.CA"
+    }
+  ]
 }
