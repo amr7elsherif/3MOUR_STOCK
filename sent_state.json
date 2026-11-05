@@ -1,34 +1,4 @@
 {
-  "date": "04/11/2026",
-  "sent_links": [
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346691&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346692&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346693&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346694&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346695&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346696&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346697&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346698&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346699&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346700&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346701&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346702&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346703&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346731&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346732&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346733&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346734&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346735&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346736&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346737&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346738&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346739&All="
-  ],
-  "significant_articles": [
-    {
-      "title": "الوادى العالمية للاستثمار و التنمية (ELWA.CA) القوائم المالية",
-      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346700&All=",
-      "ticker": "ELWA.CA"
-    }
-  ]
+  "date": "05/11/2026",
+  "sent_links": []
 }
