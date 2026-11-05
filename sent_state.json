@@ -14,13 +14,27 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346750&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346751&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346752&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346753&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346753&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346754&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346755&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346756&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346757&All="
   ],
   "significant_articles": [
     {
       "title": "الزيوت المستخلصة ومنتجاتها (ZEOT.CA) - القوائم المالية باللغة الانجليزية عن السنة المالية المنتهية فى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346750&All=",
       "ticker": "ZEOT.CA"
+    },
+    {
+      "title": "قناة السويس لتوطين التكنولوجيا (SCTS.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 31/08/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346757&All=",
+      "ticker": "SCTS.CA"
+    },
+    {
+      "title": "قناة السويس لتوطين التكنولوجيا (SCTS.CA) تعلن نتائج أعمالها المستقلة  عن الفترة المنتهية في 31/08/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346756&All=",
+      "ticker": "SCTS.CA"
     }
   ]
 }
