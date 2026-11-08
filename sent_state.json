@@ -21,7 +21,21 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346806&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346807&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346808&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346809&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346809&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346810&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346811&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346812&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346813&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346814&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346815&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346816&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346817&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346818&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346819&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346820&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346821&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346822&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346823&All="
   ],
   "significant_articles": [
     {
@@ -48,6 +62,26 @@
       "title": "اودن للاستثمارات المالية (ODIN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346807&All=",
       "ticker": "ODIN.CA"
+    },
+    {
+      "title": "جورمية ايجيبت دوت كوم للاغذية (GOUR.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346817&All=",
+      "ticker": "GOUR.CA"
+    },
+    {
+      "title": "عبور لاند للصناعات الغذائية (OLFI.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346816&All=",
+      "ticker": "OLFI.CA"
+    },
+    {
+      "title": "جورمية ايجيبت دوت كوم للاغذية (GOUR.CA) مرفق القوائم المالية المستقلةعن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346815&All=",
+      "ticker": "GOUR.CA"
+    },
+    {
+      "title": "وثائق شركة صندوق استثمار المصريين للاستثمار العقارى (EGREF.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346810&All=",
+      "ticker": "EGREF.CA"
     }
   ]
 }
