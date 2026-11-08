@@ -1,4 +1,16 @@
 {
   "date": "08/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346789&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346790&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346791&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346792&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "المصريين للاسكان والتنمية والتعمير (EHDR.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346789&All=",
+      "ticker": "EHDR.CA"
+    }
+  ]
 }
