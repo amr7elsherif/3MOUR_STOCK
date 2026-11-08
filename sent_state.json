@@ -18,7 +18,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346803&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346804&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346805&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346806&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346806&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346807&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346808&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346809&All="
   ],
   "significant_articles": [
     {
@@ -35,6 +38,16 @@
       "title": "عبور لاند للصناعات الغذائية (OLFI.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية في 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346804&All=",
       "ticker": "OLFI.CA"
+    },
+    {
+      "title": "اودن للاستثمارات المالية (ODIN.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346808&All=",
+      "ticker": "ODIN.CA"
+    },
+    {
+      "title": "اودن للاستثمارات المالية (ODIN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346807&All=",
+      "ticker": "ODIN.CA"
     }
   ]
 }
