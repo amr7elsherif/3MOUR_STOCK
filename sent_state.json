@@ -15,7 +15,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346870&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346871&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346872&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346873&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346873&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346874&All="
   ],
   "significant_articles": [
     {
@@ -36,6 +37,11 @@
     {
       "title": "القاهرة الوطنية للاستثمار والاوراق المالية (KWIN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346873&All=",
+      "ticker": "KWIN.CA"
+    },
+    {
+      "title": "القاهرة الوطنية للاستثمار والاوراق المالية (KWIN.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346874&All=",
       "ticker": "KWIN.CA"
     }
   ]
