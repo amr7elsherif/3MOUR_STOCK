@@ -1,4 +1,18 @@
 {
   "date": "10/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346904&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346905&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346906&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346907&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346908&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346909&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "الغربية الاسلامية للتنمية العمرانية (GIHD.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346905&All=",
+      "ticker": "GIHD.CA"
+    }
+  ]
 }
