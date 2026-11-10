@@ -55,7 +55,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346969&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346970&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346971&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346972&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346972&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346973&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346974&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346975&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346976&All="
   ],
   "significant_articles": [
     {
@@ -122,6 +126,16 @@
       "title": "المصريه لمدينة الانتاج الاعلامى (MPRC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346971&All=",
       "ticker": "MPRC.CA"
+    },
+    {
+      "title": "بنك التعمير والاسكان (HDBK.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346976&All=",
+      "ticker": "HDBK.CA"
+    },
+    {
+      "title": "المشروعات الصناعية والهندسية (IEEC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346974&All=",
+      "ticker": "IEEC.CA"
     }
   ]
 }
