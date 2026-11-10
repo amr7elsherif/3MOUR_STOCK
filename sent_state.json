@@ -24,7 +24,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346924&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346925&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346926&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346927&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346927&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346928&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346929&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346930&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346931&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346932&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346933&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346934&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346935&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346936&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346937&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346938&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346939&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346940&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346941&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346942&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346943&All="
   ],
   "significant_articles": [
     {
@@ -66,6 +82,26 @@
       "title": "كفر الزيات للمبيدات والكيماويات (KZPC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346923&All=",
       "ticker": "KZPC.CA"
+    },
+    {
+      "title": "اكت فاينانشال للاستشارات (ACTF.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346938&All=",
+      "ticker": "ACTF.CA"
+    },
+    {
+      "title": "اكت فاينانشال للاستشارات (ACTF.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346937&All=",
+      "ticker": "ACTF.CA"
+    },
+    {
+      "title": "البنك التجاري الدولي -مصر (سى اى بى ) (COMI.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346934&All=",
+      "ticker": "COMI.CA"
+    },
+    {
+      "title": "البنك التجاري الدولي -مصر (سى اى بى ) (COMI.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346933&All=",
+      "ticker": "COMI.CA"
     }
   ]
 }
