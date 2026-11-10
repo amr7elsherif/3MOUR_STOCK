@@ -13,7 +13,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346913&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346914&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346915&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346916&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346916&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346917&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346918&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346919&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346920&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346921&All="
   ],
   "significant_articles": [
     {
@@ -30,6 +35,16 @@
       "title": "الملتقي العربي للاستثمارات (AMIA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346913&All=",
       "ticker": "AMIA.CA"
+    },
+    {
+      "title": "مستشفى النزهه الدولي (NINH.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346919&All=",
+      "ticker": "NINH.CA"
+    },
+    {
+      "title": "سماد مصر (ايجيفرت) (SMFR.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346918&All=",
+      "ticker": "SMFR.CA"
     }
   ]
 }
