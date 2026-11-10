@@ -18,7 +18,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346918&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346919&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346920&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346921&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346921&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346922&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346923&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346924&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346925&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346926&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346927&All="
   ],
   "significant_articles": [
     {
@@ -45,6 +51,21 @@
       "title": "سماد مصر (ايجيفرت) (SMFR.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346918&All=",
       "ticker": "SMFR.CA"
+    },
+    {
+      "title": "كفر الزيات للمبيدات والكيماويات (KZPC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346927&All=",
+      "ticker": "KZPC.CA"
+    },
+    {
+      "title": "ام ان تي تيك القابضة للاستثمارات المالية (HALN.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346924&All=",
+      "ticker": "HALN.CA"
+    },
+    {
+      "title": "كفر الزيات للمبيدات والكيماويات (KZPC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346923&All=",
+      "ticker": "KZPC.CA"
     }
   ]
 }
