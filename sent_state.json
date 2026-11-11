@@ -59,8 +59,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347052&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347053&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347054&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347055&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347056&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347057&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347057&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347058&All="
   ],
   "significant_articles": [
     {
@@ -172,6 +174,11 @@
       "title": "عبور لاند للصناعات الغذائية (OLFI.CA) مرفق القوائم المالية المستقلة و المجمعة عن الفترة المالية المنتهية في 30/09/2026باللغة الانجليزية",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347043&All=",
       "ticker": "OLFI.CA"
+    },
+    {
+      "title": "المصرية للأقمار الصناعية (نايل سات) (EGSA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347055&All=",
+      "ticker": "EGSA.CA"
     }
   ]
 }
