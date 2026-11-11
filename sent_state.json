@@ -20,7 +20,26 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346997&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346998&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346999&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347000&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347000&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347005&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347006&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347007&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347008&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347009&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347010&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347011&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347012&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347013&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347014&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347015&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347016&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347017&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347018&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347019&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347020&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347021&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347022&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347023&All="
   ],
   "significant_articles": [
     {
@@ -72,6 +91,41 @@
       "title": "راية لخدمات مراكز الاتصالات (RACC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346994&All=",
       "ticker": "RACC.CA"
+    },
+    {
+      "title": "مصر بنى سويف للاسمنت (MBSC.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347021&All=",
+      "ticker": "MBSC.CA"
+    },
+    {
+      "title": "مصر بنى سويف للاسمنت (MBSC.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347018&All=",
+      "ticker": "MBSC.CA"
+    },
+    {
+      "title": "العاشر من رمضان للصناعات الدوائية والمستحضرات تشخيصية-راميدا (RMDA.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347017&All=",
+      "ticker": "RMDA.CA"
+    },
+    {
+      "title": "العاشر من رمضان للصناعات الدوائية والمستحضرات تشخيصية-راميدا (RMDA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347015&All=",
+      "ticker": "RMDA.CA"
+    },
+    {
+      "title": "مصر الجديدة للاسكان والتعمير (HELI.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347012&All=",
+      "ticker": "HELI.CA"
+    },
+    {
+      "title": "اوراسكوم للتنمية مصر (ORHD.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347006&All=",
+      "ticker": "ORHD.CA"
+    },
+    {
+      "title": "اوراسكوم للتنمية مصر (ORHD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347005&All=",
+      "ticker": "ORHD.CA"
     }
   ]
 }
