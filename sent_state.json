@@ -21,6 +21,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346998&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346999&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347000&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347001&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347002&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347003&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347004&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347005&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347006&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347007&All=",
@@ -132,6 +136,21 @@
       "title": "او جى كابيتال للاستثمارات ذات غرض اللاستحواذ (OCAP.CA) بيان من الهيئة العامة للرقابة المالية",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347024&All=",
       "ticker": "OCAP.CA"
+    },
+    {
+      "title": "جهينة للصناعات الغذائية (JUFO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347004&All=",
+      "ticker": "JUFO.CA"
+    },
+    {
+      "title": "عبر المحيطات للسياحه (TRTO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347002&All=",
+      "ticker": "TRTO.CA"
+    },
+    {
+      "title": "عبر المحيطات للسياحه (TRTO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347001&All=",
+      "ticker": "TRTO.CA"
     }
   ]
 }
