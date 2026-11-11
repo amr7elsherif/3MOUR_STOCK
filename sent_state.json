@@ -45,7 +45,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347022&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347023&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347024&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347033&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347033&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347035&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347037&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347040&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347042&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347043&All="
   ],
   "significant_articles": [
     {
@@ -152,6 +157,11 @@
       "title": "عبر المحيطات للسياحه (TRTO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347001&All=",
       "ticker": "TRTO.CA"
+    },
+    {
+      "title": "عبور لاند للصناعات الغذائية (OLFI.CA) مرفق القوائم المالية المستقلة و المجمعة عن الفترة المالية المنتهية في 30/09/2026باللغة الانجليزية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347043&All=",
+      "ticker": "OLFI.CA"
     }
   ]
 }
