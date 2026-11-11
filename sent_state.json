@@ -1,4 +1,44 @@
 {
   "date": "11/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346981&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346982&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346983&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346984&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346985&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346986&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346987&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346988&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346989&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346990&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346991&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346992&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "مجموعة النعيم العقارية القابضة (NARE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346990&All=",
+      "ticker": "NARE.CA"
+    },
+    {
+      "title": "مجموعة النعيم العقارية القابضة (NARE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346986&All=",
+      "ticker": "NARE.CA"
+    },
+    {
+      "title": "بنك القاهرة (BQDC.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346985&All=",
+      "ticker": "BQDC.CA"
+    },
+    {
+      "title": "بنك القاهرة (BQDC.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346984&All=",
+      "ticker": "BQDC.CA"
+    },
+    {
+      "title": "بنك التعمير والاسكان (HDBK.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346982&All=",
+      "ticker": "HDBK.CA"
+    }
+  ]
 }
