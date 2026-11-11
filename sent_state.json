@@ -12,7 +12,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346989&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346990&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346991&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346992&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346992&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346993&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346994&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346995&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346996&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346997&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346998&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346999&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347000&All="
   ],
   "significant_articles": [
     {
@@ -39,6 +47,31 @@
       "title": "بنك التعمير والاسكان (HDBK.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346982&All=",
       "ticker": "HDBK.CA"
+    },
+    {
+      "title": "جهينة للصناعات الغذائية (JUFO.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347000&All=",
+      "ticker": "JUFO.CA"
+    },
+    {
+      "title": "الدلتا للسكر (SUGR.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346999&All=",
+      "ticker": "SUGR.CA"
+    },
+    {
+      "title": "راية لخدمات مراكز الاتصالات (RACC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346997&All=",
+      "ticker": "RACC.CA"
+    },
+    {
+      "title": "الاتحاد الصيدلي للخدمات الطبية والاستثمار (UPMS.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346995&All=",
+      "ticker": "UPMS.CA"
+    },
+    {
+      "title": "راية لخدمات مراكز الاتصالات (RACC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=346994&All=",
+      "ticker": "RACC.CA"
     }
   ]
 }
