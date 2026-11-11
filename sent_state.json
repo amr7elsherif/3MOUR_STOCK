@@ -39,7 +39,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347020&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347021&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347022&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347023&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347023&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347024&All="
   ],
   "significant_articles": [
     {
@@ -126,6 +127,11 @@
       "title": "اوراسكوم للتنمية مصر (ORHD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347005&All=",
       "ticker": "ORHD.CA"
+    },
+    {
+      "title": "او جى كابيتال للاستثمارات ذات غرض اللاستحواذ (OCAP.CA) بيان من الهيئة العامة للرقابة المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347024&All=",
+      "ticker": "OCAP.CA"
     }
   ]
 }
