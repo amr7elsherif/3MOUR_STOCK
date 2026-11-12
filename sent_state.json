@@ -108,7 +108,17 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347168&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347170&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347171&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347178&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347178&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347180&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347182&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347183&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347184&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347185&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347186&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347187&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347189&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63864&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63865&All="
   ],
   "significant_articles": [
     {
@@ -350,6 +360,26 @@
       "title": "اكتوبر فارما (OCPH.CA) القوائم المالية",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347170&All=",
       "ticker": "OCPH.CA"
+    },
+    {
+      "title": "مصر للفنادق (MHOT.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347187&All=",
+      "ticker": "MHOT.CA"
+    },
+    {
+      "title": "صندوق الاستثمار العقاري العربي المباشر(ALMF.CA)( EGMKM001DM19)",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63865&All=",
+      "ticker": "ALMF.CA"
+    },
+    {
+      "title": "اراب للتنمية والاستثمار العقاري (ADRI.CA) تقديم مستندات قيد اسهم زيادة راس المال المصدر ( اسهم مجانية )",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63864&All=",
+      "ticker": "ADRI.CA"
+    },
+    {
+      "title": "العامة لمنتجات الخزف والصيني (PRCL.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347180&All=",
+      "ticker": "PRCL.CA"
     }
   ]
 }
