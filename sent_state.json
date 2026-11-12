@@ -59,7 +59,21 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347116&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347117&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347118&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347119&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347119&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347120&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347121&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347122&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347123&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347124&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347125&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347126&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347127&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347128&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347129&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347130&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347131&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347132&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347133&All="
   ],
   "significant_articles": [
     {
@@ -211,6 +225,46 @@
       "title": "النعيم القابضة للاستثمارات (NAHO.CA) بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347110&All=",
       "ticker": "NAHO.CA"
+    },
+    {
+      "title": "الدوليه للمحاصيل الزراعيه (IFAP.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347133&All=",
+      "ticker": "IFAP.CA"
+    },
+    {
+      "title": "راية القابضة للأستثمارات المالية (RAYA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347131&All=",
+      "ticker": "RAYA.CA"
+    },
+    {
+      "title": "راية القابضة للأستثمارات المالية (RAYA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347130&All=",
+      "ticker": "RAYA.CA"
+    },
+    {
+      "title": "المهندس للتأمين (MOIN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347127&All=",
+      "ticker": "MOIN.CA"
+    },
+    {
+      "title": "الدوليه للمحاصيل الزراعيه (IFAP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347125&All=",
+      "ticker": "IFAP.CA"
+    },
+    {
+      "title": "الشرقية - ايسترن كومباني (EAST.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347124&All=",
+      "ticker": "EAST.CA"
+    },
+    {
+      "title": "الحفر الوطنية (NDRL.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347123&All=",
+      "ticker": "NDRL.CA"
+    },
+    {
+      "title": "الشرقية - ايسترن كومباني (EAST.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347121&All=",
+      "ticker": "EAST.CA"
     }
   ]
 }
