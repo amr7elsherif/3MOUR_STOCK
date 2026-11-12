@@ -51,7 +51,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347106&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347107&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347108&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347109&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347109&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347110&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347111&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347113&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347115&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347116&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347117&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347118&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347119&All="
   ],
   "significant_articles": [
     {
@@ -188,6 +196,21 @@
       "title": "مصر للاسمنت - قنا (MCQE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347095&All=",
       "ticker": "MCQE.CA"
+    },
+    {
+      "title": "الدولية للأسمدة والكيماويات (ICFC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347118&All=",
+      "ticker": "ICFC.CA"
+    },
+    {
+      "title": "إعمار مصر للتنمية (EMFD.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347113&All=",
+      "ticker": "EMFD.CA"
+    },
+    {
+      "title": "النعيم القابضة للاستثمارات (NAHO.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347110&All=",
+      "ticker": "NAHO.CA"
     }
   ]
 }
