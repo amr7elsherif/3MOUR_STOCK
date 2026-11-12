@@ -100,7 +100,11 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347161&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347162&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347163&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347164&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347164&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347167&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347168&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347170&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347171&All="
   ],
   "significant_articles": [
     {
@@ -337,6 +341,11 @@
       "title": "البنك المصري لتنمية الصادرات (EXPA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347153&All=",
       "ticker": "EXPA.CA"
+    },
+    {
+      "title": "اكتوبر فارما (OCPH.CA) القوائم المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347170&All=",
+      "ticker": "OCPH.CA"
     }
   ]
 }
