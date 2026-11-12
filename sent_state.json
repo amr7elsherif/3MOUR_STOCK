@@ -117,8 +117,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347186&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347187&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347189&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347190&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347191&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347192&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63864&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63865&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63865&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63866&All="
   ],
   "significant_articles": [
     {
@@ -380,6 +384,16 @@
       "title": "العامة لمنتجات الخزف والصيني (PRCL.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347180&All=",
       "ticker": "PRCL.CA"
+    },
+    {
+      "title": "يوتوبيا للاستثمار العقارى والسياحى (UTOP.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347191&All=",
+      "ticker": "UTOP.CA"
+    },
+    {
+      "title": "شركة النصر للأعمال المدنية (NCCW.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347190&All=",
+      "ticker": "NCCW.CA"
     }
   ]
 }
