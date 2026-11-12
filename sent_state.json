@@ -73,7 +73,18 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347130&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347131&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347132&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347133&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347133&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347134&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347135&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347136&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347137&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347138&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347139&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347141&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347142&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347143&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347144&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347145&All="
   ],
   "significant_articles": [
     {
@@ -265,6 +276,26 @@
       "title": "الشرقية - ايسترن كومباني (EAST.CA) القوائم المالية المستقلة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347121&All=",
       "ticker": "EAST.CA"
+    },
+    {
+      "title": "كرستمارك للمقاولات والتطوير العقاري (CRST.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347143&All=",
+      "ticker": "CRST.CA"
+    },
+    {
+      "title": "كاتليست بارتنرز ميديل ايست (CPME.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347142&All=",
+      "ticker": "CPME.CA"
+    },
+    {
+      "title": "كاتليست بارتنرز ميديل ايست (CPME.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347139&All=",
+      "ticker": "CPME.CA"
+    },
+    {
+      "title": "الاسماعيلية مصر للدواجن (ISMA.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347136&All=",
+      "ticker": "ISMA.CA"
     }
   ]
 }
