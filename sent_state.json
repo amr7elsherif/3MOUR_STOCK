@@ -36,7 +36,22 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347091&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347092&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347093&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347094&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347094&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347095&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347096&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347097&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347098&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347099&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347100&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347101&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347102&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347103&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347104&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347105&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347106&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347107&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347108&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347109&All="
   ],
   "significant_articles": [
     {
@@ -128,6 +143,51 @@
       "title": "فيركيم مصر للاسمدة والكيماويات (FERC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347061&All=",
       "ticker": "FERC.CA"
+    },
+    {
+      "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347109&All=",
+      "ticker": "EFIH.CA"
+    },
+    {
+      "title": "إعمار مصر للتنمية (EMFD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347108&All=",
+      "ticker": "EMFD.CA"
+    },
+    {
+      "title": "وثائق صندوق استثمار أودن للاستثمار في الاسهم المصرية -كسب (KASABF.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347107&All=",
+      "ticker": "KASABF.CA"
+    },
+    {
+      "title": "العربية للاسمنت (ARCC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347104&All=",
+      "ticker": "ARCC.CA"
+    },
+    {
+      "title": "اي فاينانس للاستثمارات المالية والرقمية (EFIH.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347103&All=",
+      "ticker": "EFIH.CA"
+    },
+    {
+      "title": "رواد السياحة - الرواد (ROTO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347102&All=",
+      "ticker": "ROTO.CA"
+    },
+    {
+      "title": "العربية للاسمنت (ARCC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347101&All=",
+      "ticker": "ARCC.CA"
+    },
+    {
+      "title": "ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال (MCRO.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347099&All=",
+      "ticker": "MCRO.CA"
+    },
+    {
+      "title": "مصر للاسمنت - قنا (MCQE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347095&All=",
+      "ticker": "MCQE.CA"
     }
   ]
 }
