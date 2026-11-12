@@ -120,6 +120,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347190&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347191&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347192&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347193&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347194&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347195&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347196&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63864&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63865&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63866&All="
@@ -394,6 +398,16 @@
       "title": "شركة النصر للأعمال المدنية (NCCW.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347190&All=",
       "ticker": "NCCW.CA"
+    },
+    {
+      "title": "بنك القاهرة (BQDC.CA) القوائم المالية المستقلة والمجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347195&All=",
+      "ticker": "BQDC.CA"
+    },
+    {
+      "title": "تايكون انفستمنتس هولدنج (TYCN.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347194&All=",
+      "ticker": "TYCN.CA"
     }
   ]
 }
