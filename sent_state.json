@@ -84,7 +84,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347142&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347143&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347144&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347145&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347145&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347149&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347150&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347151&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347152&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347153&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347154&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347155&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347156&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347157&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347158&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347159&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347160&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347161&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347162&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347163&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347164&All="
   ],
   "significant_articles": [
     {
@@ -296,6 +312,31 @@
       "title": "الاسماعيلية مصر للدواجن (ISMA.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347136&All=",
       "ticker": "ISMA.CA"
+    },
+    {
+      "title": "فتنس برايم للاندية الصحية (FTNS.CA) القوائم المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347161&All=",
+      "ticker": "FTNS.CA"
+    },
+    {
+      "title": "فتنس برايم للاندية الصحية (FTNS.CA) القوائم المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347160&All=",
+      "ticker": "FTNS.CA"
+    },
+    {
+      "title": "بنك قناة السويس شركة مساهمة مصرية (CANA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347156&All=",
+      "ticker": "CANA.CA"
+    },
+    {
+      "title": "البنك المصري لتنمية الصادرات (EXPA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347155&All=",
+      "ticker": "EXPA.CA"
+    },
+    {
+      "title": "البنك المصري لتنمية الصادرات (EXPA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347153&All=",
+      "ticker": "EXPA.CA"
     }
   ]
 }
