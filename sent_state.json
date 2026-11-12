@@ -1,4 +1,133 @@
 {
   "date": "12/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347059&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347060&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347061&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347062&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347063&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347064&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347065&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347066&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347067&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347068&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347069&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347070&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347071&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347072&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347073&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347074&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347075&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347076&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347077&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347078&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347079&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347080&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347081&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347082&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347083&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347084&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347085&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347086&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347087&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347088&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347089&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347090&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347091&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347092&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347093&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347094&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال (MCRO.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347094&All=",
+      "ticker": "MCRO.CA"
+    },
+    {
+      "title": "مصر للاسمنت - قنا (MCQE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347092&All=",
+      "ticker": "MCQE.CA"
+    },
+    {
+      "title": "سيدى كرير للبتروكيماويات - سيدبك (SKPC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347090&All=",
+      "ticker": "SKPC.CA"
+    },
+    {
+      "title": "السويدى اليكتريك (SWDY.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347087&All=",
+      "ticker": "SWDY.CA"
+    },
+    {
+      "title": "مصر للاسمنت - قنا (MCQE.CA) - تقرير الجهاز المركزى للمحاسبات",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347086&All=",
+      "ticker": "MCQE.CA"
+    },
+    {
+      "title": "ارابيا انفستمنتس هولدنج (AIHC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347084&All=",
+      "ticker": "AIHC.CA"
+    },
+    {
+      "title": "السويدى اليكتريك (SWDY.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347080&All=",
+      "ticker": "SWDY.CA"
+    },
+    {
+      "title": "المصرية للاتصالات (ETEL.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347081&All=",
+      "ticker": "ETEL.CA"
+    },
+    {
+      "title": "الدلتا للتأمين (DEIN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347079&All=",
+      "ticker": "DEIN.CA"
+    },
+    {
+      "title": "المصرية للاتصالات (ETEL.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347078&All=",
+      "ticker": "ETEL.CA"
+    },
+    {
+      "title": "الدلتا للتأمين (DEIN.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347076&All=",
+      "ticker": "DEIN.CA"
+    },
+    {
+      "title": "النعيم القابضة للاستثمارات (NAHO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347075&All=",
+      "ticker": "NAHO.CA"
+    },
+    {
+      "title": "اراب للتنمية والاستثمار العقاري (ADRI.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347071&All=",
+      "ticker": "ADRI.CA"
+    },
+    {
+      "title": "دلتا للطباعة والتغليف (DTPP.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347070&All=",
+      "ticker": "DTPP.CA"
+    },
+    {
+      "title": "النعيم القابضة للاستثمارات (NAHO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347067&All=",
+      "ticker": "NAHO.CA"
+    },
+    {
+      "title": "القاهرة للدواجن (POUL.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347065&All=",
+      "ticker": "POUL.CA"
+    },
+    {
+      "title": "القاهرة للدواجن (POUL.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347064&All=",
+      "ticker": "POUL.CA"
+    },
+    {
+      "title": "فيركيم مصر للاسمدة والكيماويات (FERC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347061&All=",
+      "ticker": "FERC.CA"
+    }
+  ]
 }
