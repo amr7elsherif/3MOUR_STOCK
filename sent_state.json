@@ -117,6 +117,20 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347366&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347380&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347381&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347382&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347384&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347385&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347387&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347388&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347389&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347390&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347391&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347395&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347402&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347403&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347404&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347406&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347408&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63870&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63872&All="
   ],
@@ -425,6 +439,46 @@
       "title": "المجموعة المتكاملة للأعمال الهندسية (INEG.CA) تقديم مستندات قيد حق الاكتتاب منفصلاً عن السهم الأصلي.",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63872&All=",
       "ticker": "INEG.CA"
+    },
+    {
+      "title": "العربية للادوية والصناعات الكيماوية (ADCI.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347408&All=",
+      "ticker": "ADCI.CA"
+    },
+    {
+      "title": "الشمس للاسكان والتعمير (ELSH.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347406&All=",
+      "ticker": "ELSH.CA"
+    },
+    {
+      "title": "روبكس العالميه لتصنيع البلاستيك والاكريلك (RUBX.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347403&All=",
+      "ticker": "RUBX.CA"
+    },
+    {
+      "title": "المجموعة المتكاملة للأعمال الهندسية (INEG.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347395&All=",
+      "ticker": "INEG.CA"
+    },
+    {
+      "title": "تنمية للاستثمار العقاري (TANM.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347389&All=",
+      "ticker": "TANM.CA"
+    },
+    {
+      "title": "تنمية للاستثمار العقاري (TANM.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347388&All=",
+      "ticker": "TANM.CA"
+    },
+    {
+      "title": "المصرية لخدمات النقل والتجارة ايجيترانس نوسكو (ETRS.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347385&All=",
+      "ticker": "ETRS.CA"
+    },
+    {
+      "title": "المصرية لخدمات النقل والتجارة ايجيترانس نوسكو (ETRS.CA) مرفق القوائم المالية المجمعه عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347384&All=",
+      "ticker": "ETRS.CA"
     }
   ]
 }
