@@ -17,7 +17,22 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347256&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347257&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347258&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347259&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347259&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347260&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347261&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347262&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347263&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347264&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347265&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347266&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347268&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347269&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347271&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347272&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347273&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347275&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347276&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347277&All="
   ],
   "significant_articles": [
     {
@@ -64,6 +79,41 @@
       "title": "بى اى جى للتجارة والاستثمار (BIGP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347241&All=",
       "ticker": "BIGP.CA"
+    },
+    {
+      "title": "او بي المالية القابضة (OFH.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347276&All=",
+      "ticker": "OFH.CA"
+    },
+    {
+      "title": "المصرف المتحد (UBEE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347275&All=",
+      "ticker": "UBEE.CA"
+    },
+    {
+      "title": "المصرف المتحد (UBEE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347271&All=",
+      "ticker": "UBEE.CA"
+    },
+    {
+      "title": "الاستثمار العقاري العربي - اليكو (RREI.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347269&All=",
+      "ticker": "RREI.CA"
+    },
+    {
+      "title": "البنك المصري الخليجي (EGBE.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347264&All=",
+      "ticker": "EGBE.CA"
+    },
+    {
+      "title": "البنك المصري الخليجي (EGBE.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347263&All=",
+      "ticker": "EGBE.CA"
+    },
+    {
+      "title": "العربية للصناعات الهندسية (EEII.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347262&All=",
+      "ticker": "EEII.CA"
     }
   ]
 }
