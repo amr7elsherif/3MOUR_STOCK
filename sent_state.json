@@ -107,7 +107,9 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347353&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347354&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347355&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347359&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347359&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347360&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347361&All="
   ],
   "significant_articles": [
     {
@@ -384,6 +386,11 @@
       "title": "بيراميزا للفنادق والقرى السياحية - بيراميزا (PHTV.CA) قوائم مالية مستفلة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347349&All=",
       "ticker": "PHTV.CA"
+    },
+    {
+      "title": "الزيوت المستخلصة ومنتجاتها (ZEOT.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347360&All=",
+      "ticker": "ZEOT.CA"
     }
   ]
 }
