@@ -41,7 +41,25 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347283&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347284&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347285&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347286&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347286&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347287&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347288&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347289&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347290&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347291&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347292&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347293&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347294&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347295&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347296&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347297&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347298&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347299&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347300&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347301&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347302&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347303&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347304&All="
   ],
   "significant_articles": [
     {
@@ -148,6 +166,61 @@
       "title": "EGX 30 INDEX ETF-وثائق استثمار شركة صناديق المؤشرات (EGX30ETF.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347278&All=",
       "ticker": "EGX30ETF.CA"
+    },
+    {
+      "title": "مصر لصناعة الكيماويات (MICH.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347304&All=",
+      "ticker": "MICH.CA"
+    },
+    {
+      "title": "ابن سينا فارما (ISPH.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347302&All=",
+      "ticker": "ISPH.CA"
+    },
+    {
+      "title": "ابن سينا فارما (ISPH.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347301&All=",
+      "ticker": "ISPH.CA"
+    },
+    {
+      "title": "فوري لتكنولوجيا البنوك والمدفوعات الالكترونية (FWRY.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347298&All=",
+      "ticker": "FWRY.CA"
+    },
+    {
+      "title": "مطاحن مصر العليا (UEFM.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347299&All=",
+      "ticker": "UEFM.CA"
+    },
+    {
+      "title": "ليسيكو مصر (LCSW.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347297&All=",
+      "ticker": "LCSW.CA"
+    },
+    {
+      "title": "العربيه وبولفارا للغزل والنسيج - يونيراب (APSW.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347296&All=",
+      "ticker": "APSW.CA"
+    },
+    {
+      "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347295&All=",
+      "ticker": "ATLC.CA"
+    },
+    {
+      "title": "A.T.LEASEالتوفيق للتأجير التمويلي -أية.تي.ليس (ATLC.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347294&All=",
+      "ticker": "ATLC.CA"
+    },
+    {
+      "title": "التعمير والاستشارات الهندسية (DAPH.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347293&All=",
+      "ticker": "DAPH.CA"
+    },
+    {
+      "title": "ليسيكو مصر (LCSW.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347290&All=",
+      "ticker": "LCSW.CA"
     }
   ]
 }
