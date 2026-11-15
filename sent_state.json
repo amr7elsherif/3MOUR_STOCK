@@ -75,7 +75,30 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347319&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347320&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347321&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347322&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347322&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347323&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347324&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347325&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347326&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347327&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347328&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347329&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347330&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347332&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347333&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347334&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347335&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347336&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347337&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347338&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347339&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347340&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347341&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347342&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347343&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347344&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347346&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347347&All="
   ],
   "significant_articles": [
     {
@@ -282,6 +305,66 @@
       "title": "فوري لتكنولوجيا البنوك والمدفوعات الالكترونية (FWRY.CA) القوائم المالية المجمعة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347305&All=",
       "ticker": "FWRY.CA"
+    },
+    {
+      "title": "جلاكسو سميثكلاين (BIOC.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347341&All=",
+      "ticker": "BIOC.CA"
+    },
+    {
+      "title": "برايم القابضة للاستثمارات المالية (PRMH.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347340&All=",
+      "ticker": "PRMH.CA"
+    },
+    {
+      "title": "برايم القابضة للاستثمارات المالية (PRMH.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347338&All=",
+      "ticker": "PRMH.CA"
+    },
+    {
+      "title": "جلاكسو سميثكلاين (BIOC.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347337&All=",
+      "ticker": "BIOC.CA"
+    },
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347335&All=",
+      "ticker": "AFDI.CA"
+    },
+    {
+      "title": "طاقة عربية (TAQA.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347333&All=",
+      "ticker": "TAQA.CA"
+    },
+    {
+      "title": "الاهلي للتنمية والاستثمار (AFDI.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347329&All=",
+      "ticker": "AFDI.CA"
+    },
+    {
+      "title": "النيل للادوية والصناعات الكيماوية - النيل (NIPH.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347328&All=",
+      "ticker": "NIPH.CA"
+    },
+    {
+      "title": "طاقة عربية (TAQA.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347327&All=",
+      "ticker": "TAQA.CA"
+    },
+    {
+      "title": "مصر للاسواق الحرة (MFSC.CA) تعلن نتائج أعمالها المجمعة عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347326&All=",
+      "ticker": "MFSC.CA"
+    },
+    {
+      "title": "ابوقير للاسمدة والصناعات الكيماوية (ABUK.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347325&All=",
+      "ticker": "ABUK.CA"
+    },
+    {
+      "title": "مصر للاسواق الحرة (MFSC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347324&All=",
+      "ticker": "MFSC.CA"
     }
   ]
 }
