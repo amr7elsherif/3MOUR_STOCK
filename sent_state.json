@@ -1,4 +1,69 @@
 {
   "date": "15/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347240&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347241&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347242&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347243&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347244&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347246&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347248&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347249&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347250&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347251&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347252&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347253&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347254&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347256&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347257&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347258&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347259&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "مينا للاستثمار السياحي والعقاري (MENA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347257&All=",
+      "ticker": "MENA.CA"
+    },
+    {
+      "title": "مينا للاستثمار السياحي والعقاري (MENA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347254&All=",
+      "ticker": "MENA.CA"
+    },
+    {
+      "title": "ارابيا للاستثمار والتنمية (AIDC.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347253&All=",
+      "ticker": "AIDC.CA"
+    },
+    {
+      "title": "ارابيا للاستثمار والتنمية (AIDC.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347251&All=",
+      "ticker": "AIDC.CA"
+    },
+    {
+      "title": "مصر الوطنية للصلب - عتاقة (ATQA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347250&All=",
+      "ticker": "ATQA.CA"
+    },
+    {
+      "title": "أم بي للهندسةM.B (MBEN.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347244&All=",
+      "ticker": "MBEN.CA"
+    },
+    {
+      "title": "زهراء المعادي للاستثمار والتعمير (ZMID.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347243&All=",
+      "ticker": "ZMID.CA"
+    },
+    {
+      "title": "بى اى جى للتجارة والاستثمار (BIGP.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347242&All=",
+      "ticker": "BIGP.CA"
+    },
+    {
+      "title": "بى اى جى للتجارة والاستثمار (BIGP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347241&All=",
+      "ticker": "BIGP.CA"
+    }
+  ]
 }
