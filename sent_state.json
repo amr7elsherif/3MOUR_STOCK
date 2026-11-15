@@ -98,7 +98,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347343&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347344&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347346&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347347&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347347&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347348&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347349&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347350&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347351&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347352&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347353&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347354&All="
   ],
   "significant_articles": [
     {
@@ -365,6 +372,16 @@
       "title": "مصر للاسواق الحرة (MFSC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة من 01/07/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347324&All=",
       "ticker": "MFSC.CA"
+    },
+    {
+      "title": "بنك الشركة المصرفية العربية الدولية- شركة مساهمة مصرية (SAIB.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347353&All=",
+      "ticker": "SAIB.CA"
+    },
+    {
+      "title": "بيراميزا للفنادق والقرى السياحية - بيراميزا (PHTV.CA) قوائم مالية مستفلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347349&All=",
+      "ticker": "PHTV.CA"
     }
   ]
 }
