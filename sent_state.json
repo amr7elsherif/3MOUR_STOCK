@@ -59,7 +59,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347301&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347302&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347303&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347304&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347304&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347305&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347306&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347307&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347308&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347309&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347310&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347311&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347312&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347313&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347314&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347316&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347318&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347319&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347320&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347321&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347322&All="
   ],
   "significant_articles": [
     {
@@ -221,6 +237,51 @@
       "title": "ليسيكو مصر (LCSW.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347290&All=",
       "ticker": "LCSW.CA"
+    },
+    {
+      "title": "يو للتمويل الاستهلاكى (VALU.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347322&All=",
+      "ticker": "VALU.CA"
+    },
+    {
+      "title": "يو للتمويل الاستهلاكى (VALU.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347320&All=",
+      "ticker": "VALU.CA"
+    },
+    {
+      "title": "العربية للصناعات المعدنية والاستثمارات الصناعية (AMII.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347318&All=",
+      "ticker": "AMII.CA"
+    },
+    {
+      "title": "مطاحن ومخابز الاسكندرية (AFMC.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347316&All=",
+      "ticker": "AFMC.CA"
+    },
+    {
+      "title": "نوفيدا للإستثمار والتكنولوجيا (AMPI.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347314&All=",
+      "ticker": "AMPI.CA"
+    },
+    {
+      "title": "مرسيليا المصرية الخليجية للاستثمار العقارى (MAAL.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347313&All=",
+      "ticker": "MAAL.CA"
+    },
+    {
+      "title": "اصول E.S.B. للوساطة في الاوراق المالية (EBSC.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347312&All=",
+      "ticker": "EBSC.CA"
+    },
+    {
+      "title": "الاسكندرية للخدمات الطبية - المركز الطبى الجديد - الاسكندرية (AMES.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347307&All=",
+      "ticker": "AMES.CA"
+    },
+    {
+      "title": "فوري لتكنولوجيا البنوك والمدفوعات الالكترونية (FWRY.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347305&All=",
+      "ticker": "FWRY.CA"
     }
   ]
 }
