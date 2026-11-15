@@ -32,7 +32,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347273&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347275&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347276&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347277&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347277&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347278&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347279&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347280&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347281&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347282&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347283&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347284&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347285&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347286&All="
   ],
   "significant_articles": [
     {
@@ -114,6 +123,31 @@
       "title": "العربية للصناعات الهندسية (EEII.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347262&All=",
       "ticker": "EEII.CA"
+    },
+    {
+      "title": "الاسكندرية للزيوت المعدنية (AMOC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347285&All=",
+      "ticker": "AMOC.CA"
+    },
+    {
+      "title": "الاسكندرية للزيوت المعدنية (AMOC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347284&All=",
+      "ticker": "AMOC.CA"
+    },
+    {
+      "title": "العز للسيراميك و البورسلين - الجوهره (ECAP.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347281&All=",
+      "ticker": "ECAP.CA"
+    },
+    {
+      "title": "شمال الصعيد للتنمية والانتاج الزراعى (نيوداب) (NEDA.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347279&All=",
+      "ticker": "NEDA.CA"
+    },
+    {
+      "title": "EGX 30 INDEX ETF-وثائق استثمار شركة صناديق المؤشرات (EGX30ETF.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347278&All=",
+      "ticker": "EGX30ETF.CA"
     }
   ]
 }
