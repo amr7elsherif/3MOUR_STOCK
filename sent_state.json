@@ -109,7 +109,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347355&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347359&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347360&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347361&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347361&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347362&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347363&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347364&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347365&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347366&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63870&All="
   ],
   "significant_articles": [
     {
@@ -391,6 +397,26 @@
       "title": "الزيوت المستخلصة ومنتجاتها (ZEOT.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347360&All=",
       "ticker": "ZEOT.CA"
+    },
+    {
+      "title": "مطاحن شرق الدلتا (EDFM.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347366&All=",
+      "ticker": "EDFM.CA"
+    },
+    {
+      "title": "الاسكندرية للخدمات الطبية - المركز الطبى الجديد - الاسكندرية (AMES.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347365&All=",
+      "ticker": "AMES.CA"
+    },
+    {
+      "title": "الوطنية للطباعة (NAPR.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347364&All=",
+      "ticker": "NAPR.CA"
+    },
+    {
+      "title": "الوطنية للطباعة (NAPR.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347363&All=",
+      "ticker": "NAPR.CA"
     }
   ]
 }
