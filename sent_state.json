@@ -35,7 +35,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347469&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347470&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347471&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347472&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347472&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347473&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347474&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347475&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347476&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347477&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347479&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347480&All="
   ],
   "significant_articles": [
     {
@@ -127,6 +134,21 @@
       "title": "العروبة للسمسرة فى الأوراق المالية (EOSB.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347465&All=",
       "ticker": "EOSB.CA"
+    },
+    {
+      "title": "بالم هيلز للتعمير (PHDC.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347477&All=",
+      "ticker": "PHDC.CA"
+    },
+    {
+      "title": "ممفيس للادوية والصناعات الكيماوية (MPCI.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347476&All=",
+      "ticker": "MPCI.CA"
+    },
+    {
+      "title": "العربية للخزف (سيراميكا ريماس (CERA.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347474&All=",
+      "ticker": "CERA.CA"
     }
   ]
 }
