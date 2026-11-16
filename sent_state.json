@@ -57,7 +57,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347493&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347494&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347495&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347496&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347496&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347498&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347499&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347500&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347501&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347502&All="
   ],
   "significant_articles": [
     {
@@ -194,6 +199,16 @@
       "title": "العبوات الطبية (MEPA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347491&All=",
       "ticker": "MEPA.CA"
+    },
+    {
+      "title": "النساجون الشرقيون للسجاد (ORWE.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347499&All=",
+      "ticker": "ORWE.CA"
+    },
+    {
+      "title": "النساجون الشرقيون للسجاد (ORWE.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347498&All=",
+      "ticker": "ORWE.CA"
     }
   ]
 }
