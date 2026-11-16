@@ -23,7 +23,19 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347453&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347454&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347456&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347458&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347458&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347460&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347461&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347463&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347464&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347465&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347466&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347467&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347468&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347469&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347470&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347471&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347472&All="
   ],
   "significant_articles": [
     {
@@ -95,6 +107,26 @@
       "title": "اسمنت سيناء (SCEM.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347451&All=",
       "ticker": "SCEM.CA"
+    },
+    {
+      "title": "اوراسكوم للاستثمار القابضة (OIH.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347471&All=",
+      "ticker": "OIH.CA"
+    },
+    {
+      "title": "الاسكندرية لتداول الحاويات والبضائع (ALCN.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347470&All=",
+      "ticker": "ALCN.CA"
+    },
+    {
+      "title": "اوراسكوم للاستثمار القابضة (OIH.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347469&All=",
+      "ticker": "OIH.CA"
+    },
+    {
+      "title": "العروبة للسمسرة فى الأوراق المالية (EOSB.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347465&All=",
+      "ticker": "EOSB.CA"
     }
   ]
 }
