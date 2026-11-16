@@ -42,7 +42,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347476&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347477&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347479&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347480&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347480&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347481&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347482&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347483&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347484&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347485&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347486&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347487&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347488&All="
   ],
   "significant_articles": [
     {
@@ -149,6 +157,21 @@
       "title": "العربية للخزف (سيراميكا ريماس (CERA.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347474&All=",
       "ticker": "CERA.CA"
+    },
+    {
+      "title": "جراند انفستمنت القابضة للاستثمارات المالية (GRCA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/04/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347485&All=",
+      "ticker": "GRCA.CA"
+    },
+    {
+      "title": "العالمية للاستثمار والتنمية (ICID.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347482&All=",
+      "ticker": "ICID.CA"
+    },
+    {
+      "title": "بالم هيلز للتعمير (PHDC.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347481&All=",
+      "ticker": "PHDC.CA"
     }
   ]
 }
