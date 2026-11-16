@@ -64,7 +64,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347501&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347502&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347503&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347517&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347517&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347518&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347519&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347520&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347522&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347523&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347525&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347528&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347529&All="
   ],
   "significant_articles": [
     {
@@ -211,6 +219,31 @@
       "title": "النساجون الشرقيون للسجاد (ORWE.CA) القوائم المالية المستقلة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347498&All=",
       "ticker": "ORWE.CA"
+    },
+    {
+      "title": "بالم هيلز للتعمير (PHDC.CA) مرفق القوائم المالية المجمعة والمستقلة عن الفترة المالية المنتهية فى 30/09/2026 - باللغة الانجليزية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347525&All=",
+      "ticker": "PHDC.CA"
+    },
+    {
+      "title": "فرتيكا للصناعة والتجارة (VERT.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347522&All=",
+      "ticker": "VERT.CA"
+    },
+    {
+      "title": "هيبكو للاستثمارات التجارية والتنمية العقارية (HBCO.CA) - بيان من الشركة (سوق الشركات الصغيرة والمتوسطة)",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347520&All=",
+      "ticker": "HBCO.CA"
+    },
+    {
+      "title": "ماكرو جروب للمستحضرات الطبية - ماكرو كابيتال (MCRO.CA) - نموذج الإفصاح عن إستخدامات متحصلات الإكتتاب",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347519&All=",
+      "ticker": "MCRO.CA"
+    },
+    {
+      "title": "العامة لمنتجات الخزف والصيني (PRCL.CA) - تقرير مراقب الحسابات الخارجي عن القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347518&All=",
+      "ticker": "PRCL.CA"
     }
   ]
 }
