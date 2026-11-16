@@ -1,4 +1,78 @@
 {
   "date": "16/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347434&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347435&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347436&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347437&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347438&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347439&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347440&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347441&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347442&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347443&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347444&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347445&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347446&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347447&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347448&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347449&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "المالية و الصناعية المصرية (EFIC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347448&All=",
+      "ticker": "EFIC.CA"
+    },
+    {
+      "title": "الصناعات الكيماوية المصرية - كيما (EGCH.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347446&All=",
+      "ticker": "EGCH.CA"
+    },
+    {
+      "title": "جو جرين للاستثمار الزراعى والتنمية (GGRN.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347443&All=",
+      "ticker": "GGRN.CA"
+    },
+    {
+      "title": "مصر لإنتاج الأسمدة - موبكو (MFPC.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347441&All=",
+      "ticker": "MFPC.CA"
+    },
+    {
+      "title": "ايديتا للصناعات الغذائية (EFID.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347440&All=",
+      "ticker": "EFID.CA"
+    },
+    {
+      "title": "ايديتا للصناعات الغذائية (EFID.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347439&All=",
+      "ticker": "EFID.CA"
+    },
+    {
+      "title": "ام.ام جروب للصناعه والتجارة العالميه (MTIE.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347438&All=",
+      "ticker": "MTIE.CA"
+    },
+    {
+      "title": "ام.ام جروب للصناعه والتجارة العالميه (MTIE.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347437&All=",
+      "ticker": "MTIE.CA"
+    },
+    {
+      "title": "مدينة مصر للإسكان والتعمير (MASR.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347436&All=",
+      "ticker": "MASR.CA"
+    },
+    {
+      "title": "مدينة مصر للإسكان والتعمير (MASR.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347435&All=",
+      "ticker": "MASR.CA"
+    },
+    {
+      "title": "الالومنيوم العربية (ALUM.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347434&All=",
+      "ticker": "ALUM.CA"
+    }
+  ]
 }
