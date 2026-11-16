@@ -50,7 +50,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347485&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347486&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347487&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347488&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347488&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347490&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347491&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347492&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347493&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347494&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347495&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347496&All="
   ],
   "significant_articles": [
     {
@@ -172,6 +179,21 @@
       "title": "بالم هيلز للتعمير (PHDC.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347481&All=",
       "ticker": "PHDC.CA"
+    },
+    {
+      "title": "الدولية للتأجير التمويلي (إنكوليس) (ICLE.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347496&All=",
+      "ticker": "ICLE.CA"
+    },
+    {
+      "title": "قرة لمشروعات الطاقة والاستثمار (KORA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347495&All=",
+      "ticker": "KORA.CA"
+    },
+    {
+      "title": "العبوات الطبية (MEPA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347491&All=",
+      "ticker": "MEPA.CA"
     }
   ]
 }
