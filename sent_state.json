@@ -74,7 +74,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347528&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347529&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347531&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347533&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347533&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347534&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347535&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347536&All="
   ],
   "significant_articles": [
     {
@@ -246,6 +249,11 @@
       "title": "العامة لمنتجات الخزف والصيني (PRCL.CA) - تقرير مراقب الحسابات الخارجي عن القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347518&All=",
       "ticker": "PRCL.CA"
+    },
+    {
+      "title": "المصريه لمدينة الانتاج الاعلامى (MPRC.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347534&All=",
+      "ticker": "MPRC.CA"
     }
   ]
 }
