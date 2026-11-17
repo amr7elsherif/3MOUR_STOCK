@@ -30,7 +30,12 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347568&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347569&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347572&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347574&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347574&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347582&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347583&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347586&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347587&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347588&All="
   ],
   "significant_articles": [
     {
@@ -92,6 +97,11 @@
       "title": "فيوتشر كير للصناعات الطبية (FCMD.CA) بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347567&All=",
       "ticker": "FCMD.CA"
+    },
+    {
+      "title": "مصرف أبو ظبي الأسلامي- مصر (ADIB.CA) - بيان من البنك",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347582&All=",
+      "ticker": "ADIB.CA"
     }
   ]
 }
