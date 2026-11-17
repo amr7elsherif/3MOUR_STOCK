@@ -40,7 +40,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347590&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347591&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347592&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347593&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347593&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347594&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347595&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347596&All="
   ],
   "significant_articles": [
     {
@@ -107,6 +110,11 @@
       "title": "مصرف أبو ظبي الأسلامي- مصر (ADIB.CA) - بيان من البنك",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347582&All=",
       "ticker": "ADIB.CA"
+    },
+    {
+      "title": "وادي كوم امبو لاستصلاح الاراضي (WKOL.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347594&All=",
+      "ticker": "WKOL.CA"
     }
   ]
 }
