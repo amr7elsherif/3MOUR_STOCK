@@ -17,7 +17,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347554&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347555&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347556&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347557&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347557&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347558&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347559&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347560&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347561&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347562&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347563&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347564&All="
   ],
   "significant_articles": [
     {
@@ -59,6 +66,16 @@
       "title": "سبيد ميديكال (SPMD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347545&All=",
       "ticker": "SPMD.CA"
+    },
+    {
+      "title": "القاهرة للزيوت والصابون (COSG.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347563&All=",
+      "ticker": "COSG.CA"
+    },
+    {
+      "title": "توسع للتخصيم (TWSA.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347558&All=",
+      "ticker": "TWSA.CA"
     }
   ]
 }
