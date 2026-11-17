@@ -1,4 +1,33 @@
 {
   "date": "17/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347537&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347538&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347539&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347540&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347541&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347542&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "اسيك للتعدين \"أسكوم \" (ASCM.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347542&All=",
+      "ticker": "ASCM.CA"
+    },
+    {
+      "title": "اسيك للتعدين \"أسكوم \" (ASCM.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347541&All=",
+      "ticker": "ASCM.CA"
+    },
+    {
+      "title": "المصرية للاتصالات (ETEL.CA) -  بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347539&All=",
+      "ticker": "ETEL.CA"
+    },
+    {
+      "title": "الخليجية الكندية للاستثمار العقاري العربي (CCRS.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347538&All=",
+      "ticker": "CCRS.CA"
+    }
+  ]
 }
