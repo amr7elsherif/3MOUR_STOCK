@@ -7,7 +7,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347540&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347541&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347542&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347544&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347544&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347545&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347546&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347550&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347551&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347552&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347553&All="
   ],
   "significant_articles": [
     {
@@ -29,6 +35,26 @@
       "title": "الخليجية الكندية للاستثمار العقاري العربي (CCRS.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347538&All=",
       "ticker": "CCRS.CA"
+    },
+    {
+      "title": "بى انفستمنتس القابضه (BINV.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347553&All=",
+      "ticker": "BINV.CA"
+    },
+    {
+      "title": "بى انفستمنتس القابضه (BINV.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347551&All=",
+      "ticker": "BINV.CA"
+    },
+    {
+      "title": "سبيد ميديكال (SPMD.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347546&All=",
+      "ticker": "SPMD.CA"
+    },
+    {
+      "title": "سبيد ميديكال (SPMD.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347545&All=",
+      "ticker": "SPMD.CA"
     }
   ]
 }
