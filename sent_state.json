@@ -1,4 +1,51 @@
 {
   "date": "18/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347599&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347602&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347603&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347604&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347605&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347606&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347607&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347608&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347609&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347610&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347611&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347612&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347613&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347614&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "القاهرة للاسكان والتعمير (ELKA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347614&All=",
+      "ticker": "ELKA.CA"
+    },
+    {
+      "title": "القاهرة للاسكان والتعمير (ELKA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347613&All=",
+      "ticker": "ELKA.CA"
+    },
+    {
+      "title": "الصعيد العامة للمقاولات والاستثمار العقاري SCCD (UEGC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347608&All=",
+      "ticker": "UEGC.CA"
+    },
+    {
+      "title": "الصعيد العامة للمقاولات والاستثمار العقاري SCCD (UEGC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347607&All=",
+      "ticker": "UEGC.CA"
+    },
+    {
+      "title": "شركة مستشفى كليوباترا (CLHO.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347603&All=",
+      "ticker": "CLHO.CA"
+    },
+    {
+      "title": "بى انفستمنتس القابضه (BINV.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347599&All=",
+      "ticker": "BINV.CA"
+    }
+  ]
 }
