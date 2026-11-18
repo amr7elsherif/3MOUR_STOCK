@@ -24,7 +24,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347621&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347622&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347623&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347624&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347624&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347625&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347626&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347627&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347628&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347629&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347630&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347631&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347632&All="
   ],
   "significant_articles": [
     {
@@ -71,6 +79,16 @@
       "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347617&All=",
       "ticker": "LUTS.CA"
+    },
+    {
+      "title": "مجموعة اي اف جي القابضة (HRHO.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347626&All=",
+      "ticker": "HRHO.CA"
+    },
+    {
+      "title": "مجموعة اي اف جي القابضة (HRHO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347625&All=",
+      "ticker": "HRHO.CA"
     }
   ]
 }
