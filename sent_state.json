@@ -49,7 +49,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347658&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347659&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347660&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347661&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347661&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347662&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347663&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347664&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347665&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347666&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347667&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347668&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347672&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63896&All="
   ],
   "significant_articles": [
     {
@@ -106,6 +115,21 @@
       "title": "مجموعة اي اف جي القابضة (HRHO.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347625&All=",
       "ticker": "HRHO.CA"
+    },
+    {
+      "title": "او جى كابيتال للاستثمارات ذات غرض اللاستحواذ (OCAP.CA) قرارات مجلس ادارة الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347668&All=",
+      "ticker": "OCAP.CA"
+    },
+    {
+      "title": "الصناعات الغذائية العربية-دومتى (DOMT.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347664&All=",
+      "ticker": "DOMT.CA"
+    },
+    {
+      "title": "المصرف المتحد (UBEE.CA) - القوائم المالية المستقلة والمجمعة باللغة الانجليزية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347662&All=",
+      "ticker": "UBEE.CA"
     }
   ]
 }
