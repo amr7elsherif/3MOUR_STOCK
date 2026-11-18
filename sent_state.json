@@ -14,7 +14,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347611&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347612&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347613&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347614&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347614&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347615&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347616&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347617&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347618&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347619&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347620&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347621&All="
   ],
   "significant_articles": [
     {
@@ -46,6 +53,21 @@
       "title": "بى انفستمنتس القابضه (BINV.CA) - بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347599&All=",
       "ticker": "BINV.CA"
+    },
+    {
+      "title": "اوراسكوم كونستراكشون بي ال سي (ORAS.CA) القوائم المالية المجمعة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347621&All=",
+      "ticker": "ORAS.CA"
+    },
+    {
+      "title": "اوراسكوم كونستراكشون بي ال سي (ORAS.CA) القوائم المالية المستقلة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347619&All=",
+      "ticker": "ORAS.CA"
+    },
+    {
+      "title": "لوتس للتنمية والاستثمار الزراعى (LUTS.CA) مرفق القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347617&All=",
+      "ticker": "LUTS.CA"
     }
   ]
 }
