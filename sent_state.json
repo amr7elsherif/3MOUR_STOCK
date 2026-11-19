@@ -47,7 +47,9 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347732&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347740&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347744&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347746&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347746&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347757&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347759&All="
   ],
   "significant_articles": [
     {
@@ -139,6 +141,16 @@
       "title": "العربية لاستصلاح الاراضي (EALR.CA) بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347725&All=",
       "ticker": "EALR.CA"
+    },
+    {
+      "title": "ابوقير للاسمدة والصناعات الكيماوية (ABUK.CA) القوائم المالية عن الفترة المالية المنتهية فى 30/09/2026 باللغة الانجليزية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347759&All=",
+      "ticker": "ABUK.CA"
+    },
+    {
+      "title": "مطاحن مصر الوسطي (CEFM.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347757&All=",
+      "ticker": "CEFM.CA"
     }
   ]
 }
