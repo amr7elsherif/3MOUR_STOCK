@@ -21,7 +21,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347692&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347693&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347694&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347695&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347695&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347696&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347697&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347698&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347699&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347700&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347701&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347702&All="
   ],
   "significant_articles": [
     {
@@ -68,6 +75,21 @@
       "title": "الكابلات الكهربائية المصرية (ELEC.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347695&All=",
       "ticker": "ELEC.CA"
+    },
+    {
+      "title": "دايس للملابس الجاهزة (DSCW.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347701&All=",
+      "ticker": "DSCW.CA"
+    },
+    {
+      "title": "دايس للملابس الجاهزة (DSCW.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347699&All=",
+      "ticker": "DSCW.CA"
+    },
+    {
+      "title": "اجواء للصناعات الغذائية - مصر (AJWA.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 31/12/2025",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347698&All=",
+      "ticker": "AJWA.CA"
     }
   ]
 }
