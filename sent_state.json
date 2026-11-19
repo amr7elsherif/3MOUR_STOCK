@@ -28,7 +28,13 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347699&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347700&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347701&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347702&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347702&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347703&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347704&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347706&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347707&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347708&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347709&All="
   ],
   "significant_articles": [
     {
@@ -90,6 +96,21 @@
       "title": "اجواء للصناعات الغذائية - مصر (AJWA.CA) تعلن نتائج أعمالها المجمعة عن الفترة المنتهية في 31/12/2025",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347698&All=",
       "ticker": "AJWA.CA"
+    },
+    {
+      "title": "الجيزة العامة للمقاولات والاستثمارالعقارى (GGCC.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347707&All=",
+      "ticker": "GGCC.CA"
+    },
+    {
+      "title": "كونتكت المالية القابضة (CNFN.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347704&All=",
+      "ticker": "CNFN.CA"
+    },
+    {
+      "title": "كونتكت المالية القابضة (CNFN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347703&All=",
+      "ticker": "CNFN.CA"
     }
   ]
 }
