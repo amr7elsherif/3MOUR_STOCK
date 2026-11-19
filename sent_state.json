@@ -11,7 +11,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347682&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347683&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347684&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347685&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347685&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347686&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347687&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347688&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347689&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347690&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347691&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347692&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347693&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347694&All="
   ],
   "significant_articles": [
     {
@@ -38,6 +47,21 @@
       "title": "المجموعة المتكاملة للأعمال الهندسية (INEG.CA) اعلان تذكيري",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347680&All=",
       "ticker": "INEG.CA"
+    },
+    {
+      "title": "الكابلات الكهربائية المصرية (ELEC.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية في 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347691&All=",
+      "ticker": "ELEC.CA"
+    },
+    {
+      "title": "الصناعات الهندسية المعمارية للانشاء والتعمير - ايكون (ENGC.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347688&All=",
+      "ticker": "ENGC.CA"
+    },
+    {
+      "title": "مصر الجديدة للاسكان والتعمير (HELI.CA) - رد الشركة على تقرير مراقب الحسابات الخارجى",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347687&All=",
+      "ticker": "HELI.CA"
     }
   ]
 }
