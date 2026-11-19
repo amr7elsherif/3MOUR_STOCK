@@ -39,7 +39,14 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347711&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347712&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347713&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347714&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347714&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347725&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347726&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347727&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347729&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347732&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347740&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347744&All="
   ],
   "significant_articles": [
     {
@@ -116,6 +123,21 @@
       "title": "كونتكت المالية القابضة (CNFN.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347703&All=",
       "ticker": "CNFN.CA"
+    },
+    {
+      "title": "مصر للالومنيوم (EGAL.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347729&All=",
+      "ticker": "EGAL.CA"
+    },
+    {
+      "title": "العربية لمنتجات الألبان\" آراب ديرى - باندا\" (ADPC.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347727&All=",
+      "ticker": "ADPC.CA"
+    },
+    {
+      "title": "العربية لاستصلاح الاراضي (EALR.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347725&All=",
+      "ticker": "EALR.CA"
     }
   ]
 }
