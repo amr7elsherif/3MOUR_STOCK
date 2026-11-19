@@ -20,7 +20,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347691&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347692&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347693&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347694&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347694&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347695&All="
   ],
   "significant_articles": [
     {
@@ -62,6 +63,11 @@
       "title": "مصر الجديدة للاسكان والتعمير (HELI.CA) - رد الشركة على تقرير مراقب الحسابات الخارجى",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347687&All=",
       "ticker": "HELI.CA"
+    },
+    {
+      "title": "الكابلات الكهربائية المصرية (ELEC.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347695&All=",
+      "ticker": "ELEC.CA"
     }
   ]
 }
