@@ -1,4 +1,43 @@
 {
   "date": "19/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347675&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347676&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347677&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347678&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347679&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347680&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347681&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347682&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347683&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347684&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347685&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "الحديد والصلب للمناجم والمحاجر (ISMQ.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347685&All=",
+      "ticker": "ISMQ.CA"
+    },
+    {
+      "title": "المتحدة للاسكان والتعمير (UNIT.CA)  مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347684&All=",
+      "ticker": "UNIT.CA"
+    },
+    {
+      "title": "المتحدة للاسكان والتعمير (UNIT.CA) مرفق القوائم المالية المستقلة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347683&All=",
+      "ticker": "UNIT.CA"
+    },
+    {
+      "title": "سي أي كابيتال القابضة للاستثمارات المالية (CICH.CA) -  بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347681&All=",
+      "ticker": "CICH.CA"
+    },
+    {
+      "title": "المجموعة المتكاملة للأعمال الهندسية (INEG.CA) اعلان تذكيري",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347680&All=",
+      "ticker": "INEG.CA"
+    }
+  ]
 }
