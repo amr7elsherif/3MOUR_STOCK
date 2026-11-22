@@ -2,7 +2,23 @@
   "date": "22/11/2026",
   "sent_links": [
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347770&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347779&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347779&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347780&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347781&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347782&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347783&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347784&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347785&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347786&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347787&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347788&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347789&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "مطاحن ومخابز شمال القاهرة (MILS.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347786&All=",
+      "ticker": "MILS.CA"
+    }
+  ]
 }
