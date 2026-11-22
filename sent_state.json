@@ -12,13 +12,22 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347786&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347787&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347788&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347789&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347789&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347790&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347791&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347792&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347798&All="
   ],
   "significant_articles": [
     {
       "title": "مطاحن ومخابز شمال القاهرة (MILS.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347786&All=",
       "ticker": "MILS.CA"
+    },
+    {
+      "title": "مرسيليا المصرية الخليجية للاستثمار العقارى (MAAL.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347791&All=",
+      "ticker": "MAAL.CA"
     }
   ]
 }
