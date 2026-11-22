@@ -28,7 +28,8 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347852&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347853&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347854&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347855&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347855&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63909&All="
   ],
   "significant_articles": [
     {
@@ -40,6 +41,11 @@
       "title": "مرسيليا المصرية الخليجية للاستثمار العقارى (MAAL.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347791&All=",
       "ticker": "MAAL.CA"
+    },
+    {
+      "title": "اوراسكوم كونستراكشون بي ال سي (ORAS.CA) تقديم مستندات قيد اسهم زيادة راس المال المصدر و المدفوع",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63909&All=",
+      "ticker": "ORAS.CA"
     }
   ]
 }
