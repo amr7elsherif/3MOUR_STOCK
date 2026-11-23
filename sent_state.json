@@ -21,7 +21,9 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347873&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347874&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347875&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347876&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347876&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347877&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347878&All="
   ],
   "significant_articles": [
     {
@@ -33,6 +35,11 @@
       "title": "الصناعات الهندسية المعمارية للانشاء والتعمير - ايكون (ENGC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347872&All=",
       "ticker": "ENGC.CA"
+    },
+    {
+      "title": "الشركة العربية لادارة وتطوير الاصول (ACAMD.CA) بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347877&All=",
+      "ticker": "ACAMD.CA"
     }
   ]
 }
