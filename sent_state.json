@@ -15,7 +15,23 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347867&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347868&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347869&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347870&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347870&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347871&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347872&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347873&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347874&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347875&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الصناعات الهندسية المعمارية للانشاء والتعمير - ايكون (ENGC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347873&All=",
+      "ticker": "ENGC.CA"
+    },
+    {
+      "title": "الصناعات الهندسية المعمارية للانشاء والتعمير - ايكون (ENGC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347872&All=",
+      "ticker": "ENGC.CA"
+    }
+  ]
 }
