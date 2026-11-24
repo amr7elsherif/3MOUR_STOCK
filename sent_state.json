@@ -18,7 +18,10 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347934&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347935&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347936&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347937&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347937&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347938&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347939&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347942&All="
   ],
   "significant_articles": [
     {
@@ -35,6 +38,16 @@
       "title": "جولدن تكس للاصواف (GTWL.CA) بيان من الهيئة العامة للرقابة المالية",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347926&All=",
       "ticker": "GTWL.CA"
+    },
+    {
+      "title": "مجموعة جى . أم . سى للاستثمارات الصناعية و التجارية المالية (GMCI.CA) تعلن نتائج أعمالها  عن الفترة: من 01/01/2026 إلى 30/06/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347939&All=",
+      "ticker": "GMCI.CA"
+    },
+    {
+      "title": "مجموعة جى . أم . سى للاستثمارات الصناعية و التجارية المالية (GMCI.CA) تعلن نتائج أعمالها  عن الفترة من 01/01/2026 إلى 31/03/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347938&All=",
+      "ticker": "GMCI.CA"
     }
   ]
 }
