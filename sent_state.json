@@ -2,7 +2,34 @@
   "date": "24/11/2026",
   "sent_links": [
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347920&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347921&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347921&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347922&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347923&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347924&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347925&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347926&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347927&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347928&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347929&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347930&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347931&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347932&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "يونيفرسال لصناعة مواد التعبئة و التغليف و الورق - يونيباك (UNIP.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347930&All=",
+      "ticker": "UNIP.CA"
+    },
+    {
+      "title": "يونيفرسال لصناعة مواد التعبئة و التغليف و الورق - يونيباك (UNIP.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347928&All=",
+      "ticker": "UNIP.CA"
+    },
+    {
+      "title": "جولدن تكس للاصواف (GTWL.CA) بيان من الهيئة العامة للرقابة المالية",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=347926&All=",
+      "ticker": "GTWL.CA"
+    }
+  ]
 }
