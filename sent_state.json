@@ -59,6 +59,7 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348096&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348097&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348098&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348099&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348100&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348101&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348102&All=",
@@ -176,6 +177,11 @@
     {
       "title": "المالية و الصناعية المصرية (EFIC.CA) - بيان من الشركة",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348095&All=",
+      "ticker": "EFIC.CA"
+    },
+    {
+      "title": "المالية و الصناعية المصرية (EFIC.CA) - رد الشركة على تقرير الجهاز المركزى للمحاسبات",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348099&All=",
       "ticker": "EFIC.CA"
     }
   ]
