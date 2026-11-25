@@ -55,6 +55,15 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348092&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348093&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348094&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348095&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348096&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348097&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348098&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348100&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348101&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348102&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348103&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348104&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63945&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=63946&All="
   ],
@@ -163,6 +172,11 @@
       "title": "جدوى للتنمية الصناعية (GDWA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348064&All=",
       "ticker": "GDWA.CA"
+    },
+    {
+      "title": "المالية و الصناعية المصرية (EFIC.CA) - بيان من الشركة",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348095&All=",
+      "ticker": "EFIC.CA"
     }
   ]
 }
