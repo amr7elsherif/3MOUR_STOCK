@@ -32,7 +32,18 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348060&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348061&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348062&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348063&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348063&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348064&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348065&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348066&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348067&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348068&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348069&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348070&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348071&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348072&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348073&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348074&All="
   ],
   "significant_articles": [
     {
@@ -119,6 +130,26 @@
       "title": "الجيزةالعامة للمقاولات والاستثمارالعقارى (GGCC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348055&All=",
       "ticker": "GGCC.CA"
+    },
+    {
+      "title": "جدوى للتنمية الصناعية (GDWA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348072&All=",
+      "ticker": "GDWA.CA"
+    },
+    {
+      "title": "بايونيرز بروبرتيز للتنمية العمرانية بي ار اي جروب (PRDC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348070&All=",
+      "ticker": "PRDC.CA"
+    },
+    {
+      "title": "بايونيرز بروبرتيز للتنمية العمرانية بي ار اي جروب (PRDC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348068&All=",
+      "ticker": "PRDC.CA"
+    },
+    {
+      "title": "جدوى للتنمية الصناعية (GDWA.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348064&All=",
+      "ticker": "GDWA.CA"
     }
   ]
 }
