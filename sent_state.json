@@ -1,4 +1,75 @@
 {
   "date": "25/11/2026",
-  "sent_links": []
+  "sent_links": [
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348032&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348033&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348034&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348035&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348036&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348037&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348038&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348039&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348042&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348044&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348046&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348048&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348049&All="
+  ],
+  "significant_articles": [
+    {
+      "title": "المطورون العرب القابضة (ARAB.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348049&All=",
+      "ticker": "ARAB.CA"
+    },
+    {
+      "title": "المصرية للمنتجعات السياحية (EGTS.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348048&All=",
+      "ticker": "EGTS.CA"
+    },
+    {
+      "title": "العربية لاستصلاح الاراضي (EALR.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348046&All=",
+      "ticker": "EALR.CA"
+    },
+    {
+      "title": "جولدن بيراميدز بلازا (GPPL.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348044&All=",
+      "ticker": "GPPL.CA"
+    },
+    {
+      "title": "اجواء للصناعات الغذائية - مصر (AJWA.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348042&All=",
+      "ticker": "AJWA.CA"
+    },
+    {
+      "title": "ديجيتايز للاستثمار والتقنية (DGTZ.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348039&All=",
+      "ticker": "DGTZ.CA"
+    },
+    {
+      "title": "المصرية لنظم التعليم الحديثة (MOED.CA) تعلن نتائج أعمالها  عن الفترة من 01/07/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348038&All=",
+      "ticker": "MOED.CA"
+    },
+    {
+      "title": "الاولى للاستثمار والتنمية العقارية (FIRE.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348037&All=",
+      "ticker": "FIRE.CA"
+    },
+    {
+      "title": "بريميم هيلثكير جروب (PHGC.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348036&All=",
+      "ticker": "PHGC.CA"
+    },
+    {
+      "title": "بي اي دي - البدر للاستثمار والتنمية (BIDI.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348035&All=",
+      "ticker": "BIDI.CA"
+    },
+    {
+      "title": "رمكو لانشاء القرى السياحيه (RTVC.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348033&All=",
+      "ticker": "RTVC.CA"
+    }
+  ]
 }
