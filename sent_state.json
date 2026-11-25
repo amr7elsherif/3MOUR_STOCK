@@ -23,10 +23,16 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348051&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348052&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348053&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348054&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348055&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348056&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348057&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348058&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348059&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348060&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348061&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348061&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348062&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348063&All="
   ],
   "significant_articles": [
     {
@@ -103,6 +109,16 @@
       "title": "المالية و الصناعية المصرية (EFIC.CA) - تقرير الجهاز المركزي للمحاسبات",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348041&All=",
       "ticker": "EFIC.CA"
+    },
+    {
+      "title": "الجيزةالعامة للمقاولات والاستثمارالعقارى (GGCC.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348059&All=",
+      "ticker": "GGCC.CA"
+    },
+    {
+      "title": "الجيزةالعامة للمقاولات والاستثمارالعقارى (GGCC.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348055&All=",
+      "ticker": "GGCC.CA"
     }
   ]
 }
