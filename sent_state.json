@@ -9,11 +9,24 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348037&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348038&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348039&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348040&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348041&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348042&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348043&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348044&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348045&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348046&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348047&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348048&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348049&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348049&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348050&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348051&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348052&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348053&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348056&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348057&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348060&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348061&All="
   ],
   "significant_articles": [
     {
@@ -70,6 +83,26 @@
       "title": "رمكو لانشاء القرى السياحيه (RTVC.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348033&All=",
       "ticker": "RTVC.CA"
+    },
+    {
+      "title": "سي أي كابيتال القابضة للاستثمارات المالية (CICH.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348053&All=",
+      "ticker": "CICH.CA"
+    },
+    {
+      "title": "اطلس للاستثمار والصناعات الغذائية (AIFI.CA) قرار لجنة القيد بجلستها المنعقدة بتاريخ 24/11/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348051&All=",
+      "ticker": "AIFI.CA"
+    },
+    {
+      "title": "سي أي كابيتال القابضة للاستثمارات المالية (CICH.CA) تعلن نتائج أعمالها المستقلة  عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348045&All=",
+      "ticker": "CICH.CA"
+    },
+    {
+      "title": "المالية و الصناعية المصرية (EFIC.CA) - تقرير الجهاز المركزي للمحاسبات",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348041&All=",
+      "ticker": "EFIC.CA"
     }
   ]
 }
