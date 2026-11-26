@@ -6,7 +6,24 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348118&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348119&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348120&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348121&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348121&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348122&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348123&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348124&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348125&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348126&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348127&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348129&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348130&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348131&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348132&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348133&All="
   ],
-  "significant_articles": []
+  "significant_articles": [
+    {
+      "title": "الملتقي العربي للاستثمارات (AMIA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348126&All=",
+      "ticker": "AMIA.CA"
+    }
+  ]
 }
