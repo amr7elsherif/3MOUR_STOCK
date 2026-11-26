@@ -32,7 +32,9 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348155&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348156&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348157&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348158&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348158&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348159&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348160&All="
   ],
   "significant_articles": [
     {
@@ -44,6 +46,11 @@
       "title": "الاسكندرية للزيوت المعدنية (AMOC.CA) - تقرير الجهاز المركزى للمحاسبات عن القوائم المالية المستقلة والمجمعة عن الفترة المالية المنتهية فى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348149&All=",
       "ticker": "AMOC.CA"
+    },
+    {
+      "title": "المهندس للتأمين (MOIN.CA) مرفق القوائم المالية المجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348159&All=",
+      "ticker": "MOIN.CA"
     }
   ]
 }
