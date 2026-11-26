@@ -23,13 +23,21 @@
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348136&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348137&All=",
     "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348138&All=",
-    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348139&All="
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348139&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348146&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348148&All=",
+    "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348149&All="
   ],
   "significant_articles": [
     {
       "title": "الملتقي العربي للاستثمارات (AMIA.CA) تعلن نتائج أعمالها المجمعة عن الفترة: من 01/01/2026 إلى 30/09/2026",
       "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348126&All=",
       "ticker": "AMIA.CA"
+    },
+    {
+      "title": "الاسكندرية للزيوت المعدنية (AMOC.CA) - تقرير الجهاز المركزى للمحاسبات عن القوائم المالية المستقلة والمجمعة عن الفترة المالية المنتهية فى 30/09/2026",
+      "link": "https://www.egx.com.eg/ar/BulletinNews.aspx?BCODE=348149&All=",
+      "ticker": "AMOC.CA"
     }
   ]
 }
